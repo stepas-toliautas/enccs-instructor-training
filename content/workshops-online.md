@@ -8,13 +8,13 @@
 # Running online workshops
 
 ```{questions}
-  - What are the steps for organizing a CodeRefinery workshop?
+  - What are the steps for organizing an ENCCS workshop?
   - What can I learn about running my own workshop?
   - What have we learned from running large online workshops?
 ```
 
 ```{objectives}
-- Learn how to use the manuals to organize and teach a workshop.
+- Become comfortable in organising large online workshops
 ```
 
 ## Online teaching discussion
@@ -39,8 +39,7 @@ Write down your thoughts in the notes:
 - Communicate with registered participants
 
 
-
-## ENCCS online scaling strategy
+## Online workshop approach
 
 ### Basic preparation
 
@@ -105,13 +104,6 @@ all of these, so it works well.
 - HackMD helper
   - Dedicated to watching HackMD and answering questions quickly.
   - [Host on manuals](https://coderefinery.github.io/manuals/host/)
-- Expert helpers
-  - "Spare hands" who rotate between breakout rooms and make sure
-    helpers are doing well.
-  - Give feedback to instructor about how breakout rooms are going.
-  - Take the place of missing helpers.
-  - Easy way for any people with a bit of spare time to help out.
-  - [Expert helpers in workshop](https://coderefinery.github.io/manuals/expert-helpers/)
 - Instructors
   - Teach, they shouldn't overlap with the above roles (but serve as
     expert helpers other times).
@@ -129,7 +121,7 @@ all of these, so it works well.
   document does.
 - HackMD can just about scale to ~100 person workshop.  Recommend
   learners keep it in view mode while not editing.
-- Voice questions are still allowed, but will be recorded.  Staff
+- Voice questions are still allowed, but might be recorded.  Staff
   raise important questions from HackMD to the instructor immediately.
 - HackMD also allows communication when in breakout rooms.
 - You can get multiple answers, and answers can be improved over
@@ -139,42 +131,13 @@ all of these, so it works well.
   and [HackMD
   helpers](https://coderefinery.github.io/manuals/hackmd-helper/).
 
-### Recording and streaming
-
-- When you have 100 people, main room is quiet anyway: you don't lose
-  much by recording.
-  - Questions anonymously in HackMD, privacy loss is not so bad
-- Breakout rooms are never recorded
-- Streaming
-  - We streamed via Twitch: https://twitch.tv/coderefinery
-  - We typically get 5-40 viewers.
-  - Zoom can directly send the stream to Twitch: no extra software
-    needed.
-  - Twitch archives videos for 14 days, which allows learners to get
-    an instant reply (we get hundreds of views in the next days).
-  - So while possibly not useful for new people to learn, the instant
-    reply *is* very useful.  Instructor can also work on problems in
-    main stream during breakout rooms, which learners can watch
-    later.
-  - Streamers also have access to HackMD to ask questions.
-- Certain tricks needed to keep learners from appearing in recording
-  or stream
-  - "Spotlight video", host does not go to gallery view, uses dual
-    monitor mode.  We are still figuring this out.
-
 ### Installation time
 
 - People *have* to be ready once we start, or else everything fails.
-- Two installation help times the week before.
+- Consider having installation help times the week before.
 - Every email emphasizes that you have to be prepared, and "requires"
   you to attend workshops (but really it's only)
 - Installation instructions include *steps to verify*
-- Installation instructions also include *video demonstrations* of
-  installation and verification.
-- We haven't had that many installation problems, but also we keep the
-  requirements simple.
-- Helper introduction is right before software install time, so
-  helpers can stay and help with install if they want.
 - *Design to be easy to install and get set up.*
 
 ### Other notes
@@ -185,27 +148,8 @@ all of these, so it works well.
 - Keep HackMD updated as a log.
 - Don't combine breaks and breakout times.
 - The more people you have, the more diverse audience you have and the
-  more people overwhelmed and under whelmed.
+  more people overwhelmed and underwhelmed.
 
-
-
-## Workshop collaborations
-
-Why limit ourselves to CodeRefinery workshop?  Why not use our network
-and techniquess for more
-
-- Case study: [Python for Scientific
-  Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
-  - Started by Aalto
-  - Announced to CodeRefinery, five more instructors from three
-    countries joined.
-  - Rapid collaboration, taught course shortly later.
-  - Announced to all institutions.  Some places had physical rooms,
-    some were pure online
-  - Also streamed
-  - It was much more fun and less stressful to work together
-
-- We want to continue this kind of collaboration in other workshops.
 
 ### See also
 
