@@ -39,7 +39,7 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
    preparation.md
    welcome.md
    about-enccs.md
-   teaching-philosophies.md
+   enccs-lessons.md
    teaching-style.md
    workshops-online.md
    lesson-design.md
