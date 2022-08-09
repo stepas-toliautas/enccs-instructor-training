@@ -4,10 +4,10 @@
 ```   
 
 ```{questions}
-- What pedagogical concepts underpin CodeRefinery and Carpentry workshops?
-- How to get and give feedback?
-- Who are the CodeRefinery learners?
-- Why is it important to define learning objectives?
+  - What pedagogical concepts underpin CodeRefinery and Carpentry workshops?
+  - How to get and give feedback?
+  - Who are the CodeRefinery learners?
+  - Why is it important to define learning objectives?
 ```
 
 ```{objectives}
@@ -20,10 +20,23 @@ kypints
 
 # Interactive teaching style
 
+```{challenge} Ice-breaker in groups (20 minutes)
+- Share your approach to teaching and your teaching philosophy with your group.
+- Please share your tricks and solutions in the live document for others.
+Additional ice-breaker questions:
+- What is your motivation for taking this training?
+- How structured or informal are your own teaching needs?
+- What difference do you notice between the teaching what we (also
+  CodeRefinery/Carpentries) do and traditional academic teaching?
+- What other skills need to be taught, but academic teaching isn't the right setting?
+```
 
-## What are the top issues new instructors face?
+````{challenge} What are the top issues new instructors face? (10 minutes)
 
-```{solution} 
+Brainstorm about what issues new teachers/instructors often face.
+Write down your thoughts in the shared document.
+ 
+```{solution} Some suggestions
  -  Breaks are not negotiable, minimum 10 minutes.
  -  Breakout sessions too short. Make them as long as possible, don't expect to come back for 
     new intro, then go back.
@@ -40,18 +53,18 @@ kypints
  -  Not managing expectations: learners think that you will accomplish everything, and feel sad when you don't.
  -  Special issues when lessons delivered online (discussed during Workshop preparation and organization)
 ```
+````
 
-
-# The Carpentries and CodeRefinery approaches to teaching
+## The Carpentries approach to teaching
 
 Here we will give you a very short overview of the Carpentries approach to teaching and highlight
-parts that are most important for teaching CodeRefinery style lessons.
+parts that are most important for teaching ENCCS style lessons.
 
-Most CodeRefinery instructors have completed the
+Most ENCCS instructors have completed the
 [Carpentry instructor training workshop](https://carpentries.github.io/instructor-training/), which
 [anyone can apply for](https://carpentries.org/become-instructor/) 
 
-> ## This material
+> ### This material
 >
 > This section is derived from the
 > [Carpentries instructor training material](https://carpentries.github.io/instructor-training/).
@@ -61,7 +74,7 @@ Most CodeRefinery instructors have completed the
 
 ---
 
-## Key principles
+### Key principles
 
 The "Carpentries" approach to teaching is based on:
 
@@ -70,7 +83,7 @@ The "Carpentries" approach to teaching is based on:
 - Understanding the importance of a respectful and inclusive classroom environment.
 
 
-### Carpentries teaching principles
+#### Carpentries teaching principles
 
 - Learners need to practice what they are learning in real time and get **feedback** on what they
   are doing. That is why the teaching approach relies on **live coding**.
@@ -83,7 +96,7 @@ The "Carpentries" approach to teaching is based on:
 
 ![What to Teach](https://carpentries.github.io/instructor-training/fig/what-to-teach.png)
 
-In CodeRefinery, we follow The Carpentries teaching principles but in addition to **live coding** 
+In ENCCS, we follow The Carpentries teaching principles but in addition to **live coding** 
 we often use **group discussions** to put in context the concepts we are teaching.
 
 Applying these teaching principles are not sufficient and in addition we need to be able to check
@@ -91,13 +104,13 @@ the effectiveness of our methods.
 
 ---
 
-## On the importance of feedback
+### On the importance of feedback
 
 Feedback is an essential part of effective learning. Feedback is bi-directional:
 - To be effective, instructors need feedback on their learners' progress. Learners can also check their progress and ask relevant questions to get clarification.
 - Instructors also need feedback on their teaching. For instance, this can help them to adapt the pace, add/skip optional exercises and improve their teaching.
 
-### Getting/giving feedback on learners' progress
+#### Getting/giving feedback on learners' progress
 
 This feedback comes through what is called *formative assessments* (in contrast
   to *summative assessment*).
@@ -130,18 +143,12 @@ Formative assessment is most useful when it happens frequently (we'll talk about
 and when the results are easily interpretable by the learner and instructor.
 
 
-CodeRefinery uses different instruments to get feedback from learners:
+ENCCS uses different instruments to get feedback from learners:
 
-- Surveys: we will discuss about CodeRefinery pre/post-surveys in the episode
-  {doc}`workshops-online`.
-- Exercises: we have many exercises during CodeRefinery workshops and use polls too but not necessarily many multiple-choice questions. 
-  This is something that we may change in the future but the initial reason was that we build on existing knowledge 
-  (see below section on our target audience) and give recommendations for best software practices:
-  there is no unique solution and you would like our learners to choose the approach that is most suitable for them.
-  For the same reasons, we have many optional exercises to accommodate the different levels. 
-  We would like everyone to get something useful out of the CodeRefinery workshops.
+- Surveys: we will discuss ENCCS surveys in the episode {doc}`workshops-online`.
+- Exercises: we have many exercises during ENCCS workshops and use polls too to keep participants engaged and to obtain quick feedback on participants' progress. To accommodate more advanced learners we try to have many optional exercises. 
 
-### Getting/giving feedback on teaching
+#### Getting/giving feedback on teaching
 
 Teaching is a skill. One of the objective of the CodeRefinery Instructor training is to give you 
 the confidence in teaching CodeRefinery lessons. Later we will have group work where we will 
@@ -150,7 +157,7 @@ practice teaching some lessons.
 Before doing so, we will learn here to give feedback on teaching using the same 
 positive-vs-negative and content-vs-presentation rubric.
 
-> ## Give feedback on teaching (optional, 10 mn)
+> ## Give feedback on teaching (optional, 10 min)
 > This exercise aims at learning to give feedback. It is optional as we have 
 > similar exercises when {doc}`practising teaching <teaching-practice>`).
 > As a group, we will watch [this video of teaching](https://www.youtube.com/watch?v=-ApVt04rB4U) and
@@ -164,7 +171,7 @@ positive-vs-negative and content-vs-presentation rubric.
 
 ---
 
-## Who are the learners
+### Who are the learners
 
 The first task in teaching is to figure out who your learners are. The Carpentries approach is 
 based on the work of researchers like [Patricia Benner](https://en.wikipedia.org/wiki/Patricia_Benner), 
@@ -176,7 +183,7 @@ in her studies of
 This work indicates that through practice and formal instruction, learners acquire skills and advance
 through distinct stages. In simplified form, the three stages of this model are:
 
-### Novices, competent practitioners and experts
+#### Novices, competent practitioners and experts
 
 ![Novice, Competent Practitioner, Expert](https://carpentries.github.io/instructor-training/fig/skill-level.svg)
 
@@ -203,7 +210,7 @@ through distinct stages. In simplified form, the three stages of this model are:
        they might not understand how they can fit these programs together to build scripts
        and automate large tasks.
     
-    -  Example: A *competent practitioner* in a CodeRefinery workshop is someone that understands
+    -  Example: A *competent practitioner* in an ENCCS workshop is someone that understands
        the concepts of best software practices and its importance. He/she clearly sees the
        benefits of applying best software practices but he/she does not fully know yet how and
        what to use for their own projects.
@@ -224,7 +231,7 @@ through distinct stages. In simplified form, the three stages of this model are:
        get help. 
 
 
-### Cognitive Development and Mental Models
+#### Cognitive Development and Mental Models
 
 Effective learning is facilitated by the creation of a well-founded mental model. A mental model
 is a collection of concepts and facts, along with the relationships between those concepts, which 
@@ -253,7 +260,7 @@ in HPC training events.
 
 ---
 
-### How “knowledge” gets in the way
+#### How “knowledge” gets in the way
 
 Mental models are hardly ever built from scratch. Every learner comes to a topic with
 some amount of information, ideas and opinions about the topic. This is true even in
@@ -292,7 +299,7 @@ important to get accurate feedback, before and during the workshops to understan
 
 ---
 
-## CodeRefinery Curriculum and Reverse Instructional Design (with recommendations for HPC carpentries)
+### ENCCS Curriculum and Reverse Instructional Design (with recommendations for HPC carpentries)
 
 When writing a CodeRefinery lesson, we take a “reverse” approach to instruction, 
 as described in Wiggins and McTighe’s 
@@ -305,7 +312,7 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 - Design instruction: Sort assessments in order of increasing complexity, 
   and write content that connects everything together
 
-### Working with learning objectives
+#### Working with learning objectives
 
 Each CodeRefinery lesson (also the HPC capentries lessons) usually has a *learning objectives* section.
 Good learning objectives are quite specific about the intended effect of a lesson on its learners.
@@ -313,7 +320,7 @@ We aim to create learning objectives that are specific, accurate, and informativ
 both learners and instructors.
 
 
-### Using Bloom's Taxonomy to write effective learning objectives
+#### Using Bloom's Taxonomy to write effective learning objectives
 
 [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, hierarchical steps.
 While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
@@ -326,7 +333,7 @@ guiding them to look ahead to where we might not be able to take them.
 
 Image credit: Vanderbilt University Center for Teaching
 
-### Revisiting Learning objectives
+#### Revisiting Learning objectives
 
 When using existing teaching material, *reverse instructional design*  principles might be applied as
 follows:
