@@ -1,8 +1,8 @@
-# Lesson design
+# Lesson development
 
 ```{questions}
 - Are there any pedagogical best practices in developing lesson material?
-- What tools and methods can be used to collaboratively develop public lessons?
+- What tools and methods can be used to collaboratively develop training material?
 ```
 
 ## Backwards lesson design
@@ -20,11 +20,30 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 
 ### Working with learning objectives
 
-Each ENCCS lesson (also the HPC capentries lessons) usually has a *learning objectives* section.
+Each ENCCS lesson (also the HPC Carpentry lesson used as an example below) 
+usually has a *learning objectives* section.
 Good learning objectives are quite specific about the intended effect of a lesson on its learners.
 We aim to create learning objectives that are specific, accurate, and informative for 
 both learners and instructors.
 
+In practice, it's best to start defining your target audience by answering to questions
+such as:
+- **What is the expected educational level of my audience?** 
+- **Have they been already exposed to the technologies I am planning to teach?** 
+- **What tools do they already use?** 
+- **What are the main issues they are currently experiencing?**. 
+
+Once you clarified your target audience, it is useful to create
+**learner personas**; that will help you during the development process by
+providing concrete examples of potential learners showing up at your
+workshops. For each **learner personas**, try to think of what is **useful to
+them**: What do they **need** to remember/understand/apply/analyze/evaluate/create (see Bloom's taxonomy below).
+Asking and answering to these questions will allow you to define the
+background knowledge (starting points) and goals (end points) of your
+learners.  Then, you create a sequence of exercises which test incrementally
+progressing tasks and acquisition of the new skills (from starting to end
+points).
+- Then, you write the minimum amount of material to teach the gap between exercises.
 
 ### Using Bloom's Taxonomy to write effective learning objectives
 
@@ -41,20 +60,16 @@ Image credit: Vanderbilt University Center for Teaching
 
 ### Revisiting Learning objectives
 
-When using existing teaching material, *reverse instructional design*  principles might be applied as
+When using existing teaching material, *backwards design*  principles might be applied as
 follows:
 
 1. Review the lesson's learning objectives carefully, thinking about how they will work for your audience
 2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met
 3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
 
-
 We strongly encourage you to read them before teaching a lesson and to review whether they still match the content of the lesson: 
 
-
-## How do you design?
-
-```{discussion}
+```{challenge} How do you design?
 Discuss either in groups or via collaborative document:
 - How do you start when you design a new lesson/presentation?
 - Has your approach changed over the years? If yes, how?
@@ -62,57 +77,45 @@ Discuss either in groups or via collaborative document:
 
 ---
 
-## Backwards lesson design
-
-### The approach
-
-- You don't think about how to do something and try to explain it.
-- Avoid the typical approach *"I want to show a number of things which I think are cool about
-  tool X - how do I press these into 90 minutes?"*
-- Instead, you start defining your target audience by answering to questions
-  such **What is the expected educational level of my audience?**, **Have they
-  been already exposed to the technologies I am planning to teach?**, **What
-  tools do they already use?**, **What are the main issues they are currently
-  experiencing?**. It is important to discuss these points with a group of
-  colleagues, preferably from diverse backgrounds and institutions to reduce
-  biases. Once you clarified your target audience, it is useful to create
-  **learner personas**; that will help you during the development process by
-  providing concrete examples of potential learners showing up at your
-  workshops. For each **learner personas**, try to think of what is **useful to
-  them**: *"What do they **need** to
-  [remember/understand/apply/analyze/evaluate/create](https://coderefinery.github.io/instructor-training/03-teaching-style/#using-bloom-s-taxonomy-to-write-effective-learning-objectives)?"*.
-  Asking and answering to these questions will allow you to define the
-  background knowledge (starting points) and goals (end points) of your
-  learners.  Then, you create a sequence of exercises which test incrementally
-  progressing tasks and acquisition of the new skills (from starting to end
-  points).
-- Then, you write the minimum amount
-  of material to teach the gap between exercises.
-
-### The process
-
-For the whole process, see [our
-manual](https://coderefinery.github.io/manuals/lesson-design/#backwards-lesson-design)
-(instructor discusses these points briefly).
-
-
-### Why is it good to have a process?:
-
-- Having a semi-rigid design process can **save time** to start drafting.
-- It allows collaborative development of teaching material.
-- It will probably **increase quality and relevance** of lessons for learners.
-- **We aren't perfect yet.**  CodeRefinery is still striving to get
-  better at this, and we are more ad-hoc than you might think.
-  A number of our lessons have not been designed this way but we are now improving
-  these lessons with the backwards lesson design in mind.
-
-
-### Designing exercises
-
+## Designing exercises
 
 The goal of exercises is twofold:
 - instructors can assess the progress of learners.
 - learners put in practice the skills that you have included in your skills list.
+
+Here are some suggestions to keep in mind:
+- Not every exercise has to be an amazing hand-on example. Mixing with smaller, more conceptual things can reduce cognitive load.
+- Try to make your exercises relevant. Abstract will lead to disconnection. Connect the exercises to the real world.
+- Create also more advanced exercises which can be optional for more advanced learners. This can go a long way to meet the needs of participants with a wide range of background knowledge. 
+
+Good exercises are the most important factor in a good lesson. Even if you are preparing the rest of the lesson mostly alone, consider a good long brainstorming session to go from “list of topics to cover” to “sequence of exercises”.
+
+When you are stuck thinking “how can I make an exercise that covers X”, think of the lists below inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use different types:
+
+Basic types:
+
+- Multiple choice (easy to get feedback via a classroom tool - try to design each wrong answer so that it identifies a specific misconception).
+- Code yourself (traditional programming)
+- Code yourself + multiple choice to see what the answer is (allows you to get feedback)
+- Inverted coding (given code, have to debug)
+- Parsons problems (working solution but lines in random order, learner must only put in proper order)
+- Fill in the blank
+
+More advanced:
+
+- Tracing execution
+- Tracing values through code flow (e.g. what is the sequence of values that x takes on?)
+- Reverse execution (find input that gives an output)
+- Minimal fix (given broken code, make it work)
+- Theme and variations (working code, adapt to other type of situation/problem)
+- Refactoring
+
+More conceptual:
+
+- Draw a diagram
+- Label diagram
+- Matching problem: two sets of Q/A, match them.
+
 
 When designing exercises, consider that some participants will get stuck
 and may want to re-join at a later exercise. In other words it is nice
@@ -239,42 +242,17 @@ material accessible)?  What difficulties are there?
 
 ### Lesson templates for static sites
 
-- [Jekyll](https://jekyllrb.com/)-based
-  - Example: [Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
-  - [Lesson template](https://github.com/coderefinery/example-lesson)
-  - Common styling implemented as Git submodule: [jekyll-common](https://github.com/coderefinery/jekyll-common)
-  - Based on a past version of the [Carpentries lesson style](https://github.com/carpentries/styles/)
-  - A new Carpentries lesson template is in the works
+Why static sites?
+- Decentralized (in terms of organization/namespace)
+- Forkable
+- Anybody can suggest changes
+
 - [Sphinx](https://www.sphinx-doc.org)-based
   - Example: this lesson
   - Starting point: [sphinx-lesson](https://github.com/coderefinery/sphinx-lesson)
   - [Documentation](https://coderefinery.github.io/sphinx-lesson/)
 - Templates can be freely re-used
 
-Why static sites?
-- Decentralized (in terms of organization/namespace)
-- Forkable
-- Anybody can suggest changes
-
----
-
-### Creating new teaching material
-
-Creating new teaching material is a longer process, because you should
-go through the whole
-[backwards lesson design process](/lesson-design/)
-and get extensive comments.
-Still, don't feel afraid: nothing is perfect (or even good)
-the first time. In fact, **it may be an advantage to share an imperfect
-lesson with others early** to collect feedback and suggestions before the lesson
-"solidifies" too much. Draft it and collect feedback. The result will probably
-be better than working in isolation towards a "perfect" lesson.
-
-```{discussion}
-How can we share unfinished work/ideas?
-- Draft pull requests (GitHub) or WIP (work in progress) merge requests (GitLab).
-- Open an issue and discuss your idea before implementing it.
-```
 
 ---
 
@@ -328,3 +306,7 @@ checklist and discuss it, instead of duplicating things here.
 - [Teaching Tech Together](http://teachtogether.tech/)
 - Our [summary](https://coderefinery.github.io/manuals/teaching-tech-together/) of "Teaching Tech Together"
 - [Ten quick tips for creating an effective lesson](https://doi.org/10.1371/journal.pcbi.1006915)
+
+```{keypoints}
+- Having a semi-rigid lesson design process can **save time** to start drafting and will probably **increase quality and relevance** of the lessons 
+```
