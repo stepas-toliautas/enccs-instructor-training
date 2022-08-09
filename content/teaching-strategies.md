@@ -3,11 +3,8 @@
 ```{objectives}
 - Understand the benefits and disadvantage of online teaching,
   compared to in-person
-
 - Set up a good screen share
-
 - Understand the benefits and disadvantages of team teaching
-
 - Prepare for the teaching practice
 ```
 
@@ -26,9 +23,7 @@
   out of time.
 
 
-
-
-## Shell sharing
+### Shell sharing
 
 ```{discussion} Discussion: what goes into a good shell share or demonstration?
 
@@ -66,8 +61,7 @@ will use this in the teaching practice.
 ```
 
 
-
-## Screen sharing
+### Screen sharing
 
 `````{discussion}
 
@@ -116,7 +110,7 @@ Vertical sharing:
 
 
 
-## Meta-talk
+### Meta-talk
 
 Don't just teach, also make sure you guide the learners through the
 course.
@@ -135,41 +129,70 @@ course.
     advanced and optional?  Make that clear.
 
 
+## Team teaching
 
-## Teach teaching
+Demonstration-based teaching require two different types of focus:
+- Doing the mechanical steps as a demonstration
+- Explaining why you are doing it
 
-- Demonstration-based teaching require two different types of focus:
-  - Doing the mechanical steps as a demonstration
-  - Explaining why you are doing it
-- This is a lot for one person to keep in mind, so can multiple people
-  work together for this?
-- Team teaching idea:
-  - One person is doing the demonstrations
-  - One person is giving the commentary about what they are doing
-  - The lecture becomes a discussion between two people instead.
+This is a lot for one person to keep in mind, so can multiple people
+work together for this? Team teaching idea:
+- One person is doing the demonstrations
+- One person is giving the commentary about what they are doing
+- The lecture becomes a discussion between two people instead.
+
+.. admonition:: Co-teaching
+
+   Wikipedia: Co-teaching or team teaching is the division of labor
+   between educators to plan, organize, instruct and make assessments
+   on the same group of students, generally in the a common
+   classroom,[1] and often with a strong focus on those teaching as a
+   team complementing one another's particular skills or other
+   strengths.
 
 Advantages:
-- This reduces the pressure on each person (reduces demo effect)
-- You are less likely to forget things
-- It slows you down in teaching
-- It makes the lesson more interesting to listen to
-- One person can follow questions
-- Great for introducing new instructors (which half is easier to start
-  with?)
+- The course seems very interactive, much more so than expecting
+  students to speak up.  The co-teacher can take on the "voice of the
+  audience".
+- Quicker preparation time since co-teachers can rely on each other in
+  unexpected situations.
+- One co-teacher can be effectively learning at the same time and thus
+  acting as the "voice of the audience" in another way.
+- Great way to onboard new instructors - extensive training and
+  preparation no longer needed.
+- More active minds means better able to watch and react to other
+  feedback, such as HackMD or chat.
+- Less workload - one person does not have to prepare perfectly, any
+  uncertainty can usually be quickly answered by the other.
+
 
 Disadvantage:
 - Requires two people's time
 - Requires coordination when preparing (slows you down in preparation)
 - Unfamiliar concept to most people
 
+### Strategies
 
+In reality, these strategies are mixed and matched even within a
+lesson, and there are many things between these:
+
+- One person gives lectures, one does the typing during demos.
+- "Interview": One primarily doing the "teaching", one guiding by
+  asking questions - either as an interviewer or as a virtual learner.
+
+Things that don't work (are not team teaching):
+
+- Dividing up a lesson into parts, each person gives different parts
+  independently.
+
+---
 
 ## Questions
 
 - Questions are great, and important for any practical and interactive
   class
 - But questions in main room doesn't scale to very large rooms.
-- CodeRefinery strategy: HackMD for questions
+- ENCCS strategy: HackMD for questions
   - Chat is not good enough, you can't reply to old things
   - HackMD allows threaded replies and follow up later
   - You need some other helpers to watch HackMD and answer, and bring
@@ -179,42 +202,17 @@ Disadvantage:
   - Disadvantage: can produce information overload, warn people to not
     follow too closely
   - With too few people, it can turn out to be very quiet.
-- We will learn more about HackMD questions tomorrow in
-  {doc}`workshops-online`.
-
-```{seealso}
-* {doc}`workshops-online`
-* [HackMD
-mechanics](https://coderefinery.github.io/manuals/hackmd-mechanics/)
-and [HackMD
-helpers](https://coderefinery.github.io/manuals/hackmd-helper/) on
-CodeRefinery manulas.
-```
-
-
-
-## Teaching practice
-
-In {doc}`teaching-practice`, you will break into groups and try to
-apply these strategies to a five-minute example session.
 
 
 
 ## See also
 
-In this lesson:
-
-* {doc}`workshops-online`
-
-CodeRefinery manuals:
-
-* [Instructor tech
-  setup](https://coderefinery.github.io/manuals/instructor-tech-setup/)
-* [Lesson preparation
-  hints](https://coderefinery.github.io/manuals/presenting/) (more
-  focused on in-person)
-* [Instructor
-  introduction](https://coderefinery.github.io/manuals/presenting/) -
+- [Instructor tech setup](https://coderefinery.github.io/manuals/instructor-tech-setup/)
+- [Lesson preparation hints](https://coderefinery.github.io/manuals/presenting/) (more focused on in-person)
+- [Instructor introduction](https://coderefinery.github.io/manuals/presenting/) -
   has a lot of tips for new instructors, but also more things about
   the workshop.
-* [Workshop prep call](https://coderefinery.github.io/manuals/workshop-prep-call/)
+- [HackMD mechanics](https://coderefinery.github.io/manuals/hackmd-mechanics/) and [HackMD helpers](https://coderefinery.github.io/manuals/hackmd-helper/).  
+- [Workshop prep call](https://coderefinery.github.io/manuals/workshop-prep-call/)
+- [Team teaching](https://coderefinery.github.io/manuals/team-teaching/)
+
