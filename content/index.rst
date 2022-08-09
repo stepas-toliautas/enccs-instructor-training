@@ -46,9 +46,6 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
    teaching-strategies.md
    exercises.md
 
-coderefinery-workshops.md
-
-
 .. toctree::
    :maxdepth: 1
    :caption: Reference
