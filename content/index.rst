@@ -41,11 +41,10 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
    about-enccs.md
    enccs-lessons.md
    teaching-style.md
-   workshops-online.md
    lesson-development.md
-   teaching-strategies
-   teaching-practice.md
-   future.md
+   workshops-online.md
+   teaching-strategies.md
+   exercises.md
 
 coderefinery-workshops.md
 

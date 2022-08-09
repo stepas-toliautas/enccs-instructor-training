@@ -1,6 +1,6 @@
-# Teaching practice and feedback
+# Practice teaching and giving feedback
 
-Goals of the teaching practice:
+Goals of this teaching practice:
 
 - In groups of 4-5 persons we will practice teaching a **5-minute segment
   of a lesson of your choice**.
@@ -14,16 +14,7 @@ Goals of the teaching practice:
 
 ---
 
-## Instructor demo
-
-- In order to demonstrate the goals of this section, the instructor
-  will make a 5-minute demo for your evaluation.
-- It is designed to include some good and bad practices for you to
-  notice.
-
----
-
-## Teaching demos part 1
+## Teaching demos 
 
 In group rooms, 50 minutes.
 
@@ -37,31 +28,9 @@ In group rooms, 50 minutes.
   share with others.
 ```
 
-## Teaching demos, part 2
-
-In group rooms, 50 minutes.
-
-```{challenge}
-- In the second round we distribute the rooms differently so that you can
-  present it to a **new group of workshop participants** and can receive new
-  feedback.
-- Ask for feedback and one/few point(s) you want to improve.
-- In your second trial check whether you feel the demonstration improved.
-- Share your lessons learned in the collaborative document.
-- Give us also feedback on this exercise format. Was it useful? What can we improve?
-```
-
 ---
 
-## Discussion
-
-```{discussion} Main room discussion
- - We discuss questions and conclusions which came up during the group work session.
-```
-
----
-
-## Optional: feedback for two live-coding examples
+## Feedback for two live-coding examples
 
 ```{challenge}
 Teaching by live coding is a
@@ -73,4 +42,12 @@ Watch closely since we will be giving feedback!
   [video 2](https://youtu.be/SkPmwe_WjeY)
 - What was better in video 1 and what was better in video 2?
 - Please give feedback in the shared workshop document.
+```
+
+---
+
+## Discussion
+
+```{discussion} Main room discussion
+ - We discuss questions and conclusions which came up during the group work session.
 ```
