@@ -85,3 +85,27 @@ of machine learning or deep learning methods.
 > (e.g. by using version control and testing in code examples), so that participants indirectly 
 > become acquainted with such practices.
 {: .callout}
+
+
+---
+
+## Overview of the lessons and a typical workshop
+
+Here the instructor gives an overview of the lessons and a typical workshop.
+
+---
+
+```{discussion} What we do differently?
+- Planning, teaching material available in advance and not PDF slides
+- Different roles (instructor, host, hackmd, ...)
+- GitHub projects board so all boxes are checked
+- Helper recruitment and breakout room planning
+    - Designing for this as soon as you open registration
+- Less is more
+- Clearly defining learning outcomes
+- Asking for feedback, encouraging feedback
+- Screen-sharing
+- Using lesson templates
+- Lesson review on GitHub
+- Sharing material instead of being protective
+```

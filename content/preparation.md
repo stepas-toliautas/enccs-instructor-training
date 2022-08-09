@@ -1,17 +1,14 @@
 
 ```{instructor-note}
-   - 30 min exercises
+   - 30 min homework
 ```   
 
 ```{questions}
-- What should I do before the CodeRefinery instructor training workshop?
-- How long is the preparation work?
-- Do I need to be Carpentries instructor to attend this workshop?
+- What should I do before the ENCCS instructor training workshop?
 ```
 
 
 # Pre-workshop preparation
-
 
 These things will help you get the most out of this workshop, by
 giving you a broad overview at the beginning that you might only get
