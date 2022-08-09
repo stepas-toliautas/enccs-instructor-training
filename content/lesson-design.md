@@ -1,14 +1,56 @@
 # Lesson design
 
-```{prereq} Recommended reading
-- CodeRefinery [lesson-design](https://coderefinery.github.io/manuals/lesson-design/) manual
-- [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org)
-- [Teaching Tech Together](http://teachtogether.tech/)
-- Our [summary](https://coderefinery.github.io/manuals/teaching-tech-together/) of "Teaching Tech Together"
-- [Ten quick tips for creating an effective lesson](https://doi.org/10.1371/journal.pcbi.1006915)
+```{questions}
+- Are there any pedagogical best practices in developing lesson material?
+- What tools and methods can be used to collaboratively develop public lessons?
 ```
 
----
+## Backwards lesson design
+
+When writing an ENCCS lesson, we take a “reverse” approach to instruction, 
+as described in Wiggins and McTighe’s 
+[Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025),
+that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes
+
+- Determine your learning objectives
+- Decide what constitutes evidence that objectives have been met, and design assessments 
+  to target that evidence
+- Design instruction: Sort assessments in order of increasing complexity, 
+  and write content that connects everything together
+
+### Working with learning objectives
+
+Each ENCCS lesson (also the HPC capentries lessons) usually has a *learning objectives* section.
+Good learning objectives are quite specific about the intended effect of a lesson on its learners.
+We aim to create learning objectives that are specific, accurate, and informative for 
+both learners and instructors.
+
+
+### Using Bloom's Taxonomy to write effective learning objectives
+
+[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, hierarchical steps.
+While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
+hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy cannot be achieved without mastery of outcomes at
+the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
+need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and
+guiding them to look ahead to where we might not be able to take them.
+
+![Bloom's Taxonomy](https://carpentries.github.io/instructor-training/fig/Blooms.png)
+
+Image credit: Vanderbilt University Center for Teaching
+
+### Revisiting Learning objectives
+
+When using existing teaching material, *reverse instructional design*  principles might be applied as
+follows:
+
+1. Review the lesson's learning objectives carefully, thinking about how they will work for your audience
+2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met
+3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
+
+
+We strongly encourage you to read them before teaching a lesson and to review whether they still match the content of the lesson: 
+
 
 ## How do you design?
 
@@ -181,3 +223,108 @@ Discussion (15 minutes):
 - How does this approach compare to other lessons or courses you have designed?
 - We read, compare, and discuss our notes.
 ```
+
+## Collaborative lesson development
+
+This session focuses on **organizational** and **technical aspects**
+of collaborative lesson development.
+
+```{discussion}
+This session is about **collaborative** lesson development. What advantages do
+you see in developing lessons collaboratively and sharing lessons (making
+material accessible)?  What difficulties are there?
+```
+
+---
+
+### Lesson templates for static sites
+
+- [Jekyll](https://jekyllrb.com/)-based
+  - Example: [Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
+  - [Lesson template](https://github.com/coderefinery/example-lesson)
+  - Common styling implemented as Git submodule: [jekyll-common](https://github.com/coderefinery/jekyll-common)
+  - Based on a past version of the [Carpentries lesson style](https://github.com/carpentries/styles/)
+  - A new Carpentries lesson template is in the works
+- [Sphinx](https://www.sphinx-doc.org)-based
+  - Example: this lesson
+  - Starting point: [sphinx-lesson](https://github.com/coderefinery/sphinx-lesson)
+  - [Documentation](https://coderefinery.github.io/sphinx-lesson/)
+- Templates can be freely re-used
+
+Why static sites?
+- Decentralized (in terms of organization/namespace)
+- Forkable
+- Anybody can suggest changes
+
+---
+
+### Creating new teaching material
+
+Creating new teaching material is a longer process, because you should
+go through the whole
+[backwards lesson design process](/lesson-design/)
+and get extensive comments.
+Still, don't feel afraid: nothing is perfect (or even good)
+the first time. In fact, **it may be an advantage to share an imperfect
+lesson with others early** to collect feedback and suggestions before the lesson
+"solidifies" too much. Draft it and collect feedback. The result will probably
+be better than working in isolation towards a "perfect" lesson.
+
+```{discussion}
+How can we share unfinished work/ideas?
+- Draft pull requests (GitHub) or WIP (work in progress) merge requests (GitLab).
+- Open an issue and discuss your idea before implementing it.
+```
+
+---
+
+### Contributing to existing lessons
+
+Our lessons are **collaboratively developed**.  They are made by many
+people, and there is no single fixed master plan (but there should be,
+in the instructors or maintainer's guide).  We encourage
+everyone to contribute to the lessons.
+
+Lessons are reviewed very often - essentially, before each workshop by
+the instructor of that workshop.  This can be a quick review, looking
+at issues and fixing easy things, or more thorough.
+
+Every so often (such as at this training), there is an extensive
+hackathon period of fully revising a lesson and making major improvements.
+
+We've made the [lesson-review](https://coderefinery.github.io/manuals/lesson-review/) checklist
+to guide the review process.
+
+```{discussion}
+We now go to the
+[lesson-review](https://coderefinery.github.io/manuals/lesson-review/)
+checklist and discuss it, instead of duplicating things here.
+```
+
+---
+
+## Recommendations and lessons learned
+
+- Convert feedback about lessons and suggestions for improvements into *issues*
+  so that these don't get lost.
+- Make your lesson citable: get a DOI.
+- Credit contributors (not only Git commits).
+- Instructor guide is essential for new instructors.
+- Lesson changes should be accompanied with instructor guide changes (it's like
+  a documentation for the lesson material).
+- Apply and validate backwards lesson design again and again.
+- Make it possible to try out new ideas (by making the lesson branch-able).
+- Before making larger changes, talk with somebody and discuss these changes.
+- For substantial changes we recommend to first open an issue and describe your
+  idea and collect feedback before you start with an extensive rewrite.
+- For things still under construction, open a draft pull request to collect
+  feedback and to signal to others what you are working on.
+
+
+## See also
+
+- CodeRefinery [lesson-design](https://coderefinery.github.io/manuals/lesson-design/) manual
+- [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org)
+- [Teaching Tech Together](http://teachtogether.tech/)
+- Our [summary](https://coderefinery.github.io/manuals/teaching-tech-together/) of "Teaching Tech Together"
+- [Ten quick tips for creating an effective lesson](https://doi.org/10.1371/journal.pcbi.1006915)

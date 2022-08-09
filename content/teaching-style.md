@@ -3,6 +3,8 @@
    - 30 min exercises   
 ```   
 
+# Interactive teaching style
+
 ```{questions}
   - What pedagogical concepts underpin CodeRefinery and Carpentry workshops?
   - How to get and give feedback?
@@ -18,7 +20,6 @@ kypints
 - CodeRefinery lessons and teaching build on these principles
 ```
 
-# Interactive teaching style
 
 ```{challenge} Ice-breaker in groups (20 minutes)
 - Share your approach to teaching and your teaching philosophy with your group.

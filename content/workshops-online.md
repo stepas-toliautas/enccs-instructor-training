@@ -1,91 +1,50 @@
----
-layout: episode
-title: "Lessons learned from running online and in-person workshops"
-teaching: 20
-exercises: 10
-questions:
-  - "What are the steps for organizing a CodeRefinery workshop?"
-  - "What can I learn about running my own workshop?"
-  - "What have we learned from running large online workshops?"
-objectives:
-  - "Learn how to use the manuals to organize and teach a workshop."
-keypoints:
-  - "There are many aspects to consider to deliver a successful workshop."
-  - "CodeRefinery maintains a number of manuals - use them when preparing a workshop."
----
-
-> ## Workshop manuals
-> CodeRefinery maintains a number of [workshop manuals](https://github.com/coderefinery/manuals/)
-> with most of the "primary" information.  This episode condenses this
-> into a quick overview.
-{: .callout}
+```{instructor-note}
+- 20 min teaching
+- 10 min exercises
+```
 
 
-# Running a workshop: online
 
+# Running online workshops
+
+```{questions}
+  - What are the steps for organizing a CodeRefinery workshop?
+  - What can I learn about running my own workshop?
+  - What have we learned from running large online workshops?
+```
+
+```{objectives}
+- Learn how to use the manuals to organize and teach a workshop.
+```
 
 ## Online teaching discussion
 
 ```{discussion} Discussion: Online vs in-person
 
-In notes:
+Write down your thoughts in the notes:
 - Compare and contrast the benefits of online teaching with
   in-person: {advantage, disadvantage} × {content, presentation}
 - How do you have to prepare differently?
 - What are your own experiences?
 ```
 
-
-
-## Case study: Mega-CodeRefinery and Finland HPC Kickstart
-
-- Mega-CodeRefinery
-  - Audience of around 90-100
-  - "bring your own breakout room" (see below)
-  - 3 days/week, 6 days total
-  - Lessons as normal in CodeRefinery
-- HPC Kickstart
-  - 250 registered, ~180 max participants
-  - Multi-university: local differences made this much harder to manage.
-  - Breakout rooms not pre-planned.
-
-Mega-CodeRefinery worked very well, HPC kickstart didn't - but not
-because of the size.
-
-
-
 ## General workshop arrangements
-
-> ## Manuals link
-> - [before the
->   workshop](https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#before-the-workshop)
-{: .callout}
 
 - Select a coordinator, recruit instructors (at least 3 is important),
   find helpers
 - Find a good lecture room:
   [requirements](https://github.com/coderefinery/manuals/blob/master/workshop-requirements-inperson.md)
-- Set up workshop webpage using the [Github, template
-  repository](https://github.com/coderefinery/template-workshop-webpage]:
-  [see
-  manuals](https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#set-up-workshop-page)
-- Advertising the workshop
-- Communication with registered participants
+- Set up workshop webpage
+- Advertise the workshop
+- Communicate with registered participants
 
 
 
-## CodeRefinery online scaling strategy
-
-- We started online workshops in 2020 March, for the obvious reasons.
-- First, we started with two "normal size" (20 people) practice
-  workshops
-- Then we did a 100 person workshop.  It went well, but there is less
-  tolerance for problems.
-
+## ENCCS online scaling strategy
 
 ### Basic preparation
 
-- You need more breaks are needed
+- You need more breaks than in in-person workshops
 - People have a way of doing too many things and not focusing.
 - "[How to attend an online
   workshop](https://coderefinery.github.io/manuals/how-to-attend-online/)"
@@ -97,11 +56,6 @@ because of the size.
 - [Zoom mechanics: instructions for
     students](https://coderefinery.github.io/manuals/zoom-mechanics/).
   - Mostly things that are known
-  - We don't use Zoom interaction features much anymore
-    (faster/slower/etc), but breakout rooms and HackMD instead
-- See also: [Online training
-  manual](https://coderefinery.github.io/manuals/online-training/)
-  (which is getting a bit old compared to what is below).
 
 ### Breakout rooms, bring your own team
 
@@ -171,7 +125,7 @@ all of these, so it works well.
 ### HackMD
 
 - We've been using it here
-- Chat doesn't work wen large, written
+- Chat doesn't work when large, written
   document does.
 - HackMD can just about scale to ~100 person workshop.  Recommend
   learners keep it in view mode while not editing.
@@ -253,4 +207,12 @@ and techniquess for more
 
 - We want to continue this kind of collaboration in other workshops.
 
+### See also
 
+- CodeRefinery maintains a number of [workshop manuals](https://github.com/coderefinery/manuals/) with most of the "primary" information.  This episode condenses this into a quick overview.
+
+
+```{keypoints}
+  - "There are many aspects to consider to deliver a successful workshop.
+  - "CodeRefinery maintains a number of manuals - use them when preparing a workshop.
+```
