@@ -7,6 +7,7 @@
 Objectives:
 - 1
 - 2
+- 3
 
 ### [OpenACC](https://enccs.github.io/OpenACC/)
 
