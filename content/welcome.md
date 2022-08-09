@@ -1,3 +1,7 @@
+```{instructor-note}
+   - 10 min teaching
+```   
+
 # Welcome and introduction
 
 ```{discussion} What do we want to get out of this workshop

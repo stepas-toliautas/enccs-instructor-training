@@ -1,20 +1,23 @@
----
-layout: episode
-title: "Carpentries and CodeRefinery approach to teaching"
-teaching: 30
-exercises: 30
-questions:
-  - "What pedagogical concepts underpin CodeRefinery and Carpentry workshops?"
-  - "How to get and give feedback?"
-  - "Who are the CodeRefinery learners?"
-  - "Why is it important to define learning objectives?"
-objectives:
-  - "Explain The Carpentries and CodeRefinery approaches to teaching"
-  - "Understand what is meant by feedback, cognitive development, mental models and reverse instructional design"
-  - "Explain and practice important pedagogical concepts"
-keypoints:
-  - "CodeRefinery lessons and teaching build on these principles"
----
+```{instructor-note}
+   - 30 min teaching
+   - 30 min exercises   
+```   
+
+```{questions}
+- What pedagogical concepts underpin CodeRefinery and Carpentry workshops?
+- How to get and give feedback?
+- Who are the CodeRefinery learners?
+- Why is it important to define learning objectives?
+```
+
+```{objectives}
+- Explain The Carpentries and CodeRefinery approaches to teaching
+- Understand what is meant by feedback, cognitive development, mental models and reverse instructional design
+- Explain and practice important pedagogical concepts
+kypints
+- CodeRefinery lessons and teaching build on these principles
+```
+
 # Interactive teaching style
 
 
