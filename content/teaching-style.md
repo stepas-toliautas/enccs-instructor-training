@@ -6,55 +6,19 @@
 # Interactive teaching style
 
 ```{questions}
-  - What pedagogical concepts underpin CodeRefinery and Carpentry workshops?
+  - What pedagogical concepts underpin ENCCS workshops?
   - How to get and give feedback?
-  - Who are the CodeRefinery learners?
+  - Who are the ENCCS learners?
   - Why is it important to define learning objectives?
 ```
 
 ```{objectives}
-- Explain The Carpentries and CodeRefinery approaches to teaching
-- Understand what is meant by feedback, cognitive development, mental models and reverse instructional design
+- Explain ENCCS/Carpentries/CodeRefinery approach to teaching
+- Understand what is meant by feedback, cognitive development and mental models
 - Explain and practice important pedagogical concepts
-kypints
-- CodeRefinery lessons and teaching build on these principles
 ```
 
 
-```{challenge} Ice-breaker in groups (20 minutes)
-- Share your approach to teaching and your teaching philosophy with your group.
-- Please share your tricks and solutions in the live document for others.
-Additional ice-breaker questions:
-- What is your motivation for taking this training?
-- How structured or informal are your own teaching needs?
-- What difference do you notice between the teaching what we (also
-  CodeRefinery/Carpentries) do and traditional academic teaching?
-- What other skills need to be taught, but academic teaching isn't the right setting?
-```
-
-````{challenge} What are the top issues new instructors face? (10 minutes)
-
-Brainstorm about what issues new teachers/instructors often face.
-Write down your thoughts in the shared document.
- 
-```{solution} Some suggestions
- -  Breaks are not negotiable, minimum 10 minutes.
- -  Breakout sessions too short. Make them as long as possible, don't expect to come back for 
-    new intro, then go back.
- -  Get the speed correct. Not too fast and not too slow. 
- -  People will accomplish less than you expect. Expect learners to be 5 times slower than you, at best!
- -  All the other tools and stuff will go wrong. Try to not bring in a dependency when you don't need it.
- -  Trying to accomplish too much: it's OK to cut out and adapt to the audience. 
-    Have a reserve session at the end you prepare, but are ready to skip.
- -  Explaining how, but not why.
- -  Running out of time to making your environment match the learner's.
- -  Running out of time to set up good screen sharing practices
- -  (terminal history, portion of screen, remote history) in advance.
- -  Assuming learners remember what they have already learned, or know the prerequisites. Or have stuff installed and configured.
- -  Not managing expectations: learners think that you will accomplish everything, and feel sad when you don't.
- -  Special issues when lessons delivered online (discussed during Workshop preparation and organization)
-```
-````
 
 ## The Carpentries approach to teaching
 
@@ -160,7 +124,7 @@ positive-vs-negative and content-vs-presentation rubric.
 
 > ## Give feedback on teaching (optional, 10 min)
 > This exercise aims at learning to give feedback. It is optional as we have 
-> similar exercises when {doc}`practising teaching <teaching-practice>`).
+> similar exercises when {doc}`practising teaching <exercises>`).
 > As a group, we will watch [this video of teaching](https://www.youtube.com/watch?v=-ApVt04rB4U) and
 > give feedback on two axes: positive vs. negative and content vs. presentation. Have each person in
 > the class add one point to a 2x2 grid on a whiteboard or in the shared notes  (hackMD, etherpad, google doc) without duplicating any points.
@@ -298,3 +262,7 @@ important to get accurate feedback, before and during the workshops to understan
 > 2. Which types of learners should the leassons focus on
 {: .challenge}
 
+```{keypoints}
+- ENCCS lessons and teaching build on these principles
+
+```

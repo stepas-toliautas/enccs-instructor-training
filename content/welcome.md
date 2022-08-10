@@ -1,5 +1,6 @@
 ```{instructor-note}
-   - 10 min teaching
+- 10 min teaching
+- 20 min exercise
 ```   
 
 # Welcome and introduction

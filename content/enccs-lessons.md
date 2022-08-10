@@ -4,26 +4,26 @@
 
 ### [OpenMP for GPU Offloading](https://enccs.github.io/openmp-gpu/miniapp/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 - 3
 
 ### [OpenACC](https://enccs.github.io/OpenACC/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 ### [Intermediate CUDA](https://enccs.github.io/CUDA/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 ### [SYCL](https://enccs.github.io/sycl-workshop/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
@@ -31,7 +31,7 @@ Objectives:
 
 ### [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
@@ -39,14 +39,14 @@ Objectives:
 
 ### [High-performance Data Analytics with Python](https://enccs.github.io/HPDA-Python/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 
 ### [Julia for High Performance Scientific Computing](https://enccs.github.io/Julia-for-HPC/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
@@ -54,20 +54,20 @@ Objectives:
 
 ### [Upscaling A.I. with Containers](https://enccs.github.io/upscalingAI/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 ### [A.I. as a Tool for Change](https://www.youtube.com/watch?v=_FMnopQNF3M)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
  
 
 ### [Graph Neural Networks and Transformer](https://enccs.github.io/gnn_transformers/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
@@ -77,26 +77,26 @@ Objectives:
 
 ### [Gromacs GPU Performance](https://enccs.github.io/gromacs-gpu-performance/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 ### [VeloxChem: Quantum chemistry from laptop to HPC](https://enccs.github.io/veloxchem-workshop/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
  
 ### [OpenFOAM](https://enccs.github.io/OpenFOAM/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 ### [NEK5000](https://enccs.se/nek-5000-training-material)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
@@ -105,12 +105,12 @@ Objectives:
 
 ### [CMake](https://enccs.github.io/cmake-workshop/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2
 
 #### [Introduction to Quantum Computing and hybrid HPC-QC systems](https://enccs.github.io/NordIQuEst-workshop/)
 
-Objectives:
+Learning objectives:
 - 1
 - 2

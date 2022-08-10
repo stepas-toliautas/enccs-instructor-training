@@ -5,6 +5,10 @@
 - What tools and methods can be used to collaboratively develop training material?
 ```
 
+```{objectives}
+- Understand what is meant by backwards lesson design
+```
+
 ## Backwards lesson design
 
 When writing an ENCCS lesson, we take a “reverse” approach to instruction, 
@@ -13,8 +17,7 @@ as described in Wiggins and McTighe’s
 that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes
 
 - Determine your learning objectives
-- Decide what constitutes evidence that objectives have been met, and design assessments 
-  to target that evidence
+- Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
 - Design instruction: Sort assessments in order of increasing complexity, 
   and write content that connects everything together
 

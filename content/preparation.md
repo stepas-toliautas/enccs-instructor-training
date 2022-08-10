@@ -25,7 +25,7 @@ Summary: Most of our teaching challenge is helping people to overcome bad user
 interface design.
 
 
-## Browse an ENNCS lesson (5 min)
+## Browse an ENCCS lesson (5 min)
 
 Please take 5 minutes and go through an [ENCCS
 lesson](https://enccs.se/lessons/) and understand the general

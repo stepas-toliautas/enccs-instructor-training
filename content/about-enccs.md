@@ -62,9 +62,7 @@ By showing learners how to solve specific problems with specific tools and provi
 
 CodeRefinery workshops differ from Carpentry workshops as the audience is assumed to already write code and scripts and we aim at teaching them **best software practices**.
 
-Our learners usually do not have a good overview of **best software practices** but are aware of the need to learn them. Very often, they know the tools (Git, Jupyter, etc.) we are teaching but have difficulties to make the best use of them in their software development workflow.
-
-Whenever we can, we should direct learners that do not have sufficient coding experience to Carpentries workshops.
+CodeRefinery learners usually do not have a good overview of **best software practices** but are aware of the need to learn them. Very often, they know the tools (Git, Jupyter, etc.) we are teaching but have difficulties to make the best use of them in their software development workflow.
 
 > ## Competent practitioners
 > We often qualify CodeRefinery learners as **competent practitioners** because they already have an understanding of their needs.
@@ -77,35 +75,64 @@ Whenever we can, we should direct learners that do not have sufficient coding ex
 Similarly to CodeRefinery, ENCCS targets **competent practitioners**: participants are assumed 
 to know what their needs are. Typically, their needs are to learn a technique or method to adapt 
 their code to HPC, to learn novel programming languages or frameworks, or to deepen their knowledge 
-of machine learning or deep learning methods.
+of machine learning methods.
 
 > ## Best software practices
 > We cannot assume that ENCCS workshop participants are aware of best software development 
-> practices. It is therefore advisable to adhere to good practices when teaching ENCCS workshops 
-> (e.g. by using version control and testing in code examples), so that participants indirectly 
+> practices. It is therefore wise to adhere to good practices when teaching ENCCS workshops 
+> (e.g. by using version control and testing in code examples), so that participants  
 > become acquainted with such practices.
 {: .callout}
 
 
 ---
 
-## Overview of the lessons and a typical workshop
-
-Here the instructor gives an overview of the lessons and a typical workshop.
-
----
 
 ```{discussion} What we do differently?
 - Planning, teaching material available in advance and not PDF slides
-- Different roles (instructor, host, hackmd, ...)
-- GitHub projects board so all boxes are checked
-- Helper recruitment and breakout room planning
-    - Designing for this as soon as you open registration
+- Interactive, hands-on teaching. Presentations interleaved with exercises
+- Different teaching roles (instructor, host, hackmd, ...)
+- Helper recruitment 
 - Less is more
 - Clearly defining learning outcomes
 - Asking for feedback, encouraging feedback
+- Clearly defined code of conduct
 - Screen-sharing
 - Using lesson templates
 - Lesson review on GitHub
-- Sharing material instead of being protective
+- Sharing material open source instead of being protective
 ```
+
+```{challenge} Ice-breaker in groups (10 minutes)
+- Share your approach to teaching and your teaching philosophy with your group.
+- Please share your tricks and solutions in the live document for others.
+Additional ice-breaker questions:
+- What is your motivation for taking this training?
+- How structured or informal are your own teaching needs?
+- What difference do you notice between the teaching what we (also
+  CodeRefinery/Carpentries) do and traditional academic teaching?
+- What other skills need to be taught, but academic teaching isn't the right setting?
+```
+
+````{challenge} What are the top issues new instructors face? (10 minutes)
+
+Brainstorm about what issues new teachers/instructors might face in interactive workshops.
+Write down your thoughts in the shared document.
+ 
+```{solution} Some suggestions
+ -  Breaks are not negotiable, minimum 10 minutes per hour.
+ -  Exercise sessions too short. Better to have them as long as possible.
+ -  Get the speed correct. Not too fast and not too slow. 
+ -  Cater to participants with different backgrounds and at different levels of experience
+ -  People will accomplish less than you expect. Expect learners to be 5 times slower than you, at best!
+ -  Installation instructions not sufficiently complete. Installation will go wrong for some participants.
+ -  Trying to accomplish too much or go through everything: it's OK to cut out and adapt to the audience. 
+    Have a reserve session at the end that you prepare, but are ready to skip.
+ -  Explaining *how*, but not *why*.
+ -  Not making your environment match the learner's.
+ -  Not setting up good screen sharing practices (terminal history, portion of screen).
+ -  Assuming learners remember what they have already learned, or know the prerequisites. Or have stuff installed and configured.
+ -  Not managing expectations: learners think that you will accomplish everything, and feel sad when you don't.
+ -  Special issues when lessons delivered online (discussed during "How to teach online")
+```
+````
