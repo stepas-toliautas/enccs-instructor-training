@@ -31,12 +31,17 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
      styles, too).
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Before the workshop
+
+   preparation.md
+
 
 .. toctree::
    :maxdepth: 1
    :caption: The lesson
 
-   preparation.md
    welcome.md
    about-enccs.md
    enccs-lessons.md
