@@ -19,14 +19,18 @@
 
 ## Online teaching discussion
 
-```{discussion} Discussion: Online vs in-person
+````{discussion} Discussion: Online vs in-person
 
 Write down your thoughts in the notes:
 - Compare and contrast the benefits of online teaching with
   in-person: {advantage, disadvantage} × {content, presentation}
 - How do you have to prepare differently?
 - What are your own experiences?
+
+```{solution} Survey results from ENCCS workshops
+![online-vs-inperson](img/online_vs_inperson.png)
 ```
+````
 
 ## General workshop arrangements
 
