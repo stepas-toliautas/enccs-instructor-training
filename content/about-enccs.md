@@ -30,7 +30,7 @@ workshops and the teaching itself.
 > - Provide a [code repository hosting service](https://coderefinery.org/repository/) that is open and free for all researchers based in universities and research institutes from Nordic countries.
 > - Provide training opportunities in the Nordics using Carpentries and CodeRefinery training materials.
 > - Articulate and implement the CodeRefinery sustainability plan.
-{: .discussion}
+{: .callout}
 
 > ## About The Carpentries
 > 
@@ -38,7 +38,7 @@ workshops and the teaching itself.
 > communities of instructors, trainers, maintainers, helpers, and supporters who share a mission to 
 > teach foundational computational and data science skills to researchers. The Carpentries teach 
 > foundational coding and data science skills to researchers worldwide.
-{: .discussion}
+{: .callout}
 
 
 ---
@@ -54,7 +54,7 @@ The Carpentries aims to teach computational **competence** to learners through a
 By showing learners how to solve specific problems with specific tools and providing hands-on practice, learners develops confidence for future learning.
 
 > ## Novices
-> We often qualify Carpentry learners as **novices**: they do not know what they need to learn yet. A typical example is the usage of version control: the Carpentry `git` lesson aims to give a very high level conceptual overview of Git but it does not explain how it can be used in research projects.
+> Carpentry learners can be qualified as **novices**: they do not know what they need to learn yet. A typical example is the usage of version control: the Carpentry `git` lesson aims to give a very high level conceptual overview of Git but it does not explain how it can be used in research projects.
 {: .callout}
 
 
@@ -65,7 +65,7 @@ CodeRefinery workshops differ from Carpentry workshops as the audience is assume
 CodeRefinery learners usually do not have a good overview of **best software practices** but are aware of the need to learn them. Very often, they know the tools (Git, Jupyter, etc.) we are teaching but have difficulties to make the best use of them in their software development workflow.
 
 > ## Competent practitioners
-> We often qualify CodeRefinery learners as **competent practitioners** because they already have an understanding of their needs.
+> CodeRefinery learners can be qualified as **competent practitioners** because they already have an understanding of their needs.
 > *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <teaching-style>`.
 {: .callout}
 
@@ -79,9 +79,9 @@ of machine learning methods.
 
 > ## Best software practices
 > We cannot assume that ENCCS workshop participants are aware of best software development 
-> practices. It is therefore wise to adhere to good practices when teaching ENCCS workshops 
+> practices. It is therefore recommended to adhere to good software development practices when teaching ENCCS workshops 
 > (e.g. by using version control and testing in code examples), so that participants  
-> become acquainted with such practices.
+> become acquainted with them as a side benefit of attending a workshop.
 {: .callout}
 
 
@@ -89,28 +89,27 @@ of machine learning methods.
 
 
 ```{discussion} What we do differently?
-- Planning, teaching material available in advance and not PDF slides
+- Teaching material available in advance and not PDF slides
 - Interactive, hands-on teaching. Presentations interleaved with exercises
 - Different teaching roles (instructor, host, hackmd, ...)
 - Helper recruitment 
 - Less is more
-- Clearly defining learning outcomes
+- Clearly defining learning objectives
 - Asking for feedback, encouraging feedback
 - Clearly defined code of conduct
-- Screen-sharing
+- Thoughtful screen-sharing
 - Using lesson templates
 - Lesson review on GitHub
-- Sharing material open source instead of being protective
+- Sharing material open source instead of being protective.
 ```
 
 ```{challenge} Ice-breaker in groups (10 minutes)
 - Share your approach to teaching and your teaching philosophy with your group.
 - Please share your tricks and solutions in the live document for others.
+
 Additional ice-breaker questions:
 - What is your motivation for taking this training?
 - How structured or informal are your own teaching needs?
-- What difference do you notice between the teaching what we (also
-  CodeRefinery/Carpentries) do and traditional academic teaching?
 - What other skills need to be taught, but academic teaching isn't the right setting?
 ```
 

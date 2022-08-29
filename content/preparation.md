@@ -12,10 +12,7 @@
 
 These things will help you get the most out of this workshop, by
 giving you a broad overview at the beginning that you might only get
-later on in the lesson.
-
-Don't worry if you don't have time to do everything here.  The most
-important ones are listed first.
+later on during the workshop.
 
 ## Read "How to help someone use a computer" (5 min)
 
@@ -31,6 +28,14 @@ Please take 5 minutes and go through an [ENCCS
 lesson](https://enccs.se/lessons/) and understand the general
 layout.  Don't go in-depth to any of the material (unless you want,
 obviously). 
+
+You can for example go through one of the following lessons:
+- [SYCL](https://enccs.github.io/sycl-workshop/)
+- [Julia for HPC](https://enccs.github.io/Julia-for-HPC/)
+- [CMake](https://enccs.github.io/cmake-workshop/)
+- [Python for HPDA](https://enccs.github.io/HPDA-Python/)
+- [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
+- [CUDA](https://enccs.github.io/CUDA/)
 
 
 ## Read "The science of learning" (20 min)
