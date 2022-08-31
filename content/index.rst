@@ -45,7 +45,7 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
    welcome.md
    about-enccs.md
    enccs-lessons.md
-   teaching-style.md
+   thoughtful-teaching.md
    lesson-development.md
    workshops-online.md
    teaching-strategies.md

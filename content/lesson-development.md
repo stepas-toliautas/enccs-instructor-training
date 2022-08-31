@@ -21,6 +21,11 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 - Design instruction: Sort assessments in order of increasing complexity, 
   and write content that connects everything together
 
+### Deciding what to teach
+
+![What to Teach](https://carpentries.github.io/instructor-training/fig/what-to-teach.png)
+
+
 ### Working with learning objectives
 
 Each ENCCS lesson (also the HPC Carpentry lesson used as an example below) 
