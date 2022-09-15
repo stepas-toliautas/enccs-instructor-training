@@ -3,7 +3,7 @@
    - 30 min exercises   
 ```   
 
-# Thoughtful teaching
+# Teaching style
 
 ```{questions}
   - What pedagogical concepts underpin ENCCS workshops?
@@ -11,10 +11,9 @@
 ```
 
 ```{objectives}
-- Discuss 
+- Discuss important pedagogical concepts
 - Explain an interactive approach to teaching
 - Understand what is meant by feedback, cognitive development and mental models
-- Explain and practice useful pedagogical concepts
 ```
 
 ## The Carpentries approach to teaching
@@ -50,7 +49,7 @@ practice, we develop learners’ confidence and empower them to start applying n
 immediately.
 
 - Learners need to practice what they are learning in real time and get **feedback** on what they are doing. That is why the teaching approach relies on **live coding**.
-- Learners best learn in a respectful and motivating classroom environment, so it's important to use a Code of Conduct and avoid certain demotivating language. 
+- Learners best learn in a respectful and motivating classroom environment, so it's important to use a **Code of Conduct** and avoid certain demotivating language. 
 - Learners are encouraged to help each other and collaborate during workshops as this improves their confidence and reinforces concepts taught.
 
 
@@ -133,13 +132,6 @@ correct information. Broadly speaking, misconceptions fall into three categories
     to the learner’s social identity and are the hardest to change.
 
 
-
-> ## Exercise: How to identify learner profiles?
->
-> 1. How to identify leaner profiles from surveys and during the class
-> 2. Which types of learners should the leassons focus on
-{: .challenge}
-
 > ## Exercise: Anticipating Misconceptions
 > 
 > Describe a misconception you have encountered as a teacher or as a learner.
@@ -150,7 +142,48 @@ correct information. Broadly speaking, misconceptions fall into three categories
 
 ## Memory
 
-- chunking
+Here we will be learning more about human memory: specifically, how to remove unnecessary 
+"load" in order to facilitate learning.
+
+### Types of memory
+
+Learning involves memory. For our purposes, human memory can be divided into two different 
+layers. The first is called **long-term**. It is where we store persistent information like 
+our friends' names and our home address. It is essentially unbounded but it is slow to access.
+
+Our second layer of memory is called **short-term**. This is the type of memory you use to 
+actively think about things and is often called *working memory*. It is much faster, but also 
+much smaller: in 1956, George Miller estimated that the average adult's short-term memory 
+could hold 7±2 items for a few seconds before things started to drop out. 
+
+This has important implications for teaching. If we present our learners with large amounts 
+of information, without giving them the opportunity to practice using it (and thereby 
+transfer it into long-term memory), they will not retain the material as well as if we 
+present small amounts of information interspersed with practice opportunities. This is yet 
+another reason why going slowly and using frequent formative assessment is important.
+
+### Memory management
+
+- **Chunking**: Our minds can store larger numbers of facts in short-term memory by creating 
+  chunks, or relationships among separate items, allowing them to be remembered as a single 
+  item. Connecting information makes it easier to remember.
+- **Formative assessment to support memory consolidation**: Formative assessment helps 
+  learners solidify their understanding and begin transferring ideas into long-term memory.
+  Limitations of short-term memory are one reason why assessments should be frequent: short-term memory is limited not only in space, but also in time.
+- **Group work**: Elaboration (explaining your work) supports transfer to long-term 
+  memory. This is one reason why teaching is one of the most effective ways to learn! Group 
+  work can feel uncomfortable at first and consumes time in a workshop, but learners often 
+  rate group work as a high point for both enjoyment and learning in a workshop.   
+- **Opportunities for reflection**: Reflection is another tool that can help learners review 
+  things they have learned, strengthen connections between them, and consolidate long-term 
+  memories. Asking learners for feedback can be an effective consolidating prompt as providing 
+  feedback demands some reflection on what has been learned.
+- **Limit concepts**:  It is important to limit the number of concepts introduced in a lesson, but   
+  this can be hard! Planning your lesson with a concept map can help you not only identify key 
+  concepts and relationships, but also to notice when you are trying to teach too many things at 
+  once.
+
+
 - meaning
 - connect with previous knowledge
 - stick to the script (conflicting info inhibits learning)
@@ -206,8 +239,8 @@ ENCCS uses different instruments to get feedback from learners:
 
 ### Getting/giving feedback on teaching
 
-Teaching is a skill. One of the objective of the CodeRefinery Instructor training is to give 
-you the confidence in teaching CodeRefinery lessons. Later we will have group work where we 
+Teaching is a skill. One of the objective of this instructor training is to give 
+you the confidence in teaching ENCCS lessons. Later we will have group work where we 
 will practice teaching some lessons.
 
 Before doing so, we will learn here to give feedback on teaching using the same 
