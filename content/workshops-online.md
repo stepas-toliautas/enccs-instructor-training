@@ -155,6 +155,29 @@ all of these, so it works well.
   more people overwhelmed and underwhelmed.
 
 
+### Getting/giving feedback on learners' progress
+
+Feedback is an essential part of effective learning. Feedback is bi-directional:
+- To be effective, instructors need feedback on their learners' progress. Learners can also check their progress and ask relevant questions to get clarification.
+- Instructors also need feedback on their teaching. For instance, this can help them to adapt the pace, add/skip optional exercises and improve their teaching.
+
+This feedback comes through what is called *formative assessments* (in contrast
+  to *summative assessment*).
+
+Learners don't "pass" or "fail" formative assessments; they are simply a feedback mechanism.
+For example, a music teacher might ask a learner to play a scale very slowly
+in order to see whether they are breathing correctly,
+and if not, what they should change.
+
+Formative assessment is most useful when it happens frequently 
+and when the results are easily interpretable by the learner and instructor.
+
+ENCCS uses different instruments to get feedback from learners:
+
+- Surveys: we will discuss ENCCS surveys in the episode {doc}`workshops-online`.
+- Exercises and quizzes: we have many exercises during ENCCS workshops and also use polls to keep participants engaged and to obtain quick feedback on their progress.
+
+
 ### See also
 
 - CodeRefinery maintains a number of [workshop manuals](https://github.com/coderefinery/manuals/) with most of the "primary" information.  This episode condenses this into a quick overview.

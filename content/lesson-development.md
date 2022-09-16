@@ -1,3 +1,5 @@
+.. _lesson_development:
+
 # Lesson development
 
 ```{questions}
@@ -86,6 +88,9 @@ Discuss either in groups or via collaborative document:
 ---
 
 ## Designing exercises
+
+Well designed examples and exercises can go a long way towards correcting misconceptions 
+and expanding the mental models of learners.
 
 The goal of exercises is twofold:
 - instructors can assess the progress of learners.

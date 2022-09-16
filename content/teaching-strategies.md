@@ -8,6 +8,8 @@
 - Prepare for the teaching practice
 ```
 
+to add: 
+- stick to the script (conflicting info inhibits learning)
 
 ## Why teaching mechanics matter
 

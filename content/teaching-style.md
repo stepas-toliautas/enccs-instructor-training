@@ -16,9 +16,9 @@
 - Understand what is meant by feedback, cognitive development and mental models
 ```
 
-## The Carpentries approach to teaching
+## Carpentry instructor training
 
-Here we will give you a very short overview of the Carpentries approach to teaching and highlight parts that are most important for teaching ENCCS style lessons.
+Here we will give you a short overview of the Carpentries approach to teaching and highlight parts that are most important for teaching ENCCS style lessons.
 
 Most ENCCS instructors have completed the
 [Carpentry instructor training workshop](https://carpentries.github.io/instructor-training/), which
@@ -52,7 +52,6 @@ immediately.
 - Learners best learn in a respectful and motivating classroom environment, so it's important to use a **Code of Conduct** and avoid certain demotivating language. 
 - Learners are encouraged to help each other and collaborate during workshops as this improves their confidence and reinforces concepts taught.
 
-
 ---
 
 ## Who are your learners?
@@ -76,6 +75,10 @@ through distinct stages through practice and formal instruction. In simplified f
 
 Participants in ENCCS workshops are usually *competent practitioners*. They already write 
 code and know what additional tools or techniques they need to learn to accomplish their goals.
+
+As will be further discussed in the episode on :ref:`Lesson development <lesson_development>`_, 
+it is important to clearly define the target audience of workshops, including their 
+background knowledge and training needs.
 
 ---
 
@@ -186,56 +189,48 @@ another reason why going slowly and using frequent formative assessment is impor
 
 - meaning
 - connect with previous knowledge
-- stick to the script (conflicting info inhibits learning)
 
-
----
-
-## On the importance of feedback
-
-Feedback is an essential part of effective learning. Feedback is bi-directional:
-- To be effective, instructors need feedback on their learners' progress. Learners can also check their progress and ask relevant questions to get clarification.
-- Instructors also need feedback on their teaching. For instance, this can help them to adapt the pace, add/skip optional exercises and improve their teaching.
-
-### Getting/giving feedback on learners' progress
-
-This feedback comes through what is called *formative assessments* (in contrast
-  to *summative assessment*).
-
-> ## Summative Assessment
-> *Summative assessment* is used
-> to judge whether a learner has reached an acceptable level of competence.
-> Usually at the end of a course 
-> Learners either "pass" or "fail" a summative assessment.
-> One example is a driving exam,
-> which tells the rest of society whether someone can safely be allowed on the road. Most assessment done in university
-> courses is summative, and is used to assign course grades.
-{: .callout}
-
-> ## Formative assessment
+> ## Formative and summative assessment
 > *Formative assessment* takes place during teaching and learning. It sounds like
 > a fancy term, but it can be used to describe any interaction or activity
 > that provides feedback to both instructors and learners about learners' level of understanding of the
 > material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
 > their instruction to respond to challenges that learners are facing.
-> Used continuously
+> Used continuously.
+> 
+> *Summative assessment* is used
+> to judge whether a learner has reached an acceptable level of competence.
+> Usually at the end of a course 
+> Learners either "pass" or "fail" a summative assessment.
 {: .callout}
 
-Learners don't "pass" or "fail" formative assessments; they are simply a feedback mechanism.
-For example, a music teacher might ask a learner to play a scale very slowly
-in order to see whether they are breathing correctly,
-and if not, what they should change.
 
-Formative assessment is most useful when it happens frequently (we'll talk about how frequently later)
-and when the results are easily interpretable by the learner and instructor.
+---
 
-ENCCS uses different instruments to get feedback from learners:
+## Cognitive load
 
-- Surveys: we will discuss ENCCS surveys in the episode {doc}`workshops-online`.
-- Exercises and quizzes: we have many exercises during ENCCS workshops and also use polls to keep participants engaged and to obtain quick feedback on their progress.
+Memory is not the only cognitive resource that is limited. Attention is constrained as well, which 
+can limit the information that enters short term memory in the first place as well as interfere with 
+attempts at consolidation. While many people believe that they can "multi-task", the reality is that 
+attention can only focus on one thing at a time. Adding items that demand attention adds more things 
+to alternate between attending to, which can reduce efficiency and performance on all of them.
 
+There are different theories of cognitive load. In one of these, `Sweller posits <https://doi.org/10.1207/s15516709cog1202_4>`__ that people have to attend to three types of things when they are learning:
 
+- Things they have to think about in order to **perform a task** ("intrinsic").
+- Mental effort required to **connect the task** to new and old information ("germane").
+- **Distractions** and other mental effort not directly related to performing or learning from the task ("extraneous").
 
+Cognitive load is not always a bad thing! There is plenty of evidence that some difficulty is 
+desirable and can increase learning. However, there are limits. Managing all forms of cognitive 
+load, with particular attention to extraneous load, can help prevent **cognitive overload** from 
+impeding learning altogether.
+
+One way to manage cognitive load as tasks become more complex is by using guided practice: creating 
+a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
+feedback at each step before transferring attention to a new feature.
+
+---
 
 ### Getting/giving feedback on teaching
 
@@ -261,10 +256,7 @@ positive-vs-negative and content-vs-presentation rubric.
 
 ---
 
-## Examples and exercises
 
-Well designed examples and exercises can go a long way towards correcting misconceptions 
-and expanding the mental models of learners.
 
 
 
