@@ -217,6 +217,7 @@ Things that don't work (are not team teaching):
   - With too few people, it can turn out to be very quiet.
 
 
+
 ## Keeping learners motivated
 
 **Invite Participation**
@@ -232,9 +233,20 @@ Things that don't work (are not team teaching):
   rewards learners for sharing vulnerable information. Formative assessments can pinpoint misunderstandings. When learners see that 
   others are confused, they are more likely to share their own uncertainties.
 
+**Any questions?**
+
+A well-intended move that can go wrong is the call for questions. An instructor may accidentally 
+dismiss learner confusion by asking for questions in a way that reveals that they do not actually 
+expect that anyone will have them. 
+
+Instead of asking "Does anyone have any questions?" and then quickly moving on, 
+consider asking instead "What questions do you have?" and leaving a good pause for 
+consideration. This establishes an expectation that people will, indeed, have questions, and 
+should challenge themselves to formulate them.
 
 
 **Do no harm!**  
+
 Here are a few things you should not do in your workshop:
 
 - Talk contemptuously or with scorn about any tool or practice, or the people who use them. 
