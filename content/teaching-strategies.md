@@ -130,6 +130,16 @@ course.
     to get from it?  Should you follow everything, or are some things
     advanced and optional?  Make that clear.
 
+## The importance of going slow
+
+It takes work to actively assess mental models throughout a workshop; this also takes time. This can make Instructors feel conflicted about using formative assessment routinely. However, the need to conduct routine assessment is not the only reason why a workshop should proceed more slowly than you think.
+
+Because your learners’ mental models will likely be less densely connected than your own, a 
+conclusion that seems obvious to you will not seem that way to your learners. It is important to 
+explain what you are doing step-by-step, and how each step leads to the next one.
+
+Experts are also better at diagnosing errors than novices or competent practitioners. If faced with an error message while teaching, an expert will often automatically diagnose and solve a problem before a novice has even finished reading the error message. Because of this, it is very important while teaching to be explicit about the process you are using to engage with errors, even if they seem trivial to you, as they often will.
+
 
 ## Team teaching
 
@@ -143,7 +153,7 @@ work together for this? Team teaching idea:
 - One person is giving the commentary about what they are doing
 - The lecture becomes a discussion between two people instead.
 
-.. admonition:: Co-teaching
+```{callout} Co-teaching
 
    Wikipedia: Co-teaching or team teaching is the division of labor
    between educators to plan, organize, instruct and make assessments
@@ -151,6 +161,7 @@ work together for this? Team teaching idea:
    classroom,[1] and often with a strong focus on those teaching as a
    team complementing one another's particular skills or other
    strengths.
+```
 
 Advantages:
 - The course seems very interactive, much more so than expecting
@@ -206,6 +217,49 @@ Things that don't work (are not team teaching):
   - With too few people, it can turn out to be very quiet.
 
 
+## Keeping learners motivated
+
+**Invite Participation**
+
+- Having, discussing, and enforcing a Code of Conduct provides a framework for positive 
+  communication to occur.
+- Encourage learners to learn from each other. Working in pairs or in groups encourages learners to 
+  talk through their learning process, reinforcing memory and making it more likely that confusion 
+  will be expressed and resolved. This can also address challenges of varying background experience: 
+  asking more advanced learners to help beginners can maximize learning for both. In these cases, 
+  make sure the beginner is doing the typing!
+- Acknowledging when learners are confused. Acknowledging and exploring confusion with kindness 
+  rewards learners for sharing vulnerable information. Formative assessments can pinpoint misunderstandings. When learners see that 
+  others are confused, they are more likely to share their own uncertainties.
+
+
+
+**Do no harm!**  
+Here are a few things you should not do in your workshop:
+
+- Talk contemptuously or with scorn about any tool or practice, or the people who use them. 
+  Regardless of its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so. 
+- Dive into complex or detailed technical discussion with the one or two people in the audience who 
+  clearly don't actually need to be there. Reserve those conversations for breaks or follow-up emails.
+- Pretend to know more than you do. People will actually trust you more if you are frank about the 
+  limitations of your knowledge, and will be more likely to ask questions and seek help. 
+- Use the J word ("just") or other demotivating words. Experts sometimes want to convey that 
+  a task is as easy as they think it is, but these signal to the learner that the instructor thinks 
+  their problem is trivial
+- Take over the learner's keyboard. It is rarely a good idea to type anything for your learners. 
+  Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.
+- Express surprise at unawareness. Saying things like "I can’t believe you don’t know X" or "You’ve 
+  never heard of Y?" signals to the learner that they do not have some required pre-knowledge of the 
+  material you are teaching, that they don’t belong at the workshop, and it may prevent them from 
+  asking questions in the future.
+
+**Does your motivation matter?**
+
+- Learners respond to an instructor’s enthusiasm. The more motivated you are, the more motivated 
+  they will be!
+- Instructors are learning to teach. This also takes motivation. Deliberative practice, seeking 
+  feedback, and reflecting on mistakes in the context of your own busy work life is a challenge. 
+  What will keep you energized to stay engaged with your learning process?
 
 ## See also
 

@@ -186,10 +186,6 @@ another reason why going slowly and using frequent formative assessment is impor
   concepts and relationships, but also to notice when you are trying to teach too many things at 
   once.
 
-
-- meaning
-- connect with previous knowledge
-
 > ## Formative and summative assessment
 > *Formative assessment* takes place during teaching and learning. It sounds like
 > a fancy term, but it can be used to describe any interaction or activity

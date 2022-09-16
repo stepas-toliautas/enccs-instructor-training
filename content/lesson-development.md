@@ -30,8 +30,7 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 
 ### Working with learning objectives
 
-Each ENCCS lesson (also the HPC Carpentry lesson used as an example below) 
-usually has a *learning objectives* section.
+ENCCS lessons usually have a *learning objectives* section.
 Good learning objectives are quite specific about the intended effect of a lesson on its learners.
 We aim to create learning objectives that are specific, accurate, and informative for 
 both learners and instructors.
@@ -44,25 +43,25 @@ such as:
 - **What are the main issues they are currently experiencing?**. 
 
 Once you clarified your target audience, it is useful to create
-**learner personas**; that will help you during the development process by
+**learner personas**. This will help you during the development process by
 providing concrete examples of potential learners showing up at your
-workshops. For each **learner personas**, try to think of what is **useful to
-them**: What do they **need** to remember/understand/apply/analyze/evaluate/create (see Bloom's taxonomy below).
-Asking and answering to these questions will allow you to define the
-background knowledge (starting points) and goals (end points) of your
-learners.  Then, you create a sequence of exercises which test incrementally
-progressing tasks and acquisition of the new skills (from starting to end
-points).
-- Then, you write the minimum amount of material to teach the gap between exercises.
+workshops. 
+
+- For each **learner persona**, try to think of what is **useful to them**. 
+- What do they **need** to remember/understand/apply/analyze/evaluate/create (see Bloom's taxonomy below).
+- Then, you create a sequence of exercises which test incrementally
+  progressing tasks and acquisition of the new skills.
+- Finally, you write material to teach the gap between exercises.
 
 ### Using Bloom's Taxonomy to write effective learning objectives
 
-[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for thinking about learning that breaks progress down into discrete, hierarchical steps.
-While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, in particular because the
-hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy cannot be achieved without mastery of outcomes at
-the bottom. In the long term, everybody wants to be at the top. However, in aiming to meet learners where they are, we also
-need to be mindful about helping them to ["grow a level,"](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html) helping them to recognize when they have achieved that growth, and
-guiding them to look ahead to where we might not be able to take them.
+[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) is a framework for 
+thinking about learning that breaks progress down into discrete, hierarchical steps.
+While many ideas have come and gone in education, Bloom's has remained a useful tool for educators, 
+in particular because the
+hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy cannot be achieved 
+without mastery of outcomes at
+the bottom. 
 
 ![Bloom's Taxonomy](https://carpentries.github.io/instructor-training/fig/Blooms.png)
 
@@ -77,7 +76,8 @@ follows:
 2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met
 3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
 
-We strongly encourage you to read them before teaching a lesson and to review whether they still match the content of the lesson: 
+We strongly encourage you to read Learning objectives before teaching a lesson and to review 
+whether they still match the content of the lesson.
 
 ```{challenge} How do you design?
 Discuss either in groups or via collaborative document:
@@ -97,13 +97,21 @@ The goal of exercises is twofold:
 - learners put in practice the skills that you have included in your skills list.
 
 Here are some suggestions to keep in mind:
-- Not every exercise has to be an amazing hand-on example. Mixing with smaller, more conceptual things can reduce cognitive load.
-- Try to make your exercises relevant. Abstract will lead to disconnection. Connect the exercises to the real world.
-- Create also more advanced exercises which can be optional for more advanced learners. This can go a long way to meet the needs of participants with a wide range of background knowledge. 
 
-Good exercises are the most important factor in a good lesson. Even if you are preparing the rest of the lesson mostly alone, consider a good long brainstorming session to go from “list of topics to cover” to “sequence of exercises”.
+- Not every exercise has to be an amazing hand-on example. Mixing with smaller, more conceptual 
+  things can reduce cognitive load.
+- Try to make your exercises relevant, meaningful and connected to previous knowledge. 
+  Connect the exercises to the real world. When learners understand the meaning of new concepts 
+  it will be easier for them to remember.
+- Create also more advanced exercises which can be optional for more advanced learners. This can go 
+  a long way to meet the needs of participants with a wide range of background knowledge. 
 
-When you are stuck thinking “how can I make an exercise that covers X”, think of the lists below inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use different types:
+
+Good exercises are the most important factor in a good lesson. Even if you are preparing the rest of 
+the lesson mostly alone, consider a good long brainstorming session to go from "list of topics to 
+cover" to "sequence of exercises".
+
+When you are stuck thinking "how can I make an exercise that covers X", think of the lists below inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use different types:
 
 Basic types:
 

@@ -4,7 +4,6 @@
 ```
 
 
-
 # Running online workshops
 
 ```{questions}
