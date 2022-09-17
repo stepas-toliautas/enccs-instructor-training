@@ -327,7 +327,7 @@ Here we will practice the forking workflow. **NOTE**: You will need a
   and copy-paste the name of the remote. 
   Choose SSH if you have uploaded SSH keys to GitHub, otherwise go for HTTPS.
   Then go to a terminal on your computer, and type `git clone <copy-pasted-remote>`.  
-  ![clone-button](img/test.png)
+  ![clone-button](img/clone-button.png)
 - Best practice: create a new branch in your local repository: `git checkout -b <name/feature>` 
   (replace "name" with your name, and "feature" with a descriptor of your intended change).
 - Now add a new plain-text file to the repository. You can create it with a terminal editor 
