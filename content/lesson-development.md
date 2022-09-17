@@ -207,18 +207,7 @@ Let's take as an example the *[HPC Carpentry lesson](https://hpc-carpentry.githu
   - Make a concrete example to run a specific software on your HPC (something like GROMACS).
 ```
 
-```{challenge} Demo
-Before we let participants present to their groups, one of the instructors
-presents a 5-minute segment and we practice together giving feedback.
-
-The section we demo should require screen sharing and be of some follow-along
-task.
-
-If there is time, we present one demo on the day before, and one demo just
-before the group exercise.
-```
-
-```{challenge} Exercise
+```{challenge} Backwards-design a lesson
 Choose a simple lesson topic and apply backwards lesson design.  You
 won't get all the way through, but come up with a logical
 progression of exercises.
@@ -232,9 +221,8 @@ Some suggestions:
 - Making figures in your favorite programming language
 - Linux shell basics
 - Something non-technical, such as painting a room
-- An instructor training for CodeRefinery
 - Some aspect from an already existing lesson
-- [Introduction to high-performance computing](https://hpc-carpentry.github.io/hpc-intro/) (or an episode therein)
+- [An ENCCS lesson](https://enccs.se/lessons/) (or an episode therein)
 - [Unix shell in a HPC context](https://hpc-carpentry.github.io/hpc-shell/) (or an episode therein)
 - A lesson you always wanted to teach
 
@@ -279,25 +267,138 @@ Why static sites?
 
 ### Contributing to existing lessons
 
-Our lessons are **collaboratively developed**.  They are made by many
-people, and there is no single fixed master plan (but there should be,
-in the instructors or maintainer's guide).  We encourage
-everyone to contribute to the lessons.
+Our lessons are **collaboratively developed** and some are created by many
+people. We encourage everyone to contribute to the lessons.
 
-Lessons are reviewed very often - essentially, before each workshop by
+Lessons should be reviewed often - essentially, before each workshop by
 the instructor of that workshop.  This can be a quick review, looking
 at issues and fixing easy things, or more thorough.
 
-Every so often (such as at this training), there is an extensive
+Every so often, there is an extensive
 hackathon period of fully revising a lesson and making major improvements.
 
-We've made the [lesson-review](https://coderefinery.github.io/manuals/lesson-review/) checklist
-to guide the review process.
+CodeRefinery has a [lesson-review](https://coderefinery.github.io/manuals/lesson-review/) 
+checklist to guide the review process.
 
 ```{discussion}
 We now go to the
 [lesson-review](https://coderefinery.github.io/manuals/lesson-review/)
 checklist and discuss it, instead of duplicating things here.
+```
+
+---
+
+### Collaborative workflows
+
+There are two main ways to collaborate on lesson (or code) development 
+on a repository-hosting website like [GitHub](https://github.com/), 
+[GitLab](https://about.gitlab.com/) or [Bitbucket](https://bitbucket.org/).
+
+**Centralized workflow**
+
+![Centralized](https://coderefinery.github.io/git-collaborative/_images/centralized.svg)
+
+- Typically all developers have both read and write permissions (double-headed arrows).
+- Suited for cases where **all developers are in the same group or organization or project**.
+- **Everybody who wants to contribute needs write access**.
+- Good idea to write-protect the main branch (typically master or main).
+
+**Forking workflow**
+
+![Forking](https://coderefinery.github.io/git-collaborative/_images/forking-overview.svg)
+
+In the **forking layout**, again we call one repository the “central” repository but people push to forks (their own copies of the repository on GitHub/GitLab/Bitbucket).
+
+- **Anybody can contribute without asking for permission** (to public projects).
+- Maintainer still has **full control over what is merged**.
+- There is now **more than one remote** to work with.
+
+`````{challenge} Practice collaborative workflow
+
+Here we will practice the forking workflow. **NOTE**: You will need a 
+[GitHub account](https://github.com/signup) to perform this exercise.
+
+````{tabs}
+```{tab} Centralised workflow
+
+- The maintainer of the repository will first need to add you as contributors with write permissions.
+- Navigate to [this example repository on GitHub](https://github.com/ENCCS/example-repository).
+- Clone the repository to your computer by clicking the Code button
+  and copy-paste the name of the remote. 
+  Choose SSH if you have uploaded SSH keys to GitHub, otherwise go for HTTPS.
+  Then go to a terminal on your computer, and type `git clone <copy-pasted-remote>`.  
+  ![clone-button](img/test.png)
+- Best practice: create a new branch in your local repository: `git checkout -b <name/feature>` 
+  (replace "name" with your name, and "feature" with a descriptor of your intended change).
+- Now add a new plain-text file to the repository. You can create it with a terminal editor 
+  (nano, emacs, vim) or a simple text editor. In the file, add either a famous quote, a cooking 
+  recipe, a poem or something else that you like. 
+- After the file is created, *stage* it with `git add <filename>`.
+- After staging, *commit* the file with `git commit -m <some descriptive commit message>`.
+- Now push your commit to your fork: `git push origin <name/feature>`
+- In the output of the push command you will see a URL for creating a **pull request**. 
+  Copy-paste it to a web browser. 
+  ![git-push-output](img/git-push-output.png)  
+  You can also just go to the page of the example repository - 
+  there should be a new menu at the top inviting you to create a pull request.
+  ![github-pr-menu](img/github-pr-menu.png)
+- On the "Open a pull request" page, make sure that you are sending the pull request from 
+  your feature branch to the main branch
+  ![open-pr](img/open-pr.png)
+- Finally, edit the title of the pull request and add a comment (optional), and then 
+  click the green "Create pull request" button.
+- You have now created a pull request and a collaborator can review your change, provide feedback 
+  if needed (e.g. to ask for changes), and then merge it into the main branch!
+```
+
+```{tab} Forking workflow
+
+- Navigate to [this example repository on GitHub](https://github.com/ENCCS/example-repository)
+- Fork the repository to your own GitHub account by clicking the Fork button at the top.
+  ![fork-button](img/fork-button.png)
+  
+- After the fork has been created, clone the repository to your computer by clicking the Code button
+  and copy-paste the name of the remote. 
+  Choose SSH if you have uploaded SSH keys to GitHub, otherwise go for HTTPS.
+  Then go to a terminal on your computer, and type `git clone <copy-pasted-remote>`.  
+  ![clone-button](img/clone-button.png)
+
+- Best practice: create a new branch in your local repository: `git checkout -b <name/feature>` 
+  (replace "name" with your name, and "feature" with a descriptor of your intended change).
+- Now add a new plain-text file to the repository. You can create it with a terminal editor 
+  (nano, emacs, vim) or a simple text editor. In the file, add either a famous quote, a cooking 
+  recipe, a poem or something else that you like. 
+- After the file is created, *stage* it with `git add <filename>`.
+- After staging, *commit* the file with `git commit -m <some descriptive commit message>`.
+- Now push your commit to your fork: `git push origin <name/feature>`
+- In the output of the push command you will see a URL for creating a **pull request**. 
+  Copy-paste it to a web browser. 
+  ![git-push-output](img/git-push-output.png)  
+  You can also just go to the page of your forked repository - 
+  there should be a new menu at the top inviting you to create a pull request.
+  ![github-pr-menu](img/github-pr-menu.png)
+- On the "Open a pull request" page, make sure that you are sending the pull request from 
+  your feature branch on your forked repository to the main branch of the parent repository
+  ![open-pr](img/open-pr.png)
+- Finally, edit the title of the pull request and add a comment (optional), and then 
+  click the green "Create pull request" button.
+- You have now created a pull request and a maintainer of the central repository 
+  can review your change, provide feedback 
+  if needed (e.g. to ask for changes), and then merge it into the main branch!
+
+Bonus question: Why is it best practice to create a "feature" branch in your local repository?  
+```
+````
+`````
+
+```{callout} Why code review?
+In collaborative software development, it is standard practice to review each other's 
+code changes. This serves multiple purposes:
+- Others in the team learn about your changes.
+- An extra pair of eyes are useful to catch bugs or suggest improvements
+- It's possible (and common) to enable *automated testing* so that each pull request is tested 
+  automatically in the cloud so that the reviewer can see whether a pull request passes all 
+  unit tests.
 ```
 
 ---
