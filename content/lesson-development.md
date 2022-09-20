@@ -1,4 +1,4 @@
-# Lesson development
+# Lesson Development
 
 ```{questions}
 - Are there any pedagogical best practices in developing lesson material?

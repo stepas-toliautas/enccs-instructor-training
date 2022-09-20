@@ -3,7 +3,7 @@
 - 20 min exercise
 ```   
 
-# Welcome and introduction
+# Welcome and Introduction
 
 ```{discussion} What do we want to get out of this workshop
 - Introduction of instructors and helpers
@@ -77,6 +77,8 @@ Furthermore, as this is a hands-on, interactive workshop:
     - font size
     - generally confusing instructor
     - **not enough breaks**
+
+---
 
 ```{challenge} Ice-breaker in groups (10 minutes)
 - Share your approach to teaching and your teaching philosophy with your group.

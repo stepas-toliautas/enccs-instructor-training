@@ -1,4 +1,4 @@
-# Interactive teaching
+# Interactive Teaching
 
 ```{objectives}
 - Learn best practices for interactive teaching online and in-person
@@ -148,6 +148,14 @@ Here are a few things you should not do in your workshop:
   feedback, and reflecting on mistakes in the context of your own busy work life is a challenge. 
   What will keep you energized to stay engaged with your learning process?
 
+
+## Good software practices
+
+We shouldn't assume that all learners are aware of best software development 
+practices. It is therefore a good idea to adhere to good software development practices when 
+teaching workshops 
+(e.g. by using version control and testing in code examples), so that participants  
+become acquainted with them as a side benefit of attending a workshop.
 
 
 ## Team teaching

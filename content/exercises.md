@@ -1,4 +1,4 @@
-# Practice teaching and giving feedback
+# Practice Teaching and Giving Feedback
 
 Goals of this teaching practice:
 

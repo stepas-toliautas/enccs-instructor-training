@@ -4,7 +4,7 @@
 
 # About ENCCS
 
-ENCCS (EuroCC National Competence Center Sweden) is one of 33 
+[ENCCS](https://enccs.se/) (EuroCC National Competence Center Sweden) is one of 33 
 nodes of the [EuroCC project](https://www.eurocc-access.eu/), which is funded by the 
 European High-Performance Computing Joint Undertaking (EuroHPC-JU). As an NCC, we act as the central point of contact for HPC and related technologies in Sweden.
 Our mission is to empower Swedish industry, academia and the public sector to leverage HPC, AI, and HPDA efficiently and effectively. 
@@ -156,7 +156,7 @@ so they do not all conform equally well to the recommendations presented in this
 - Be able to explain why Python code is often slow
 - Understand the concept of vectorisation
 - Understand the importance of measuring performance and profiling code before optimising
-- Be able to describe the difference between “embarrasing”, shared-memory and distributed-memory parallelism
+- Be able to describe the difference between "embarrassing", shared-memory and distributed-memory parallelism
 - Know the basics of parallel workflows, multiprocessing, multithreading and MPI
 - Understand pre-compilation and know basic usage of Numba and Cython
 - Have a mental model of how Dask achieves parallelism
@@ -165,7 +165,7 @@ so they do not all conform equally well to the recommendations presented in this
 
 #### [Julia for High Performance Scientific Computing](https://enccs.github.io/Julia-for-HPC/)
 
-- Experienced practioners in other languages understand what's different/special about Julia
+- Experienced practitioners in other languages understand what's different/special about Julia
 - Become familiar with typical structure of a Julia package
 - Set up efficient workflow for developing in Julia and using the package manager
 - Learn to efficiently work with data 

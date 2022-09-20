@@ -8,7 +8,7 @@
 ```
 
 
-# Pre-workshop preparation
+# Pre-workshop Preparation
 
 These things will help you get the most out of this workshop, by
 giving you a broad overview at the beginning that you might only get

@@ -3,7 +3,7 @@
 - 10 min exercises
 ```
 
-# Organising and running online workshops
+# Organising and Running Online Workshops
 
 ```{questions}
   - What are the steps for organizing an ENCCS workshop?
