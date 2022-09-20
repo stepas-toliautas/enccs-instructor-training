@@ -103,13 +103,20 @@ on the complexity of their mental models.
 
 ![Mental Models](https://carpentries.github.io/instructor-training/fig/mental_models.svg)
 
-### Understanding new ideas
+### Understanding new concepts
 
-Learners absorb new knowledge most effectively when it connects with what they already 
-know. We can understand this as adding new nodes and their connections to existing nodes 
-to their mental models.
+According to the [constructivism] theory in education, learners do not acquire knowledge and 
+understanding by passively perceiving it but rather by constructing new understanding and knowledge 
+through experience and social discourse, **integrating new information with what they already know**.
+We can understand this as adding new nodes and their connections to existing nodes 
+to their mental models. We should thus try to connect new concepts with existing knowledge 
+that we can assume the learners to have.
 
-*Good analogies* can be extraordinarily useful when teaching, because they draw upon an 
+Memory retention is also improved when learners are required to **attach meaning to new information 
+and reflect on why it is important**. Instructors can assign tasks which require explanation 
+(e.g. why something happened) to promote learners to meaningfully organise new information.
+
+**Good analogies** can be extraordinarily useful when teaching, because they draw upon an 
 existing mental model to fill in another, speeding learning and making a memorable 
 connection. However, all analogies have limitations! If you choose to use an analogy, be sure 
 its usefulness outweighs its potential to generate misconceptions that may interfere with 
