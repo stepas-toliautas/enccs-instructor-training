@@ -32,14 +32,31 @@ Write down your thoughts in the notes:
 
 ## General workshop arrangements
 
-- Select a coordinator, recruit instructors (at least 3 is important),
-  find helpers
-- Find a good lecture room:
-  [requirements](https://github.com/coderefinery/manuals/blob/master/workshop-requirements-inperson.md)
+- Select a coordinator, recruit instructors and helpers (at least 3 is important),
+- In-person workshops: Find a good lecture room
+  ([requirements](https://github.com/coderefinery/manuals/blob/master/workshop-requirements-inperson.md))
+- Decide on a maximum number of participants based on number of instructors and helpers
 - Set up workshop webpage
 - Advertise the workshop
 - Communicate with registered participants
 
+
+## Registration
+
+- Use a powerful registration platform (for example [Indico](https://getindico.io/))
+- Open registration well in advance of workshop
+- Assume 25-30\% no-shows
+- Use moderated registration (registrations need to by approved)
+- Set autoreplies
+  - upon registration: inform that registration needs to be approved, currently on waiting list
+  - upon approval: inform that registration is now completed
+- Maintain a waiting list, e.g. by moderated registration 
+  - set maximum number of registrations in registration platform to 50\% above intended number
+  - accept 25\% above your intended number
+  - as you receive cancellations, accept from the waiting list
+  - in communication with registered participants, request participants to notify of cancellation asap
+
+--- 
 
 ## Online workshop approach
 
