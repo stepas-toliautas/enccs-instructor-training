@@ -1,4 +1,4 @@
-# How to teach online
+# Interactive teaching
 
 ```{objectives}
 - Understand the benefits and disadvantage of online teaching,

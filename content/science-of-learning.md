@@ -3,7 +3,7 @@
    - 30 min exercises   
 ```   
 
-# Teaching style
+# The Science of Learning
 
 ```{questions}
   - What pedagogical concepts underpin ENCCS workshops?
@@ -76,7 +76,7 @@ through distinct stages through practice and formal instruction. In simplified f
 Participants in ENCCS workshops are usually *competent practitioners*. They already write 
 code and know what additional tools or techniques they need to learn to accomplish their goals.
 
-As will be further discussed in the episode on :ref:`Lesson development <lesson_development>`_, 
+As will be further discussed in the episode on [Lesson development](lesson-development.md), 
 it is important to clearly define the target audience of workshops, including their 
 background knowledge and training needs.
 

@@ -40,16 +40,22 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
 
 .. toctree::
    :maxdepth: 1
-   :caption: The lesson
+   :caption: Core episodes
 
    welcome.md
    about-enccs.md
    enccs-lessons.md
-   teaching-style.md
+   science-of-learning.md
    lesson-development.md
-   workshops-online.md
-   teaching-strategies.md
+   interactive-teaching.md
    exercises.md
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Optional episodes
+
+   workshops-online.md
+
 
 .. toctree::
    :maxdepth: 1

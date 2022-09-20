@@ -1,5 +1,3 @@
-.. _lesson_development:
-
 # Lesson development
 
 ```{questions}
@@ -399,6 +397,8 @@ code changes. This serves multiple purposes:
 - It's possible (and common) to enable *automated testing* so that each pull request is tested 
   automatically in the cloud so that the reviewer can see whether a pull request passes all 
   unit tests.
+
+There's no reason not to apply these practices to collaborative lesson development!
 ```
 
 ---
