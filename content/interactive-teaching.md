@@ -217,32 +217,20 @@ Things that don't work (are not team teaching):
 
 ---
 
-## Why teaching mechanics matter
+## Teaching mechanics 
 
-- When you teach, you are mainly showing a basic example for the
-  learner to follow along
+The mechanics of online or in-person teaching is all about the tools and visual 
+aspects of teaching. It is important to plan and prepare these technical 
+aspects before a workshop.
+
 - The learner has a *lot* more to think about than you do, so you need
   to minimize the possible distractions and unnecessary weirdness.
-- A learner will often only one small screen, limiting the number of
-  things that they can think about.
-- You are must faster than learners (5 times possibly?)  You have to
-  do things to slow yourself down.
-- It's easy to save these mechanics until the end, and then you run
-  out of time.
+- A learner will often use only one small screen, limiting the number of
+  things that they can focus on.
+- You are must faster than learners. You have to do things to slow yourself down.
 
 
 ### Shell sharing
-
-```{discussion} Discussion: what goes into a good shell share or demonstration?
-
-When you are following along with a type-along demonstration, what
-things:
-
-- Are useful to make it easy to follow along
-- Make it harder to follow along
-
-Answer in the collaborative notes
-```
 
 When doing any demonstration, there are difficulties:
 
@@ -257,11 +245,8 @@ A good **shell share** has some of the following properties:
 - Shell history, available separately from the main shell window
 - Closely matches the type-along instructions
 
-We have a collection of shell sharing systems:
-- We will look over [lesson presentation
-hints](https://coderefinery.github.io/manuals/instructor-tech-setup/#terminal-history-window).
-- There are other things you can copy
-- Whatever you do, do *something*.
+A collection of good practices for screen sharing your shell environment can be found  
+[here](https://coderefinery.github.io/manuals/instructor-tech-setup/#terminal-history-window).
 
 ```{discussion}
 The instructor will demonstrate several shell-sharing systems.  You
