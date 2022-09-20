@@ -88,53 +88,23 @@ of machine learning methods.
 ---
 
 
-```{discussion} What we do differently?
-- Teaching material available in advance and not PDF slides
-- Interactive, hands-on teaching. Presentations interleaved with exercises
-- Different teaching roles (instructor, host, hackmd, ...)
+```{discussion} Key features of ENCCS training
+
+- Teaching material (lessons) available in advance and not PDF slides
+- Lessons suitable also for self study
+- Interactive, hands-on teaching: presentations and type-alongs interleaved with exercises
+- Clearly defined teaching roles (instructor, host, hackmd, ...)
 - Helper recruitment 
-- Less is more
-- Clearly defining learning objectives
-- Asking for feedback, encouraging feedback
-- Clearly defined code of conduct
+- Frequently asking for and encouraging feedback 
+- Emphasis on code of conduct
 - Thoughtful screen-sharing
-- Using lesson templates
-- Lesson review on GitHub
-- Sharing material open source instead of being protective.
+- Lessons based on well defined learning objectives
+- Using a standard lesson template
+- Collaborative lesson development and peer review on GitHub
+- Lessons are open source instead of private.
 ```
 
-```{challenge} Ice-breaker in groups (10 minutes)
-- Share your approach to teaching and your teaching philosophy with your group.
-- Please share your tricks and solutions in the live document for others.
-
-Additional ice-breaker questions:
-- What is your motivation for taking this training?
-- How structured or informal are your own teaching needs?
-- What other skills need to be taught, but academic teaching isn't the right setting?
-```
-
-````{challenge} What are the top issues new instructors face? (10 minutes)
-
-Brainstorm about what issues new teachers/instructors might face in interactive workshops.
-Write down your thoughts in the shared document.
- 
-```{solution} Some suggestions
- -  Breaks are not negotiable, minimum 10 minutes per hour.
- -  Exercise sessions too short. Better to have them as long as possible.
- -  Get the speed correct. Not too fast and not too slow. 
- -  Cater to participants with different backgrounds and at different levels of experience
- -  People will accomplish less than you expect. Expect learners to be 5 times slower than you, at best!
- -  Installation instructions not sufficiently complete. Installation will go wrong for some participants.
- -  Trying to accomplish too much or go through everything: it's OK to cut out and adapt to the audience. 
-    Have a reserve session at the end that you prepare, but are ready to skip.
- -  Explaining *how*, but not *why*.
- -  Not making your environment match the learner's.
- -  Not setting up good screen sharing practices (terminal history, portion of screen).
- -  Assuming learners remember what they have already learned, or know the prerequisites. Or have stuff installed and configured.
- -  Not managing expectations: learners think that you will accomplish everything, and feel sad when you don't.
- -  Special issues when lessons delivered online (discussed during "How to teach online")
-```
-````
+---
 
 ## ENCCS lessons
 
@@ -279,3 +249,36 @@ so they do not all conform equally well to the recommendations presented in this
 - Get an vverview of the main QC hardware approaches
 - Understand how QC can be integrated with classical computing through hybrid classical/quantum algorithms and HPC-QC systems.
 - Learn to perform quantum software testing with the Quito tool
+
+```{challenge} Ice-breaker in groups (10 minutes)
+- Share your approach to teaching and your teaching philosophy with your group.
+- Please share your tricks and solutions in the live document for others.
+
+Additional ice-breaker questions:
+- What is your motivation for taking this training?
+- How structured or informal are your own teaching needs?
+- What other skills need to be taught, but academic teaching isn't the right setting?
+```
+
+````{challenge} What are the top issues new instructors face? (10 minutes)
+
+Brainstorm about what issues new teachers/instructors might face in interactive workshops.
+Write down your thoughts in the shared document.
+ 
+```{solution} Some suggestions
+ -  Breaks are not negotiable, minimum 10 minutes per hour.
+ -  Exercise sessions too short. Better to have them as long as possible.
+ -  Get the speed correct. Not too fast and not too slow. 
+ -  Cater to participants with different backgrounds and at different levels of experience
+ -  People will accomplish less than you expect. Expect learners to be 5 times slower than you, at best!
+ -  Installation instructions not sufficiently complete. Installation will go wrong for some participants.
+ -  Trying to accomplish too much or go through everything: it's OK to cut out and adapt to the audience. 
+    Have a reserve session at the end that you prepare, but are ready to skip.
+ -  Explaining *how*, but not *why*.
+ -  Not making your environment match the learner's.
+ -  Not setting up good screen sharing practices (terminal history, portion of screen).
+ -  Assuming learners remember what they have already learned, or know the prerequisites. Or have stuff installed and configured.
+ -  Not managing expectations: learners think that you will accomplish everything, and feel sad when you don't.
+ -  Special issues when lessons delivered online (discussed during "How to teach online")
+```
+````

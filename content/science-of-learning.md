@@ -105,7 +105,7 @@ on the complexity of their mental models.
 
 ### Understanding new concepts
 
-According to the [constructivism] theory in education, learners do not acquire knowledge and 
+According to the [constructivism](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)) theory in education, learners do not acquire knowledge and 
 understanding by passively perceiving it but rather by constructing new understanding and knowledge 
 through experience and social discourse, **integrating new information with what they already know**.
 We can understand this as adding new nodes and their connections to existing nodes 

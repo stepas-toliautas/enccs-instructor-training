@@ -7,7 +7,10 @@
 
 ## The importance of going slow
 
-It takes work to actively assess mental models throughout a workshop; this also takes time. This can make Instructors feel conflicted about using formative assessment routinely. However, the need to conduct routine assessment is not the only reason why a workshop should proceed more slowly than you think.
+It takes work to actively assess mental models throughout a workshop; this also takes time. This can 
+make Instructors feel conflicted about using formative assessment routinely. However, the need to 
+conduct routine assessment is not the only reason why a workshop should proceed more slowly than you 
+think.
 
 Because your learners' mental models will likely be less densely connected than your own, a 
 conclusion that seems obvious to you will not seem that way to your learners. It is important to 
@@ -24,13 +27,21 @@ explain what happened and how the error message can be understood. This will not
 to understand and read stack traces, but also give them confidence from seeing that even an expert 
 makes mistakes!
 
+### Expert awareness gap 
+
+Because your learners’ mental models will likely be less densely connected than your own, a 
+conclusion that seems obvious to you will not seem that way to your learners. It is important to 
+explain what you are doing step-by-step, and how each step leads to the next one.
+
+Note that the expert awareness gap is also referred to as "expert blind spot". 
+
 ### Meta-talk
 
 Don't just teach, also make sure you guide the learners through the
 course.
 
 - You know what you just discussed, and what is coming next, but
-  learners are often stuck thinking about now.
+  learners are often stuck thinking about what is happening right now.
 - Give a lot of "meta-talk" that is not just about the topic you are
   teaching, but how you are teaching it.
 - Examples
@@ -41,12 +52,6 @@ course.
   - What is the point of each lesson.  How much should people expect
     to get from it?  Should you follow everything, or are some things
     advanced and optional?  Make that clear.
-
-### Multiple modalities
-
-Learning can be enhanced by combining multiple information sources, for example by showing 
-and image or code snippet while explaining it aloud. But make sure to stick to the script! 
-Conflicting information splits the attention and leads to unnecessary cognitive load.
 
 
 ---
@@ -65,17 +70,37 @@ Exercises which learners should solve by themselves can build on the type-along
 sessions but with some of the scaffolding removed so that they need to complete some 
 problem steps independently (or in groups).
 
+### Stick to the script
 
+Learning can be enhanced by combining multiple information sources, for example by showing 
+a piece of code (or a graphic or list of bullet points) while explaining it aloud. 
+But make sure to stick to the script! 
+Conflicting information splits the attention and leads to unnecessary cognitive load.
 
+### Copy-pasting vs manual typing  
 
+Manually typing out code into a programming environment takes significantly longer time than 
+copy-pasting it from lesson material, but learners usually strongly prefer it. Typing out 
+every single code covered in a workshop might be too much, but instructors should try to 
+manually write out as much as is reasonable to do.
 
+---
 
 ## Keeping learners motivated
 
-**Invite Participation**
+**Belonging**
 
+- It's been estimated that nearly 70\% of individuals will experience 
+  signs and symptoms of impostor syndrome at least once in their life! Research shows that 
+  this phenomenon is not uncommon for students who enter a new academic environment.
+- If learners feel that they belong and are accepted in a learning environment they will 
+  be more motivated to learn. 
 - Having, discussing, and enforcing a Code of Conduct provides a framework for positive 
   communication to occur.
+
+
+**Invite Participation**
+
 - Encourage learners to learn from each other. Working in pairs or in groups encourages learners to 
   talk through their learning process, reinforcing memory and making it more likely that confusion 
   will be expressed and resolved. This can also address challenges of varying background experience: 
@@ -87,10 +112,8 @@ problem steps independently (or in groups).
 
 **Any questions?**
 
-A well-intended move that can go wrong is the call for questions. An instructor may accidentally 
-dismiss learner confusion by asking for questions in a way that reveals that they do not actually 
-expect that anyone will have them. 
-
+Instructor may accidentally dismiss learner confusion by asking for questions in a way that 
+reveals that they do not actually expect that anyone will have them. 
 Instead of asking "Does anyone have any questions?" and then quickly moving on, 
 consider asking instead "What questions do you have?" and leaving a good pause for 
 consideration. This establishes an expectation that people will, indeed, have questions, and 
