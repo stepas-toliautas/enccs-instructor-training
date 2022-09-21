@@ -261,6 +261,37 @@ Why static sites?
 - Templates can be freely re-used
 
 
+```{challenge} Explore a Sphinx lesson
+- Open this very lesson in GitHub (it uses the same format as typical CodeRefinery and ENCCS 
+  lessons): https://github.com/ENCCS/instructor-training (you can also click on the "Edit on 
+  GitHub" link in the top-right corner).
+- Browse the files and understand the general idea. Check out at least these and use HackMD to 
+  record their functions:
+  - .github/workflows/sphinx.yml
+  - content/conf.py
+  - content/index.rst
+  - content/lesson-development.md
+- If you want, try to make a pull request to this lesson. It doesn’t have to have any significant 
+  content, it can be a pure test pull request.
+```
+
+```{challenge} (Advanced) Create your own lesson
+Use the [sphinx-lesson-template](https://github.com/ENCCS/sphinx-lesson-template) to create a new 
+lesson of your choice. 
+- Click "Use this template" and choose a name and where you want to create it. Make it Public and 
+  don't select "Include all branches"
+- After the new repository is created, wait a couple of minutes before the `gh-pages` branch 
+  is created by the automatic GitHub Action. Then go to "Settings" and click "Pages" from the left 
+  menu. There select `gh-pages` under the Branch section. Don't change from "/ (root)".
+- After a few minutes, there should be a new box at the top of the "pages" page showing 
+  "Your site is live at https://<some-username>.github.io/<lesson-name>". Click the link 
+  to see your empty lesson!
+- If you want to try out different functionality, go to 
+  https://coderefinery.github.io/sphinx-lesson/ and have a look at the episodes under "Basic 
+  Syntax". You can create new episodes in Markdown, RST or a Jupyter notebook and include them 
+  in `index.rst` under "The lesson" (make sure to use consistent indentation)
+```
+
 ---
 
 ### Contributing to existing lessons
