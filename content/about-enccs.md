@@ -1,5 +1,6 @@
 ```{instructor-note}
    - 15 min teaching
+   - 10 min discussion
 ```   
 
 # About ENCCS
@@ -66,7 +67,7 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 
 > ## Competent practitioners
 > CodeRefinery learners can be qualified as **competent practitioners** because they already have an understanding of their needs.
-> *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <teaching-style>`.
+> *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <science-of-learning>`.
 {: .callout}
 
 
@@ -241,7 +242,7 @@ so they do not all conform equally well to the recommendations presented in this
 - Understand how QC can be integrated with classical computing through hybrid classical/quantum algorithms and HPC-QC systems.
 - Learn to perform quantum software testing with the Quito tool
 
-```{discussion}
+```{challenge}
 - Are there any lessons in the list above that you would like to use in your own teaching?
 - (After the instructor gives an overview of one of the lessons) What do you think about this 
   lesson format? How does it compare to training material that you use?

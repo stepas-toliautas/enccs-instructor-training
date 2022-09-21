@@ -275,7 +275,7 @@ Why static sites?
   content, it can be a pure test pull request.
 ```
 
-```{challenge} (Advanced) Create your own lesson
+```{challenge} Create your own lesson
 Use the [sphinx-lesson-template](https://github.com/ENCCS/sphinx-lesson-template) to create a new 
 lesson of your choice. 
 - Click "Use this template" and choose a name and where you want to create it. Make it Public and 
