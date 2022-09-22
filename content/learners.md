@@ -16,11 +16,6 @@
 - Understand what is meant by feedback, cognitive development and mental models
 ```
 
-
-
-
----
-
 ## Who are your learners?
 
 The first task in teaching is to figure out who your learners are. According to the 
@@ -43,7 +38,7 @@ through distinct stages through practice and formal instruction. In simplified f
 Participants in ENCCS workshops are usually *competent practitioners*. They already write 
 code and know what additional tools or techniques they need to learn to accomplish their goals.
 
-As will be further discussed in the episode on [Lesson development](lesson-development.md), 
+As will be further discussed in the episode on [Lesson design](lesson-design.md), 
 it is important to clearly define the target audience of workshops, including their 
 background knowledge and training needs.
 
@@ -114,67 +109,6 @@ correct information. Broadly speaking, misconceptions fall into three categories
 > Describe a misconception you have encountered as a teacher or as a learner.
 {: .challenge}
 
-
----
-
-## Memory
-
-Here we will be learning more about human memory: specifically, how to remove unnecessary 
-"load" in order to facilitate learning.
-
-### Types of memory
-
-Learning involves memory. For our purposes, human memory can be divided into two different 
-layers. The first is called **long-term**. It is where we store persistent information like 
-our friends' names and our home address. It is essentially unbounded but it is slow to access.
-
-Our second layer of memory is called **short-term**. This is the type of memory you use to 
-actively think about things and is often called *working memory*. It is much faster, but also 
-much smaller: in 1956, George Miller estimated that the average adult's short-term memory 
-could hold 7±2 items for a few seconds before things started to drop out. 
-
-This has important implications for teaching. If we present our learners with large amounts 
-of information, without giving them the opportunity to practice using it (and thereby 
-transfer it into long-term memory), they will not retain the material as well as if we 
-present small amounts of information interspersed with practice opportunities. This is yet 
-another reason why going slowly and using frequent formative assessment is important.
-
-### Memory management
-
-- **Chunking**: Our minds can store larger numbers of facts in short-term memory by creating 
-  chunks, or relationships among separate items, allowing them to be remembered as a single 
-  item. Connecting information makes it easier to remember.
-- **Formative assessment to support memory consolidation**: Formative assessment helps 
-  learners solidify their understanding and begin transferring ideas into long-term memory.
-  Limitations of short-term memory are one reason why assessments should be frequent: short-term memory is limited not only in space, but also in time.
-- **Group work**: Elaboration (explaining your work) supports transfer to long-term 
-  memory. This is one reason why teaching is one of the most effective ways to learn! Group 
-  work can feel uncomfortable at first and consumes time in a workshop, but learners often 
-  rate group work as a high point for both enjoyment and learning in a workshop.   
-- **Opportunities for reflection**: Reflection is another tool that can help learners review 
-  things they have learned, strengthen connections between them, and consolidate long-term 
-  memories. Asking learners for feedback can be an effective consolidating prompt as providing 
-  feedback demands some reflection on what has been learned.
-- **Limit concepts**:  It is important to limit the number of concepts introduced in a lesson, but   
-  this can be hard! Planning your lesson with a concept map can help you not only identify key 
-  concepts and relationships, but also to notice when you are trying to teach too many things at 
-  once.
-
-> ## Formative and summative assessment
-> *Formative assessment* takes place during teaching and learning. It sounds like
-> a fancy term, but it can be used to describe any interaction or activity
-> that provides feedback to both instructors and learners about learners' level of understanding of the
-> material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
-> their instruction to respond to challenges that learners are facing.
-> Used continuously.
-> 
-> *Summative assessment* is used
-> to judge whether a learner has reached an acceptable level of competence.
-> Usually at the end of a course 
-> Learners either "pass" or "fail" a summative assessment.
-{: .callout}
-
-
 ---
 
 ## Cognitive load
@@ -224,7 +158,6 @@ positive-vs-negative and content-vs-presentation rubric.
 >
 {: .challenge}
 
----
 
 
 

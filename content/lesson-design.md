@@ -85,6 +85,57 @@ Discuss either in groups or via collaborative document:
 
 ---
 
+## Memory management
+
+Learning involves memory. For our purposes, human memory can be divided into two different 
+layers, **long-term** and  **short-term**. 
+Long-term memory, which we use to store persistent information, is essentially unbounded but is 
+slow to access. Short-term memory (also called working memory), which we use to actively think 
+about things is much faster but also much smaller. It has been estimated that the average 
+adult's short-term memory can hold 7±2 items for a few seconds before things started to drop out. 
+
+If we present our learners with large amounts 
+of information, without giving them the opportunity to practice using it (and thereby 
+transfer it into long-term memory), they will not retain the material as well as if we 
+present small amounts of information interspersed with practice opportunities. 
+
+When designing lessons we can try to maximise memory retention through a number of strategies:
+
+- **Chunking**: Our minds can store larger numbers of facts in short-term memory by creating 
+  chunks, or relationships among separate items, allowing them to be remembered as a single 
+  item. Connecting information makes it easier to remember.
+- **Formative assessment to support memory consolidation**: Formative assessment helps 
+  learners solidify their understanding and begin transferring ideas into long-term memory.
+  Limitations of short-term memory are one reason why assessments should be frequent: short-term memory is limited not only in space, but also in time.
+- **Group work**: Elaboration (explaining your work) supports transfer to long-term 
+  memory. This is one reason why teaching is one of the most effective ways to learn! Group 
+  work can feel uncomfortable at first and consumes time in a workshop, but learners often 
+  rate group work as a high point for both enjoyment and learning in a workshop.   
+- **Opportunities for reflection**: Reflection is another tool that can help learners review 
+  things they have learned, strengthen connections between them, and consolidate long-term 
+  memories. Asking learners for feedback can be an effective consolidating prompt as providing 
+  feedback demands some reflection on what has been learned.
+- **Limit concepts**:  It is important to limit the number of concepts introduced in a lesson, but   
+  this can be hard! Planning your lesson with a concept map can help you not only identify key 
+  concepts and relationships, but also to notice when you are trying to teach too many things at 
+  once.
+
+```{callout} Formative and summative assessment
+*Formative assessment* takes place during teaching and learning. It sounds like
+a fancy term, but it can be used to describe any interaction or activity
+that provides feedback to both instructors and learners about learners' level of understanding of the
+material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
+their instruction to respond to challenges that learners are facing.
+Used continuously.
+ 
+*Summative assessment* is used
+to judge whether a learner has reached an acceptable level of competence.
+Usually at the end of a course 
+Learners either "pass" or "fail" a summative assessment.
+```
+
+---
+
 ## Designing exercises
 
 Well designed examples and exercises can go a long way towards correcting misconceptions 
