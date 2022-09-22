@@ -3,7 +3,7 @@
    - 30 min exercises   
 ```   
 
-# The Science of Learning
+# Who are your learners?
 
 ```{questions}
   - What pedagogical concepts underpin ENCCS workshops?
@@ -16,28 +16,6 @@
 - Understand what is meant by feedback, cognitive development and mental models
 ```
 
-## Carpentry instructor training
-
-Here we will give you a short overview of the Carpentries approach to teaching and highlight parts that are most important for teaching ENCCS style lessons.
-
-Most ENCCS instructors have completed the
-[Carpentry instructor training workshop](https://carpentries.github.io/instructor-training/), which
-[anyone can apply for](https://carpentries.org/become-instructor/).
-
-
-> ### This material
->
-> This section is derived from the
-> [Carpentries instructor training material](https://carpentries.github.io/instructor-training/).
-> We encourage you to further study this material later, and to sign up for a 2-day Carpentry
-> intructor training workshop.
-{: .callout}
-
-The "Carpentries" approach to teaching is based on:
-
-- Applying research-based teaching principles, especially as they apply to the 
-  Carpentries audience.
-- Understanding the importance of a respectful and inclusive classroom environment.
 
 
 ### Key aspects

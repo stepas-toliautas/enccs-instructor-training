@@ -23,31 +23,44 @@ workshops and the teaching itself.
 
 ---
 
-> ## About CodeRefinery
->
-> [CodeRefinery](https://coderefinery.org/) is a [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) project that started in October 2016.
-> The main goals of CodeRefinery are:
-> - Develop and maintain training material on software best practices for researchers that already write code. Our material addresses all academic disciplines and tries to be as programming language-independent as possible.
-> - Provide a [code repository hosting service](https://coderefinery.org/repository/) that is open and free for all researchers based in universities and research institutes from Nordic countries.
-> - Provide training opportunities in the Nordics using Carpentries and CodeRefinery training materials.
-> - Articulate and implement the CodeRefinery sustainability plan.
-{: .callout}
+## About CodeRefinery
 
-> ## About The Carpentries
-> 
-> [The Carpentries](https://carpentries.org/) is an international project that comprises [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/), 
-> communities of instructors, trainers, maintainers, helpers, and supporters who share a mission to 
-> teach foundational computational and data science skills to researchers. The Carpentries teach 
-> foundational coding and data science skills to researchers worldwide.
-{: .callout}
+[CodeRefinery](https://coderefinery.org/) is a [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) project that started in October 2016.
+The main goals of CodeRefinery are:
+- Develop and maintain training material on software best practices for researchers that already write code. Our material addresses all academic disciplines and tries to be as programming language-independent as possible.
+- Provide a [code repository hosting service](https://coderefinery.org/repository/) that is open and free for all researchers based in universities and research institutes from Nordic countries.
+- Provide training opportunities in the Nordics using Carpentries and CodeRefinery training materials.
+- Articulate and implement the CodeRefinery sustainability plan.
 
+## About The Carpentries
+ 
+[The Carpentries](https://carpentries.org/) is an international project that comprises [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/), 
+communities of instructors, trainers, maintainers, helpers, and supporters who share a mission to 
+teach foundational computational and data science skills to researchers. The Carpentries teach 
+foundational coding and data science skills to researchers worldwide.
+
+### Carpentry instructor training
+
+ENCCS instructors are encouraced to complete the
+[Carpentry instructor training workshop](https://carpentries.github.io/instructor-training/), which
+[anyone can apply for](https://carpentries.org/become-instructor/).
+
+This instructor training lesson presents several concepts and methods from the Carpentries 
+approach to teaching and highlight parts that are most important for teaching ENCCS style lessons.
+We encourage you to further study the Carpentry lesson later and to sign up for a 2-day Carpentry
+intructor training workshop.
+
+The "Carpentries" approach to teaching is based on:
+
+- Applying research-based teaching principles, especially as they apply to the 
+  Carpentries audience.
+- Understanding the importance of a respectful and inclusive classroom environment.
 
 ---
 
 ## Target audience
 
 ### Carpentries audience
-
 
 The Carpentries aims to teach computational **competence** to learners through an applied approach, avoiding the theoretical and general in favor of the practical and specific.
 **Learners do not need to have any prior experience in programming.**  One major goal of a Carpentry workshop is to raise awareness on the tools researchers can learn/use to speed up their research.
@@ -67,7 +80,7 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 
 > ## Competent practitioners
 > CodeRefinery learners can be qualified as **competent practitioners** because they already have an understanding of their needs.
-> *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <science-of-learning>`.
+> *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <learners>`.
 {: .callout}
 
 
