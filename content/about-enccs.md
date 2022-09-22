@@ -3,7 +3,7 @@
    - 10 min discussion
 ```   
 
-# About ENCCS
+# About ENCCS training
 
 [ENCCS](https://enccs.se/) (EuroCC National Competence Center Sweden) is one of 33 
 nodes of the [EuroCC project](https://www.eurocc-access.eu/), which is funded by the 
@@ -17,8 +17,6 @@ Our training philosophy and methods are to a large extent derived from two well 
 educational initiatives: [CodeRefinery](https://coderefinery.org/) and [The Carpentries](https://carpentries.org/). The material presented here covers both pedagogical ideas and practical 
 aspects which underpin the development of lesson material, organisation of online or in-person 
 workshops and the teaching itself.
-
-
 
 
 ---
@@ -93,7 +91,21 @@ of machine learning methods.
 
 ---
 
-```{discussion} Key features of ENCCS training
+## Teaching philosophy
+
+ENCCS, CodeRefinery and The Carpentries all teach computational competences to learners through 
+an applied approach. 
+Usually, we avoid the theoretical and general in favor of the practical and specific. By 
+showing learners how to solve specific problems with specific tools and providing hands-on 
+practice, we develop learners’ confidence and empower them to start applying new knowledge 
+immediately.
+
+- Learners need to practice what they are learning in real time and get **feedback** on what they are doing. That is why the teaching approach relies on **live coding**.
+- Learners best learn in a respectful and motivating classroom environment, so it's important to use a **Code of Conduct** and avoid certain demotivating language. 
+- Learners are encouraged to help each other and collaborate during workshops as this improves their confidence and reinforces concepts taught.
+
+
+### Key features 
 
 - Teaching material (lessons) available in advance and not PDF slides
 - Lessons suitable also for self study
@@ -107,156 +119,4 @@ of machine learning methods.
 - Using a standard lesson template
 - Collaborative lesson development and peer review on GitHub
 - Lessons are open source instead of private.
-```
 
----
-
-## ENCCS lessons
-
-Below is a list of current ENCCS lessons along with their intended learning outcomes. 
-These lessons are at different maturity levels and have been developed by many different people, 
-so they do not all conform equally well to the recommendations presented in this lesson!
-
-
-### GPU computing
-
-#### [OpenMP for GPU Offloading](https://enccs.github.io/openmp-gpu/miniapp/)
-
-- Get an overview of the architecture of GPU and how they differ from CPUs
-- Understand how OpenMP fits into the landscape of GPU programming approaches
-- Understand OpenMP's shared parallel model and program execution model
-- Learn how to use basic OpenMP directives and clauses
-
-#### [OpenACC](https://enccs.github.io/OpenACC/)
-
-- Get an overview of the architecture of GPU and how they differ from CPUs
-- Understand how OpenACC fits into the landscape of GPU programming approaches
-- Understand OpenACC's shared parallel model and program execution model
-- Learn how to use basic OpenACC directives and clauses
-
-#### [Intermediate CUDA](https://enccs.github.io/CUDA/)
-
-- Get an overview of the architecture of GPU and how they differ from CPUs
-- Understand GPU concepts like threads, blocks and streaming multiprocessors 
-- Learn to write simple CUDA kernels
-- Learn to work with GPU memory
-- Learn to optimize CUDA kernels
-- Understand asynchronous execution
-
-#### [SYCL](https://enccs.github.io/sycl-workshop/)
-
-- What is SYCL and why it is useful.
-- Write hardware-agnostic code to express parallelism using the queue, command group, and kernel abstractions.
-- Use buffer and accessors to handle memory across devices.
-- Evaluate drawbacks and advantages of unified shared memory.
-- Get acquainted with the SYCL profiling API.
-
-### HPC
-
-#### [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
-
-- Understand communicators, groups and derived datatypes
-- Learn to use one-sided communication
-- Understand and be able to use collective communication, blocking and non-blocking
-- Understand how to work with MPI and threads
-
-### Programming languages
-
-#### [High-performance Data Analytics with Python](https://enccs.github.io/HPDA-Python/)
-
-- Have a good overview of available tools and libraries for improving performance in Python
-- Know what libraries are available for efficiently storing, reading and writing large data
-- Be comfortable working with NumPy arrays and Pandas dataframes
-- Be able to explain why Python code is often slow
-- Understand the concept of vectorisation
-- Understand the importance of measuring performance and profiling code before optimising
-- Be able to describe the difference between "embarrassing", shared-memory and distributed-memory parallelism
-- Know the basics of parallel workflows, multiprocessing, multithreading and MPI
-- Understand pre-compilation and know basic usage of Numba and Cython
-- Have a mental model of how Dask achieves parallelism
-- Remember key hardware differences between CPUs and GPUs
-- Be able to create simple GPU kernels with Numba
-
-#### [Julia for High Performance Scientific Computing](https://enccs.github.io/Julia-for-HPC/)
-
-- Experienced practitioners in other languages understand what's different/special about Julia
-- Become familiar with typical structure of a Julia package
-- Set up efficient workflow for developing in Julia and using the package manager
-- Learn to efficiently work with data 
-- Know what performance pitfalls exist and learn to benchmark and profile code
-- Learn to use multithreading and distributed computing
-- Understand what different approaches exist for porting code to GPUs
-
-### AI
-
-#### [Upscaling A.I. training](https://enccs.github.io/upscalingAItraining/)
-
-- Learn different strategies to perform distributed training in TensorFlow
-- Learn how to use Horovod for distributed training
-- Learn to containerise neural network training
-
-#### [A.I. as a Tool for Change](https://www.youtube.com/watch?v=_FMnopQNF3M)
-
-- Get an overview of possible use cases for artificial intelligence
-- Understand how AI can effectively be put to use in different sectors and application domains
- 
-
-#### [Graph Neural Networks and Transformer](https://enccs.github.io/gnn_transformers/)
-
-- Learn to use graph neural networks
-- Learn to use transformers
-
-### Applications
-
-#### [Gromacs GPU Performance](https://enccs.github.io/gromacs-gpu-performance/)
-
-- Understand the difference between MPI ranks and OpenMP threads when running GROMACS
-- Be able to name the most important parts of the molecular dynamics workflow
-- Appreciate some of the internal architecture of mdrun
-- Know how to assign the PME workload
-- Know how to use several GPUs efficiently.
-- Know common pitfalls to avoid
-
-
-#### [VeloxChem: Quantum chemistry from laptop to HPC](https://enccs.github.io/veloxchem-workshop/)
-
-- Learn to perform quantum chemical simulations of ground- and excited-state properties of large systems using VeloxChem.
-- Leverage the aggregate resources of modern HPC clusters to efficiently tackle large molecular systems.
-- Use the Python application programming interface (API) to prototype new methods.
-- Design interactive computational teaching materials in Python.
-
- 
-#### [OpenFOAM](https://enccs.github.io/OpenFOAM/)
-
-- Learn how to use OpenFOAM
-
-
-
-### Other
-
-#### [CMake](https://enccs.github.io/cmake-workshop/)
-
-- Write a CMake build system for C, C++, and Fortran projects producing libraries and/or executables.
-- Run tests for your code with CTest.
-- Ensure your build system will work on different platforms.
-- Detect and use external dependencies in your project.
-- Safely and effectively build mixed-language projects (Python+C/C++, Python+Fortran, Fortran+C/C++)
-
-#### [Containers](https://enccs.github.io/Containers/)
-
-- Learn to use Docker
-- Learn to use Singularity
-
-#### [Introduction to Quantum Computing and hybrid HPC-QC systems](https://enccs.github.io/NordIQuEst-workshop/)
-
-- Learn key concepts: quantum states, qubits, quantum algorithms
-- Get an overview of QC programming in high-level languages for use cases in optimisation, finance and quantum chemistry 
-- Get an vverview of the main QC hardware approaches
-- Understand how QC can be integrated with classical computing through hybrid classical/quantum algorithms and HPC-QC systems.
-- Learn to perform quantum software testing with the Quito tool
-
-```{challenge}
-- Are there any lessons in the list above that you would like to use in your own teaching?
-- (After the instructor gives an overview of one of the lessons) What do you think about this 
-  lesson format? How does it compare to training material that you use?
-```

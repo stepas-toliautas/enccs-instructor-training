@@ -44,6 +44,7 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
 
    welcome.md
    about-enccs.md
+   enccs-lessons.md
    learners.md
    lesson-development.md
    interactive-teaching.md

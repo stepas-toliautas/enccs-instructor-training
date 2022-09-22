@@ -18,17 +18,6 @@
 
 
 
-### Key aspects
-
-ENCCS teaches computational competences to learners through an applied approach. 
-Usually, we avoid the theoretical and general in favor of the practical and specific. By 
-showing learners how to solve specific problems with specific tools and providing hands-on 
-practice, we develop learners’ confidence and empower them to start applying new knowledge 
-immediately.
-
-- Learners need to practice what they are learning in real time and get **feedback** on what they are doing. That is why the teaching approach relies on **live coding**.
-- Learners best learn in a respectful and motivating classroom environment, so it's important to use a **Code of Conduct** and avoid certain demotivating language. 
-- Learners are encouraged to help each other and collaborate during workshops as this improves their confidence and reinforces concepts taught.
 
 ---
 
