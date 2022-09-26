@@ -47,9 +47,9 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
    enccs-lessons.md
    learners.md
    lesson-design.md
-   collaborative-development.md
    interactive-teaching.md
    teaching-mechanics.md
+   collaborative-development.md
    exercises.md
 
 .. toctree::
