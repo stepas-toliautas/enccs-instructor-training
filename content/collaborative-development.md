@@ -1,4 +1,4 @@
-# Collaborative lesson development
+# Collaborative Lesson Development
 
 This episode focuses on **organisational** and **technical aspects**
 of collaborative lesson development.
