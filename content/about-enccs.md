@@ -3,7 +3,7 @@
    - 10 min discussion
 ```   
 
-# About ENCCS training
+# ENCCS training
 
 [ENCCS](https://enccs.se/) (EuroCC National Competence Center Sweden) is one of 33 
 nodes of the [EuroCC project](https://www.eurocc-access.eu/), which is funded by the 
@@ -23,16 +23,7 @@ workshops and the teaching itself.
 
 ---
 
-## About CodeRefinery
-
-[CodeRefinery](https://coderefinery.org/) is a [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) project that started in October 2016.
-The main goals of CodeRefinery are:
-- Develop and maintain training material on software best practices for researchers that already write code. Our material addresses all academic disciplines and tries to be as programming language-independent as possible.
-- Provide a [code repository hosting service](https://coderefinery.org/repository/) that is open and free for all researchers based in universities and research institutes from Nordic countries.
-- Provide training opportunities in the Nordics using Carpentries and CodeRefinery training materials.
-- Articulate and implement the CodeRefinery sustainability plan.
-
-## About The Carpentries
+## The Carpentries
  
 [The Carpentries](https://carpentries.org/) is an international project that comprises [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/), 
 communities of instructors, trainers, maintainers, helpers, and supporters who share a mission to 
@@ -56,10 +47,6 @@ The "Carpentries" approach to teaching is based on:
   Carpentries audience.
 - Understanding the importance of a respectful and inclusive classroom environment.
 
----
-
-## Target audience
-
 ### Carpentries audience
 
 The Carpentries aims to teach computational **competence** to learners through an applied approach, avoiding the theoretical and general in favor of the practical and specific.
@@ -71,6 +58,16 @@ By showing learners how to solve specific problems with specific tools and provi
 > Carpentry learners can be qualified as **novices**: they do not know what they need to learn yet. A typical example is the usage of version control: the Carpentry `git` lesson aims to give a very high level conceptual overview of Git but it does not explain how it can be used in research projects.
 {: .callout}
 
+---
+
+## CodeRefinery
+
+[CodeRefinery](https://coderefinery.org/) is a [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) project that started in October 2016.
+The main goals of CodeRefinery are:
+- Develop and maintain training material on software best practices for researchers that already write code. Our material addresses all academic disciplines and tries to be as programming language-independent as possible.
+- Provide a [code repository hosting service](https://coderefinery.org/repository/) that is open and free for all researchers based in universities and research institutes from Nordic countries.
+- Provide training opportunities in the Nordics using Carpentries and CodeRefinery training materials.
+- Articulate and implement the CodeRefinery sustainability plan.
 
 ### CodeRefinery audience
 
@@ -82,9 +79,6 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 > CodeRefinery learners can be qualified as **competent practitioners** because they already have an understanding of their needs.
 > *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <learners>`.
 {: .callout}
-
-
-### ENCCS audience
 
 Similarly to CodeRefinery, ENCCS targets **competent practitioners**: participants are assumed 
 to know what their needs are. Typically, their needs are to learn a technique or method to adapt 
