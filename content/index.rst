@@ -49,6 +49,7 @@ derived from `The Carpentries <https://carpentries.org/>`__ instructor training 
    lesson-design.md
    collaborative-development.md
    interactive-teaching.md
+   teaching-mechanics.md
    exercises.md
 
 .. toctree::
