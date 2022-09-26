@@ -136,16 +136,16 @@ Learners either "pass" or "fail" a summative assessment.
 
 ---
 
-## Designing exercises
+## Designing formative assessment
 
-Well designed examples and exercises can go a long way towards correcting misconceptions 
-and expanding the mental models of learners.
+Well designed formative assessment tasks - i.e. quick questions and exercises - 
+can go a long way towards correcting misconceptions and expanding the mental models of learners.
 
-The goal of exercises is twofold:
-- instructors can assess the progress of learners.
-- learners put in practice the skills that you have included in your skills list.
+The goal of formative assessment is twofold:
+- Instructors can assess the progress of learners.
+- Learners put in practice the skills that you have included in your skills list.
 
-Here are some suggestions to keep in mind:
+Here are some suggestions to keep in mind when designing exercises:
 
 - Not every exercise has to be an amazing hand-on example. Mixing with smaller, more conceptual 
   things can reduce cognitive load.
@@ -155,12 +155,13 @@ Here are some suggestions to keep in mind:
 - Create also more advanced exercises which can be optional for more advanced learners. This can go 
   a long way to meet the needs of participants with a wide range of background knowledge. 
 
-
 Good exercises are the most important factor in a good lesson. Even if you are preparing the rest of 
 the lesson mostly alone, consider a good long brainstorming session to go from "list of topics to 
 cover" to "sequence of exercises".
 
-When you are stuck thinking "how can I make an exercise that covers X", think of the lists below inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use different types:
+When you are stuck thinking "how can I make an exercise that covers X", think of the lists below 
+inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use 
+different types:
 
 Basic types:
 
@@ -170,6 +171,28 @@ Basic types:
 - Inverted coding (given code, have to debug)
 - Parsons problems (working solution but lines in random order, learner must only put in proper order)
 - Fill in the blank
+
+````{challenge} Using formative assessment to identify misconceptions
+Formative assessment can be used to tease out misconceptions using for example multiple choice 
+questions (MCQ). When designed carefully, MCQs can target anticipated misconceptions with surgical 
+precision. 
+
+For example, suppose we are teaching children multi-digit addition. A well-designed MCQ could be:
+
+Q: what is 27 + 15 ?
+- a) 42
+- b) 32
+- c) 312
+- d) 33
+
+What misconceptions do the wrong answers reveal?
+
+```{solution}
+- If the child answers 32, they are throwing away the carry completely.
+- If they answer 312, they know that they cannot just discard the carried ‘1’, but do not understand that it is actually a ten and needs to be added into the next column. In other words, they are treating each column of numbers as unconnected to its neighbors.
+- If they answer 33 then they know they have to carry the 1, but are carrying it back into the same column it came from.
+```
+````
 
 More advanced:
 
@@ -291,7 +314,7 @@ Discussion (15 minutes):
 - CodeRefinery [lesson-design](https://coderefinery.github.io/manuals/lesson-design/) manual
 - [The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org)
 - [Teaching Tech Together](http://teachtogether.tech/)
-- Our [summary](https://coderefinery.github.io/manuals/teaching-tech-together/) of "Teaching Tech Together"
+- A short [summary](https://coderefinery.github.io/manuals/teaching-tech-together/) of "Teaching Tech Together"
 - [Ten quick tips for creating an effective lesson](https://doi.org/10.1371/journal.pcbi.1006915)
 
 ```{keypoints}
