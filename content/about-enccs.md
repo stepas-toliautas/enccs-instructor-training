@@ -10,6 +10,8 @@ nodes of the [EuroCC project](https://www.eurocc-access.eu/), which is funded by
 European High-Performance Computing Joint Undertaking (EuroHPC-JU). As an NCC, we act as the central point of contact for HPC and related technologies in Sweden.
 Our mission is to empower Swedish industry, academia and the public sector to leverage HPC, AI, and HPDA efficiently and effectively. 
 
+![ENCCS pillars](img/about_enccs.png)
+
 Training is one of the main pillars of ENCCS' activities. We have developed a large amount of 
 public and open source [lesson material](https://enccs.se/lessons/) and have taught over 45 
 online workshops since September 2020. 
