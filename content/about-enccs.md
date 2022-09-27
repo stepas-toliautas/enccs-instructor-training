@@ -77,7 +77,7 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 
 > ## Competent practitioners
 > CodeRefinery learners can be qualified as **competent practitioners** because they already have an understanding of their needs.
-> *Novices* and *competent practitioners* will be more clearly defined in the {doc}`next section <learners>`.
+> *Novices* and *competent practitioners* will be more clearly defined in a {doc}`later section <learners>`.
 {: .callout}
 
 ### ENCCS audience
@@ -105,16 +105,43 @@ immediately.
 
 ### Key features 
 
-- Teaching material (lessons) available in advance and not PDF slides
-- Lessons suitable also for self study
-- Interactive, hands-on teaching: presentations and type-alongs interleaved with exercises
-- Clearly defined teaching roles (instructor, host, hackmd, ...)
-- Helper recruitment 
-- Frequently asking for and encouraging feedback 
-- Emphasis on code of conduct
-- Thoughtful screen-sharing
-- Lessons based on well defined learning objectives
-- Using a standard lesson template
-- Collaborative lesson development and peer review on GitHub
+- Teaching material (lessons) available in advance and not PDF slides.
+- Lessons suitable also for self study.
+- Interactive, hands-on teaching: presentations and type-alongs interleaved with exercises.
+- Shared collaborative workshop document for questions, answers, information etc.
+- Clearly defined teaching roles (instructor, host, answering questions in shared document, ...)
+- Recruiting volunteer helpers and instructors.
+- Frequently asking for and encouraging feedback.
+- Emphasis on code of conduct and inclusivity.
+- Thoughtful screen sharing and shell sharing.
+- Lessons developed from well defined learning objectives.
+- Using a standard lesson template.
+- Collaborative lesson development and peer review on GitHub.
 - Lessons are open source instead of private.
 
+`````{challenge} How common are these practices?
+
+How many of the teaching features above do you use in your own teaching? 
+
+The instructor can copy-paste the list below to the collaborative document for a poll.
+
+````{solution}
+```
+Poll: Which of these practices do you use in your teaching? Vote by adding "o".
+
+- Teaching material (lessons) available in advance and not PDF slides: o
+- Lessons suitable also for self study: o
+- Interactive, hands-on teaching: presentations and type-alongs interleaved with exercises: o
+- Shared collaborative workshop document for questions, answers, information etc: o
+- Clearly defined teaching roles (instructor, host, answering questions in shared document, ...): o
+- Recruiting volunteer helpers and instructors: o
+- Frequently asking for and encouraging feedback: o
+- Emphasis on code of conduct and inclusivity: o
+- Thoughtful screen sharing and shell sharing: o
+- Lessons developed from well defined learning objectives: o
+- Using a standard lesson template: o
+- Collaborative lesson development and peer review on GitHub: o
+- Lessons are open source instead of private: o
+```
+````
+`````
