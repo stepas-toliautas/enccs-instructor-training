@@ -1,6 +1,6 @@
 # Instructor guide
 
-## Intended learning outcomes
+## Detailed learning outcomes
 
 After attending this workshop, learners should:
 
