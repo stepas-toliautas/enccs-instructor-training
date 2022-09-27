@@ -7,11 +7,11 @@
 
 ```{questions}
   - How do people learn?
+  - What's the difference between novices, competent practitioners and experts?
 ```
 
 ```{objectives}
-- Discuss important pedagogical concepts
-- Understand what is meant by feedback, cognitive development and mental models
+- Discuss cognitive development and mental models
 ```
 
 ## Know your learners
@@ -63,18 +63,23 @@ on the complexity of their mental models.
 
 ![Mental Models](https://carpentries.github.io/instructor-training/fig/mental_models.svg)
 
-### Understanding new concepts
+### Integrating new knowledge
 
 According to the [constructivism](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)) theory in education, learners do not acquire knowledge and 
 understanding by passively perceiving it but rather by constructing new understanding and knowledge 
 through experience and social discourse, **integrating new information with what they already know**.
+
 We can understand this as adding new nodes and their connections to existing nodes 
 to their mental models. We should thus try to connect new concepts with existing knowledge 
 that we can assume the learners to have.
 
+### Meaning
+
 Memory retention is also improved when learners are required to **attach meaning to new information 
 and reflect on why it is important**. Instructors can assign tasks which require explanation 
 (e.g. why something happened) to promote learners to meaningfully organise new information.
+
+### The power of analogies
 
 **Good analogies** can be extraordinarily useful when teaching, because they draw upon an 
 existing mental model to fill in another, speeding learning and making a memorable 
