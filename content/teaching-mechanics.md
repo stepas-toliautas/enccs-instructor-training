@@ -215,5 +215,15 @@ Some features of HackMD and how it compares to other modes of communication:
 - With too few people, it can turn out to be very quiet.
 
 
+## See also
+
+- [Instructor introduction](https://coderefinery.github.io/manuals/instructor-intro/) -
+  has a lot of tips for new instructors, but also more things about the workshop.
+- [Instructor tech setup](https://coderefinery.github.io/manuals/instructor-tech-setup/)
+- [Lesson preparation hints](https://coderefinery.github.io/manuals/presenting/) (more focused on in-person)
+- [HackMD mechanics](https://coderefinery.github.io/manuals/hackmd-mechanics/) and [HackMD helpers](https://coderefinery.github.io/manuals/hackmd-helper/).  
+- [Team teaching](https://coderefinery.github.io/manuals/team-teaching/)
+
+
 
 

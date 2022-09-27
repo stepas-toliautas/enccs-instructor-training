@@ -205,14 +205,3 @@ Write down your thoughts in the shared document.
 
 
 
-## See also
-
-- [Instructor tech setup](https://coderefinery.github.io/manuals/instructor-tech-setup/)
-- [Lesson preparation hints](https://coderefinery.github.io/manuals/presenting/) (more focused on in-person)
-- [Instructor introduction](https://coderefinery.github.io/manuals/presenting/) -
-  has a lot of tips for new instructors, but also more things about
-  the workshop.
-- [HackMD mechanics](https://coderefinery.github.io/manuals/hackmd-mechanics/) and [HackMD helpers](https://coderefinery.github.io/manuals/hackmd-helper/).  
-- [Workshop prep call](https://coderefinery.github.io/manuals/workshop-prep-call/)
-- [Team teaching](https://coderefinery.github.io/manuals/team-teaching/)
-
