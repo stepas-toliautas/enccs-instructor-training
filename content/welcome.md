@@ -69,14 +69,14 @@ In short:
 - Contact details to report CoC violations can be [found here](https://enccs.se/kjartan-thor-wikfeldt).
 
 Furthermore, as this is a hands-on, interactive workshop:
-  - Be kind to each other and help each other as best you can.
-  - If you can't help someone or there is some problem, let someone know.
-  - If you notice something that prevents you from learning as well as you can, let us know and don't suffer silently.
-  - It's also about the little things:
-    - volume
-    - font size
-    - generally confusing instructor
-    - **not enough breaks**
+- Be kind to each other and help each other as best you can.
+- If you can't help someone or there is some problem, let someone know.
+- If you notice something that prevents you from learning as well as you can, let us know and don't suffer silently.
+- Also let us know about the "little things":
+  - too low volume?
+  - font size too small?
+  - generally confusing instructor?
+  - not enough breaks?
 
 ---
 
