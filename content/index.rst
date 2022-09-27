@@ -5,13 +5,26 @@ This ENCCS instructor training material is focused on helping competent practiti
 and experts teach their knowledge to others. It also serves a
 kickstart to teaching ENCCS lessons.
 
-Much of the material presented here is derived from two instructor training resources 
-developed in the `CodeRefinery project <https://coderefinery.org/>`__, which in turn are 
-derived from `The Carpentries <https://carpentries.org/>`__ instructor training lesson:
+The material presented here is partly derived from two instructor training resources 
+developed in the `CodeRefinery project <https://coderefinery.org/>`__ as well as the instructor 
+training lesson from `The Carpentries <https://carpentries.org/>`__:
 
 - `CodeRefinery Community Teaching <https://coderefinery.github.io/community-teaching/>`__
 - `CodeRefinery Instructor Training <https://coderefinery.github.io/instructor-training/>`__
 - `Carpentries Instructor Training <https://carpentries.github.io/instructor-training/>`__
+
+After attending a workshop covering this material, learners should:
+
+- Have increased confidence in teaching interactive workshops in online and in-person settings.
+- Be familiar with important pedagogical concepts and scientific findings about how people learn 
+  new skills.
+- Appreciate the importance of frequent hands-on practice in building skill. 
+- Understand how learning can be improved by following certain best practices in interactive teaching.
+- Know how to backwards-design training material based on intended learning outcomes.
+- Know about important differences between online and in-person training and how inherent challenges 
+  in online training can be overcome.
+- Be familiar with a technical approach to collaboratively developing open source lessons based 
+  on a template.
 
 
 
