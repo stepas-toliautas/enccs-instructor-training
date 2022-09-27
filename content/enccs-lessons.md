@@ -1,4 +1,4 @@
-# ENCCS lessons
+# ENCCS Lessons
 
 Below is a list of current ENCCS lessons along with their intended learning outcomes. 
 These lessons are at different maturity levels and have been developed by many different people, 
@@ -141,6 +141,17 @@ so they do not all conform equally well to the recommendations presented in this
 - Get an vverview of the main QC hardware approaches
 - Understand how QC can be integrated with classical computing through hybrid classical/quantum algorithms and HPC-QC systems.
 - Learn to perform quantum software testing with the Quito tool
+
+## Recommended external resources
+
+The lessons above do not cover all relevant topics in HPC, HPDA and AI, but 
+ENCCS also maintains a list of recommended public training material which you 
+can find at https://enccs.se/external-training-resources/.
+
+If you know of other good public training material, or if you have developed own material 
+that you would like to share with the world, please [get in touch](https://enccs.se/contact/) or 
+[open an issue](https://github.com/ENCCS/instructor-training/issues) on this repository!
+
 
 ```{discussion}
 - Are there any lessons in the list above that you would like to use in your own teaching?
