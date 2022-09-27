@@ -1,5 +1,13 @@
 # Collaborative Lesson Development
 
+```{questions}
+- What tools and methods can be used to collaboratively develop training material?
+```
+
+```{objectives}
+- Learn the technicalities behind how ENCCS lessons are collaboratively developed
+```
+
 This episode focuses on **organisational** and **technical aspects**
 of collaborative lesson development.
 

@@ -142,19 +142,22 @@ so they do not all conform equally well to the recommendations presented in this
 - Understand how QC can be integrated with classical computing through hybrid classical/quantum algorithms and HPC-QC systems.
 - Learn to perform quantum software testing with the Quito tool
 
-## Recommended external resources
-
-The lessons above do not cover all relevant topics in HPC, HPDA and AI, but 
-ENCCS also maintains a list of recommended public training material which you 
-can find at https://enccs.se/external-training-resources/.
-
-If you know of other good public training material, or if you have developed own material 
-that you would like to share with the world, please [get in touch](https://enccs.se/contact/) or 
-[open an issue](https://github.com/ENCCS/instructor-training/issues) on this repository!
-
-
 ```{discussion}
 - Are there any lessons in the list above that you would like to use in your own teaching?
 - (After the instructor gives an overview of one of the lessons) What do you think about this 
   lesson format? How does it compare to training material that you use?
 ```
+
+## Recommended external resources
+
+The lessons above do not cover all relevant topics in HPC, HPDA and AI, but 
+ENCCS also maintains a list of recommended public training material which you 
+can find at [https://enccs.se/external-training-resources/](https://enccs.se/external-training-resources/).
+
+```{challenge} Contribute to the list of external training resources 
+**For after this workshop:**  
+If you know of other good public training material, or if you have developed own material 
+that you would like to share with the world, please [get in touch](https://enccs.se/contact/) or 
+[open an issue](https://github.com/ENCCS/instructor-training/issues) on this repository!
+```
+

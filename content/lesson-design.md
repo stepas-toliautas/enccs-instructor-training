@@ -2,7 +2,6 @@
 
 ```{questions}
 - Are there any pedagogical best practices in developing lesson material?
-- What tools and methods can be used to collaboratively develop training material?
 ```
 
 ```{objectives}
