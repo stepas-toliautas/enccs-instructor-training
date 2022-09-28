@@ -171,7 +171,7 @@ Basic types:
 - Parsons problems (working solution but lines in random order, learner must only put in proper order)
 - Fill in the blank
 
-````{challenge} Using formative assessment to identify misconceptions
+````{discussion} Using formative assessment to identify misconceptions
 Formative assessment can be used to tease out misconceptions using for example multiple choice 
 questions (MCQ). When designed carefully, MCQs can target anticipated misconceptions with surgical 
 precision. 
@@ -192,6 +192,16 @@ What misconceptions do the wrong answers reveal?
 - If they answer 33 then they know they have to carry the 1, but are carrying it back into the same column it came from.
 ```
 ````
+
+```{challenge} Design formative assessment to identify misconceptions
+
+Individually or in groups, choose a topic that you have taught in the past or that you have some 
+knowledge about. Design a formative assessment task about this topic in the form of a multiple choice 
+question, where each of the wrong answers is designed to reveal a misconception. It doesn't have to 
+be perfect or advanced!
+
+Discuss the MCQs in the classroom.
+```
 
 More advanced:
 
