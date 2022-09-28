@@ -114,22 +114,26 @@ correct information. Broadly speaking, misconceptions fall into three categories
 
 ---
 
-## Teaching as an expert
+## Expertise and teaching
 
-Being an expert on the topic one is teaching has a number of challenges that need to be 
-kept in mind!
+Expertise is more than just knowing more facts - an expert's mental models are also much more densely connected as we saw above. Having a greater connectivity of a mental model allows experts to:
 
+- See connections between two topics or ideas that no one else can see.
+- See a single problem in several different ways.
+- Know how to solve a problem, or "what questions to ask".
+- Jump directly from a problem to its solution because there is a direct link between the two in   
+  their mind. Where a competent practitioner would have to reason "A therefore B therefore C therefore F", the expert can go from A to F in a single step ("A therefore F").
 
+However, experts are often so familiar with their subject that they can no longer imagine what 
+it's like to not see the world that way. They can thus be less able to teach the subject than 
+people with less expertise who still remember learning it themselves. This phenomenon is known 
+as the "expert blind spot" or the "expert awareness gap".  
 
-## Myths about learning
-
-- Everyone has a particular learning style
-
-## See also
-
-- 1
+The good news is that this impediment can be overcome by training! Experts can be highly effective as long as they **learn to identify and correct for their own expert awareness gaps**.
 
 ```{keypoints}
-- ENCCS lessons and teaching build on these principles
-
+- People at different skill level have different connectivities of their mental models. 
+- Teachers can help learners integrate new knowledge by connecting it to previous knowledge, 
+  by attaching meaning to the new information, and by powerful analogies.
+- Experts can face challenges when teaching novices due to expert awareness gaps.
 ```
