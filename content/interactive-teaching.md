@@ -28,6 +28,10 @@ One way to manage cognitive load as tasks become more complex is by using guided
 a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
 feedback at each step before transferring attention to a new feature.
 
+![conceptmap-cognitive-load](https://teachtogether.tech/en/figures/conceptmap-cognitive-load.svg)
+> Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 ---
 
 ## The importance of going slow
@@ -84,7 +88,8 @@ course.
 ## Live demos and type-along sessions
 
 Using worked examples, i.e. step-by-step demonstrations of how to perform particular tasks,  
-can reduce cognitive load as they provide the scaffolding needed for learners to transfer 
+can [reduce cognitive load](https://en.wikipedia.org/wiki/Worked-example_effect#Faded_worked_examples) 
+as they provide the scaffolding needed for learners to transfer 
 knowledge from working memory to long-term memory. Type-along sessions are particularly useful 
 as learners get to develop their "muscle memory" while the instructor slowly walks through 
 and explains each step. Splitting the task into well defined steps also helps learners 
@@ -93,7 +98,7 @@ problems.
 
 Exercises which learners should solve by themselves can build on the type-along 
 sessions but with some of the scaffolding removed so that they need to complete some 
-problem steps independently (or in groups).
+problem steps (faded examples). 
 
 ### Stick to the script
 
