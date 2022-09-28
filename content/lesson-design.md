@@ -93,6 +93,9 @@ slow to access. Short-term memory (also called working memory), which we use to 
 about things is much faster but also much smaller. It has been estimated that the average 
 adult's short-term memory can hold 7±2 items for a few seconds before things started to drop out. 
 
+![Cognitive architecture](https://teachtogether.tech/en/figures/cognitive-architecture.svg)
+>  Figure adapted from [Teaching Tech Together], licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 If we present our learners with large amounts 
 of information, without giving them the opportunity to practice using it (and thereby 
 transfer it into long-term memory), they will not retain the material as well as if we 
@@ -154,7 +157,7 @@ Here are some suggestions to keep in mind when designing exercises:
 - Create also more advanced exercises which can be optional for more advanced learners. This can go 
   a long way to meet the needs of participants with a wide range of background knowledge. 
 
-Good exercises are the most important factor in a good lesson. Even if you are preparing the rest of 
+**Good exercises are the most important factor in a good lesson**. Even if you are preparing the rest of 
 the lesson mostly alone, consider a good long brainstorming session to go from "list of topics to 
 cover" to "sequence of exercises".
 
@@ -169,7 +172,7 @@ Basic types:
 - Code yourself + multiple choice to see what the answer is (allows you to get feedback)
 - Inverted coding (given code, have to debug)
 - Parsons problems (working solution but lines in random order, learner must only put in proper order)
-- Fill in the blank
+- Fill in the blank, [faded problems](https://en.wikipedia.org/wiki/Worked-example_effect)
 
 ````{discussion} Using formative assessment to identify misconceptions
 Formative assessment can be used to tease out misconceptions using for example multiple choice 
@@ -195,12 +198,24 @@ What misconceptions do the wrong answers reveal?
 
 ```{challenge} Design formative assessment to identify misconceptions
 
-Individually or in groups, choose a topic that you have taught in the past or that you have some 
-knowledge about. Design a formative assessment task about this topic in the form of a multiple choice 
-question, where each of the wrong answers is designed to reveal a misconception. It doesn't have to 
-be perfect or advanced!
+Individually or in groups, choose a topic that you have taught in the past or that you want to 
+teach later. 
+- What relevant misconceptions might a novice learner bring to the classroom?
+- Create your question. How many choices can you think of that will diagnose a specific misconception?
 
-Discuss the MCQs in the classroom.
+Type your question into the shared document and explain the diagnostic power of each choice.
+Discuss the question in the classroom.
+```
+
+```{challenge} Design a faded example
+This exercises assumes that you are teaching a technical topic like programming or similar.
+
+- Try to design a faded example, i.e. an example code where learners should fill in the blanks.
+- Think of the level of your learners. How much would you fade out for a novice? How about a 
+  competent practitioner?
+- How did you decide what to fade out?
+- Present your example in a small group and let others in your team guess which level you intended 
+  the example for!
 ```
 
 More advanced:
@@ -231,7 +246,7 @@ get stuck at exercise 2, they will not be able to do exercises 3 to N.
 
 ```{discussion} The goal here is to discuss and provide examples on backwards-design of a lesson.
 
-Let's take as an example the *[HPC Carpentry lesson](https://hpc-carpentry.github.io/hpc-intro/)*
+Let's take as an example the *[HPC Carpentry lesson](https://carpentries-incubator.github.io/hpc-intro/)*
 
 **Target audience**
   - What is the expected educational level of my audience?
