@@ -27,6 +27,8 @@ Each person in the class add one point to a 2x2 grid on a whiteboard or in the s
 without duplicating any points.
 For online instructor training event, use breakout room (4-5 persons per group) to facilitate discussion. Then each group reports to the shared notes.
 
+![2x2 rubric](https://teachtogether.tech/en/figures/2x2-rubric.svg)
+> Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ```{challenge} Example 1
 This exercise highlights some typical pitfalls that most instructors

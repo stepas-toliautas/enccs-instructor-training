@@ -94,7 +94,7 @@ about things is much faster but also much smaller. It has been estimated that th
 adult's short-term memory can hold 7±2 items for a few seconds before things started to drop out. 
 
 ![Cognitive architecture](https://teachtogether.tech/en/figures/cognitive-architecture.svg)
->  Figure adapted from [Teaching Tech Together], licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+>  Figure adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 If we present our learners with large amounts 
 of information, without giving them the opportunity to practice using it (and thereby 
