@@ -13,6 +13,9 @@ training lesson from `The Carpentries <https://carpentries.org/>`__:
 - `CodeRefinery Instructor Training <https://coderefinery.github.io/instructor-training/>`__
 - `Carpentries Instructor Training <https://carpentries.github.io/instructor-training/>`__
 
+Inspiration has also been drawn from the free online book 
+[Teaching Tech Together](https://teachtogether.tech/en/index.html) by Greg Wilson.
+
 After attending a workshop covering this material, learners should:
 
 - Have increased confidence in teaching interactive workshops in online and in-person settings.
