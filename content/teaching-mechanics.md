@@ -1,8 +1,8 @@
 # Teaching Mechanics
 
 ```{objectives}
-- Discuss practical aspects of teaching
 - Understand the benefits and disadvantage of online teaching compared to in-person
+- Discuss practical aspects of teaching
 ```
 
 ## Online vs in-person workshops
@@ -116,8 +116,9 @@ $ tail -f ~/demos.out
 ````
 `````
 
-![example shell share](img/shell-share-example.png)
-> *One way to set up your shell with light background, large font, simple prompt and shell history.*
+```{figure} img/shell-share-example.png
+One way to set up your shell with light background, large font, simple prompt and shell history.
+```
 
 ### Screen sharing
 
@@ -138,6 +139,24 @@ Vertical sharing:
   side-by-side with their own applications.
 - Zoom provides a "Share a part of screen" that is good for this.
 
+
+
+```{figure} https://coderefinery.github.io/manuals/_images/s10-kickstart-prompt-log.png
+:width: 50%
+Example of vertical screen share with lesson material above and terminal below
+```
+
+
+```{figure} https://coderefinery.github.io/manuals/_images/learner-small.png
+:width: 80%
+Example of how a learner can arrange their screens. Instructor screenshare on the left, own windows on the right.
+```
+
+
+```{figure} https://coderefinery.github.io/manuals/_images/instructor.png
+:width: 80%
+Example of how the instructor can arrange windows. Zoom is sharing a portion on the left, the right side is free for collaborative document, teaching notes, chat with other instructors etc.
+```
 
 ---
 
