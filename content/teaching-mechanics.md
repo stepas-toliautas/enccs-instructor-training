@@ -138,19 +138,6 @@ Vertical sharing:
   side-by-side with their own applications.
 - Zoom provides a "Share a part of screen" that is good for this.
 
-![vertical screen share](https://coderefinery.github.io/manuals/_images/s10-kickstart-prompt-log.png)
-
-> *Example of vertical screen share with lesson material above and terminal below.*
-
-![learner screen](https://coderefinery.github.io/manuals/_images/learner-small.png)
-
-> *Example of how a learner can arrange their screens. Instructor screenshare on the left, own*
-> *windows on the right.*
-
-![instructor screen](https://coderefinery.github.io/manuals/_images/instructor.png)
-
-> *Example of how the instructor can arrange windows. Zoom is sharing a portion on the left, the* 
-> *right side is free for collaborative document, teaching notes, chat with other instructors etc.*
 
 ---
 
