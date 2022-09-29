@@ -34,85 +34,28 @@ Solutions to some of the challenges:
 - Strongly recommend screen sharing and colloboration in breakout room exercises
 
 
-But what do learners actually think of online workshops compared to in-person workshops?
+But **what do learners actually think of online workshops compared to in-person workshops**?
 Here's how learners in ENCCS workshops replied to a post-workshop survey question about the 
 online format:
 
 ![online-vs-inperson](img/online_vs_inperson.png)
 
-
-## Team teaching
-
-Demonstration-based teaching require two different types of focus:
-
-- Doing the mechanical steps as a demonstration
-- Explaining why you are doing it
-
-This is a lot for one person to keep in mind, so can multiple people
-work together for this? Team teaching idea:
-- One person is doing the demonstrations
-- One person is giving the commentary about what they are doing
-- The lecture becomes a discussion between two people instead.
-
-```{callout} Co-teaching
-
-   Wikipedia: Co-teaching or team teaching is the division of labor
-   between educators to plan, organize, instruct and make assessments
-   on the same group of students, generally in the a common
-   classroom,[1] and often with a strong focus on those teaching as a
-   team complementing one another's particular skills or other
-   strengths.
-```
-
-Advantages:
-- The course seems very interactive, much more so than expecting
-  students to speak up.  The co-teacher can take on the "voice of the
-  audience".
-- Quicker preparation time since co-teachers can rely on each other in
-  unexpected situations.
-- One co-teacher can be effectively learning at the same time and thus
-  acting as the "voice of the audience" in another way.
-- Great way to onboard new instructors - extensive training and
-  preparation no longer needed.
-- More active minds means better able to watch and react to other
-  feedback, such as HackMD or chat.
-- Less workload - one person does not have to prepare perfectly, any
-  uncertainty can usually be quickly answered by the other.
-
-
-Disadvantage:
-- Requires two people's time
-- Requires coordination when preparing (slows you down in preparation)
-- Unfamiliar concept to most people
-
-### Strategies
-
-In reality, these strategies are mixed and matched even within a
-lesson, and there are many things between these:
-
-- One person gives lectures, one does the typing during demos.
-- "Interview": One primarily doing the "teaching", one guiding by
-  asking questions - either as an interviewer or as a virtual learner.
-
-Things that don't work (are not team teaching):
-
-- Dividing up a lesson into parts, each person gives different parts
-  independently.
+However, the survey question is simple and the answers do not reveal any details about the 
+pros and cons of online workshops perceived by the workshop participants.
 
 ---
 
 ## Tooling 
 
-The mechanics of online or in-person teaching is all about the tools and visual 
+The mechanics of online (or in-person) teaching is all about the tools and visual 
 aspects of teaching. It is important to plan and prepare these technical 
 aspects before a workshop.
 
-- The learner has a *lot* more to think about than you do, so you need
+- The learner has a *lot* more to think about than the instructor, so you need
   to minimize the possible distractions and unnecessary weirdness.
 - A learner will often use only one small screen, limiting the number of
   things that they can focus on.
-- You are must faster than learners. You have to do things to slow yourself down.
-
+- You are much faster than learners. You have to do things to slow yourself down.
 
 ### Shell sharing
 
@@ -141,6 +84,9 @@ export PS1='\n\w\$ '
 # for zsh
 export PROMPT='%~ $ '
 ```
+
+![example shell share](img/shell-share-example.png)
+> One way to set up your shell with light colors, large font, simple prompt and shell history.
 
 ### Screen sharing
 
@@ -213,6 +159,68 @@ Some features of HackMD and how it compares to other modes of communication:
 - Disadvantage: can produce information overload, warn people to not
   follow too closely
 - With too few people, it can turn out to be very quiet.
+
+---
+
+## Team teaching
+
+Demonstration-based teaching require two different types of focus:
+
+- Doing the mechanical steps as a demonstration
+- Explaining why you are doing it
+
+This is a lot for one person to keep in mind, so can multiple people
+work together for this? Team teaching idea:
+- One person is doing the demonstrations
+- One person is giving the commentary about what they are doing
+- The lecture becomes a discussion between two people instead.
+
+```{callout} Co-teaching
+
+   Wikipedia: Co-teaching or team teaching is the division of labor
+   between educators to plan, organize, instruct and make assessments
+   on the same group of students, generally in the a common
+   classroom,[1] and often with a strong focus on those teaching as a
+   team complementing one another's particular skills or other
+   strengths.
+```
+
+Advantages:
+- The course seems very interactive, much more so than expecting
+  students to speak up.  The co-teacher can take on the "voice of the
+  audience".
+- Quicker preparation time since co-teachers can rely on each other in
+  unexpected situations.
+- One co-teacher can be effectively learning at the same time and thus
+  acting as the "voice of the audience" in another way.
+- Great way to onboard new instructors - extensive training and
+  preparation no longer needed.
+- More active minds means better able to watch and react to other
+  feedback, such as HackMD or chat.
+- Less workload - one person does not have to prepare perfectly, any
+  uncertainty can usually be quickly answered by the other.
+
+
+Disadvantage:
+- Requires two people's time
+- Requires coordination when preparing (slows you down in preparation)
+- Unfamiliar concept to most people
+
+### Strategies
+
+In reality, these strategies are mixed and matched even within a
+lesson, and there are many things between these:
+
+- One person gives lectures, one does the typing during demos.
+- "Interview": One primarily doing the "teaching", one guiding by
+  asking questions - either as an interviewer or as a virtual learner.
+
+Things that don't work (are not team teaching):
+
+- Dividing up a lesson into parts, each person gives different parts
+  independently.
+
+---
 
 
 ## See also
