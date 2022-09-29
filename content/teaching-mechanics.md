@@ -117,7 +117,7 @@ $ tail -f ~/demos.out
 `````
 
 ![example shell share](img/shell-share-example.png)
-> One way to set up your shell with light colors, large font, simple prompt and shell history.
+> *One way to set up your shell with light background, large font, simple prompt and shell history.*
 
 ### Screen sharing
 
