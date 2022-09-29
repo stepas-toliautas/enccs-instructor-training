@@ -77,13 +77,44 @@ A collection of good practices for screen sharing your shell environment can be 
 
 Simple examples:
 
-```console
-# for bash
-export PS1='\n\w\$ '
+`````{tabs}
+````{tab} Bash
 
-# for zsh
-export PROMPT='%~ $ '
+Set up simple prompt:
+```console
+$ export PS1='\n\w\$ '
 ```
+
+Define a command to be executed before new prompt:
+```console
+$ PROMPT_COMMAND="history -a"
+```
+
+In new terminal, print updates to history file:
+```console
+$ tail -f -n0 ~/.bash_history
+```
+
+````
+````{tab} Zsh
+
+Set up simple prompt:
+```console
+$ export PROMPT='%~ $ '
+```
+
+Define command to be executed just after a command has been read and is about to be executed:
+```console
+$ preexec() { echo $1 >> ~/demos.out }
+```
+
+In new terminal, print updates to demos.out file:
+```console
+$ tail -f ~/demos.out
+```
+
+````
+`````
 
 ![example shell share](img/shell-share-example.png)
 > One way to set up your shell with light colors, large font, simple prompt and shell history.
