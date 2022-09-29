@@ -34,9 +34,9 @@ Why static sites?
 
 
 ```{challenge} Explore a Sphinx lesson
-- Open this very lesson in GitHub (it uses the same format as typical CodeRefinery and ENCCS 
-  lessons): https://github.com/ENCCS/instructor-training (you can also click on the "Edit on 
-  GitHub" link in the top-right corner).
+- Open [this very lesson in GitHub](https://github.com/ENCCS/instructor-training) 
+  (it uses the same format as typical CodeRefinery and ENCCS lessons) (you can also click 
+  on the "Edit on GitHub" link in the top-right corner).
 - Browse the files and understand the general idea. Check out at least these and use HackMD to 
   record their functions:
   - .github/workflows/sphinx.yml

@@ -121,58 +121,45 @@ $ tail -f ~/demos.out
 
 ### Screen sharing
 
-`````{discussion}
-
-Look at the various [screen layouts in the CodeRefinery
-manuals](https://coderefinery.github.io/manuals/instructor-tech-setup/#screen-sharing).
-Use the HackMD to comment about what which are better or worse.
-
-````{output} HackMD prototype
-:class: dropdown
-```
-- S1
-  - good:
-  - bad:
-- S2
-  - good:
-  - bad:
-- S3
-  - good:
-  - bad:
-- S4
-  - good:
-  - bad:
-- Student layouts:
-  - ...
-- Instructor layouts:
-  - ...
-```
-````
-`````
 
 - Many learners will have a smaller screen than you.
 - You should plan for learners with only one small screen.
 - A learner will **need to focus on both your screen share and their
   work**.
-- Sharing your a whole screen is almost always a bad idea, if you want
+- Sharing your a whole screen is probably a bad idea if you want
   the learners to do anything at the same time.
 - If you constrict yourself, then your experience is more similar to
   that of a learner.
 
 Vertical sharing:
-- CodeRefinery has recently started trialing a **vertical share**
+- CodeRefinery and ENCCS have recently started trialing a **vertical share**
   system, where you share a vertical half of your screen.
 - This allows learners with one screen to display your screen
-  side-by-side with their learn
+  side-by-side with their own applications.
 - Zoom provides a "Share a part of screen" that is good for this.
 
+![vertical screen share](https://coderefinery.github.io/manuals/_images/s10-kickstart-prompt-log.png)
+
+> *Example of vertical screen share with lesson material above and terminal below.*
+
+![learner screen](https://coderefinery.github.io/manuals/_images/learner-small.png)
+
+> *Example of how a learner can arrange their screens. Instructor screenshare on the left, own*
+> *windows on the right.*
+
+![instructor screen](https://coderefinery.github.io/manuals/_images/instructor.png)
+
+> *Example of how the instructor can arrange windows. Zoom is sharing a portion on the left, the* 
+> *right side is free for collaborative document, teaching notes, chat with other instructors etc.*
+
+---
 
 ## Shared workshop document
 
-Questions are great, and important for any practical and interactive workshop,
-but questions in the main room doesn't scale to large rooms. Also, it's very likely 
-that only a few (extrovert) participants will dominate while others will not feel 
-comfortable speaking up.
+Questions and frequent feedback is very important for interactive workshops,
+but questions in the main room doesn't scale to large rooms. Also, it's likely 
+that only a few (extrovert) participants will do most of the talking while others 
+will not feel as comfortable speaking up.
 
 A strategy shared by the Carpentries, CodeRefinery and ENCCS is to use a shared workshop 
 document where learners can ask questions on the fly. The document can also be used to 
@@ -181,15 +168,17 @@ instructions, as well as for formative assessment questions and to take notes fr
 Out of many possible platforms, ENCCS uses [HackMD](https://hackmd.io/).
 
 Some features of HackMD and how it compares to other modes of communication:
-- Chat is not good enough, you can't reply to old things and finding earlier information is difficult.
-- HackMD allows threaded replies and follow up later
-- You need some other helpers to watch HackMD and answer, and bring
-  things up to you.  And let you know how things are going.
+- Chat is not good enough, you can't easily reply to old things and finding earlier information is difficult.
+- HackMD allows threaded replies and follow up later.
+- You need some other instructors/helpers to watch HackMD and provide answers, bring
+  relevant questions to your attention, and let you know how things are going.
 - Learners can ask anonymously.
 - Learners don't have to worry about interrupting the flow.
-- Disadvantage: can produce information overload, warn people to not
-  follow too closely
+- The document stays online and can be revisited by learners to remind themselves of valuable Q&A
+  and discussions.
+- Disadvantage: can produce cognitive overload, warn people to not follow too closely.
 - With too few people, it can turn out to be very quiet.
+- Example: [https://hackmd.io/@enccs/dl-intro-feb2022](https://hackmd.io/@enccs/dl-intro-feb2022)
 
 ---
 
@@ -230,7 +219,6 @@ Advantages:
   feedback, such as HackMD or chat.
 - Less workload - one person does not have to prepare perfectly, any
   uncertainty can usually be quickly answered by the other.
-
 
 Disadvantage:
 - Requires two people's time
