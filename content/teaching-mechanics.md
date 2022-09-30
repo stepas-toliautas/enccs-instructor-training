@@ -46,7 +46,9 @@ But **what do learners actually think of online workshops compared to in-person 
 Here's how learners in ENCCS workshops replied to a post-workshop survey question about the 
 online format:
 
-![online-vs-inperson](img/online_vs_inperson.png)
+```{figure} img/online_vs_inperson.png
+ENCCS post-workshop survey results.
+```
 
 However, the survey question is simple and the answers do not reveal any details about the 
 pros and cons of online workshops perceived by the workshop participants.

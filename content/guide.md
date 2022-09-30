@@ -17,10 +17,13 @@ After attending this workshop, learners should:
 
 | Time | Episode |
 | ---- | ------- |
-| 9:00 - 9:15 | Welcome and introduction| 
-| 9:15 - 9:30 | About ENCCS| 
-| 9:30 - 10:10 | The Science of Learning| 
-| 10:10 - 10:25 | Break| 
-| 10:25 - 11:10 | Lesson development| 
-| 11:10 - 11:20 | Break| 
-| 11:20 - 12:00 | Interactive teaching| 
+| 14:00 - 14:20 | Welcome and introduction| 
+| 14:15 - 14:30 | ENCCS training| 
+| 14:30 - 14:45 | ENCCS lessons| 
+| 14:45 - 15:10 | Acquisition of skill| 
+| 15:10 - 15:30 | Break | 
+| 15:30 - 16:00 | Lesson design| 
+| 16:00 - 16:30 | Good interactive teaching practices| 
+| 16:30 - 16:45 | Teaching mechanics| 
+| 16:45 - 17:00 | Collaborative lesson development| 
+| 17:00 - 17:00 | Practice teaching and giving feedback| 

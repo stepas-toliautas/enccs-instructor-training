@@ -1,3 +1,8 @@
+```{instructor-note}
+   - 10 min teaching
+   - 5 min discussion
+``` 
+
 # ENCCS Lessons
 
 Below is a list of current ENCCS lessons along with their intended learning outcomes. 
@@ -138,7 +143,7 @@ so they do not all conform equally well to the recommendations presented in this
 
 - Learn key concepts: quantum states, qubits, quantum algorithms
 - Get an overview of QC programming in high-level languages for use cases in optimisation, finance and quantum chemistry 
-- Get an vverview of the main QC hardware approaches
+- Get an overview of the main QC hardware approaches
 - Understand how QC can be integrated with classical computing through hybrid classical/quantum algorithms and HPC-QC systems.
 - Learn to perform quantum software testing with the Quito tool
 

@@ -1,5 +1,5 @@
 ```{instructor-note}
-   - 30 min teaching
+   - 20 min teaching
    - 30 min exercises   
 ```   
 

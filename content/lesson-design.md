@@ -1,3 +1,8 @@
+```{instructor-note}
+   - 20 min teaching
+   - 30 min exercises   
+```   
+
 # Lesson Design
 
 ```{questions}
@@ -22,7 +27,8 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 
 ### Deciding what to teach
 
-![What to Teach](https://carpentries.github.io/instructor-training/fig/what-to-teach.png)
+```{figure} https://carpentries.github.io/instructor-training/fig/what-to-teach.png
+```
 
 
 ### Working with learning objectives
@@ -60,9 +66,9 @@ hierarchy seems to be reasonably valid: outcomes at the top of the hierarchy can
 without mastery of outcomes at
 the bottom. 
 
-![Bloom's Taxonomy](https://carpentries.github.io/instructor-training/fig/Blooms.png)
-
+```{figure} https://carpentries.github.io/instructor-training/fig/Blooms.png
 Image credit: Vanderbilt University Center for Teaching
+```
 
 ### Revisiting Learning objectives
 
@@ -76,7 +82,7 @@ follows:
 We strongly encourage you to read Learning objectives before teaching a lesson and to review 
 whether they still match the content of the lesson.
 
-```{challenge} How do you design?
+```{challenge} How do you design? (10 min)
 Discuss either in groups or via collaborative document:
 - How do you start when you design a new lesson/presentation?
 - Has your approach changed over the years? If yes, how?
@@ -93,8 +99,9 @@ slow to access. Short-term memory (also called working memory), which we use to 
 about things is much faster but also much smaller. It has been estimated that the average 
 adult's short-term memory can hold 7±2 items for a few seconds before things started to drop out. 
 
-![Cognitive architecture](https://teachtogether.tech/en/figures/cognitive-architecture.svg)
->  Figure adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+```{figure} https://teachtogether.tech/en/figures/cognitive-architecture.svg
+Figure adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+```
 
 If we present our learners with large amounts 
 of information, without giving them the opportunity to practice using it (and thereby 
@@ -196,7 +203,7 @@ What misconceptions do the wrong answers reveal?
 ```
 ````
 
-```{challenge} Design formative assessment to identify misconceptions
+```{challenge} Design formative assessment to identify misconceptions (10 min)
 
 Individually or in groups, choose a topic that you have taught in the past or that you want to 
 teach later. 
@@ -207,7 +214,7 @@ Type your question into the shared document and explain the diagnostic power of 
 Discuss the question in the classroom.
 ```
 
-```{challenge} Design a faded example
+```{challenge} Design a faded example (10 min)
 This exercises assumes that you are teaching a technical topic like programming or similar.
 
 - Try to design a faded example, i.e. an example code where learners should fill in the blanks.

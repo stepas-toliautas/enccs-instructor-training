@@ -1,6 +1,6 @@
 ```{instructor-note}
-   - 15 min teaching
-   - 10 min discussion
+   - 10 min teaching
+   - 5 min discussion
 ```   
 
 # ENCCS Training
@@ -123,11 +123,11 @@ immediately.
 
 How many of the teaching features above do you use in your own teaching? 
 
-The instructor can copy-paste the list below to the collaborative document for a poll.
+The instructor can copy-paste the list below to the shared workshop document and conduct a poll. 
 
-````{solution}
+````{solution} Poll
 ```
-Poll: Which of these practices do you use in your teaching? Vote by adding "o".
+Which of these practices do you use in your teaching? Vote by adding "o".
 
 - Teaching material (lessons) available in advance and not PDF slides: o
 - Lessons suitable also for self study: o
@@ -145,3 +145,7 @@ Poll: Which of these practices do you use in your teaching? Vote by adding "o".
 ```
 ````
 `````
+
+## See also
+
+- [Active Learning Leads to Higher Grades and Fewer Failing Students in Science, Math, and Engineering](https://www.wired.com/2014/05/empzeal-active-learning/)
