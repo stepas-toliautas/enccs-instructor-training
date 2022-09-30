@@ -1,3 +1,8 @@
+```{instructor-note}
+   - 20 min teaching
+   - 30 min exercises   
+```
+
 # Good Interactive Teaching Practices
 
 ```{objectives}
@@ -28,8 +33,9 @@ One way to manage cognitive load as tasks become more complex is by using guided
 a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
 feedback at each step before transferring attention to a new feature.
 
-![conceptmap-cognitive-load](https://teachtogether.tech/en/figures/conceptmap-cognitive-load.svg)
-> Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+```{figure} https://teachtogether.tech/en/figures/conceptmap-cognitive-load.svg
+Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+```
 
 
 ---
@@ -122,6 +128,24 @@ in demos and type-along sessions (e.g. by following style conventions or using v
 and testing in code examples), so that participants become acquainted with them as a side 
 benefit of attending a workshop.
 
+````{challenge} What are the top issues new instructors face? (10 minutes)
+Brainstorm about what issues new teachers/instructors might face in interactive workshops.
+Write down your thoughts in the shared document.
+ 
+```{solution} Some suggestions
+ -  Keep exercise sessions too short to "save time". Better to have them as long as possible.
+ -  Get the speed correct. Not too fast and not (far) too slow. 
+ -  Cater to participants with different backgrounds and at different levels of experience.
+ -  Expect too much of learners during exercises - just reading and understanding the task takes time.
+ -  Learners not having software prerequisites installed correctly and thus not able to follow along.
+ -  Try to accomplish too much or go through everything - it's OK to cut out and adapt to the audience. 
+ -  Explaining *how*, but not *why*.
+ -  Not using good screen sharing practices (font size, terminal history, portion of screen)
+ -  Assuming learners remember everything you've covered earlier in a workshop.
+ -  Forget to take sufficiently many breaks (minimum 10 minutes per hour)
+```
+````
+
 ---
 
 ## Keeping learners motivated
@@ -188,25 +212,42 @@ Here are a few things you should not do in your workshop:
 
 
 
-````{challenge} What are the top issues new instructors face? (10 minutes)
 
-Brainstorm about what issues new teachers/instructors might face in interactive workshops.
-Write down your thoughts in the shared document.
- 
-```{solution} Some suggestions
- -  Keep exercise sessions too short to "save time". Better to have them as long as possible.
- -  Get the speed correct. Not too fast and not (far) too slow. 
- -  Cater to participants with different backgrounds and at different levels of experience.
- -  Expect too much of learners during exercises - just reading and understanding the task takes time.
- -  Learners not having software prerequisites installed correctly and thus not able to follow along.
- -  Try to accomplish too much or go through everything - it's OK to cut out and adapt to the audience. 
- -  Explaining *how*, but not *why*.
- -  Not using good screen sharing practices (font size, terminal history, portion of screen)
- -  Assuming learners remember everything you've covered earlier in a workshop.
- -  Forget to take sufficiently many breaks (minimum 10 minutes per hour)
+## Giving feedback for live coding examples
+
+Teaching by live coding is a
+[performance art which requires practice](https://teachtogether.tech/en/index.html#s:performance).
+These exercises aim at learning to give feedback. We will watch videos of (pretend) teaching and 
+give feedback on two axes: positive vs. negative and content vs. presentation. 
+We will use a [rubric](http://carpentries.github.io/instructor-training/demos_rubric/) (used during 
+The Carpentries teaching demos) to help take notes.
+
+Each person in the class add one point to a 2x2 grid on a whiteboard or in the shared notes 
+without duplicating any points.
+For online instructor training event, use breakout room (4-5 persons per group) to facilitate discussion. Then each group reports to the shared notes.
+
+```{figure} https://teachtogether.tech/en/figures/2x2-rubric.svg
+Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
-````
 
+```{challenge} Live coding example 1 (20 min)
+This exercise highlights some typical pitfalls that most instructors
+fall into sooner or later, and also shows how to avoid them.
+Watch closely since we will be giving feedback!
+- Watch these two videos: [video 1](https://youtu.be/bXxBeNkKmJE) and
+  [video 2](https://youtu.be/SkPmwe_WjeY)
+- What was better in video 1 and what was better in video 2?
+- Please give feedback in the shared workshop document in the 2x2 rubric.
+```
+
+```{challenge} (Optional) Live coding example 2
+
+As a group, we will watch [this video of teaching](https://www.youtube.com/watch?v=-ApVt04rB4U).
+The instructor is making several mistakes, but can you also observe anything positive?
+
+As before, give feedback on two axes: positive vs. negative and content vs. presentation. 
+What did other people see that you missed? What did they think that you strongly agree or disagree with?
+```
 
 
 
