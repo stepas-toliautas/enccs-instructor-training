@@ -14,7 +14,7 @@ training lesson from `The Carpentries <https://carpentries.org/>`__:
 - `Carpentries Instructor Training <https://carpentries.github.io/instructor-training/>`__
 
 Inspiration has also been drawn from the free online book 
-[Teaching Tech Together](https://teachtogether.tech/en/index.html) by Greg Wilson.
+`Teaching Tech Together <https://teachtogether.tech/en/index.html>`__ by Greg Wilson.
 
 After attending a workshop covering this material, learners should:
 
@@ -120,11 +120,11 @@ About the course
 
 This course gives an introduction to
 
-* Science and philosophy of teaching
-* How to teach interactive, hands-on lessons
-* How to design interactive, hands-on lessons
-* How ENCCS runs workshops
-* How ENCCS has taken the best advantage of online teaching
+* Science and philosophy of teaching.
+* How to teach interactive, hands-on workshops.
+* How to design interactive, hands-on lessons.
+* How ENCCS has taken the best advantage of online teaching.
+* How ENCCS runs workshops.
 
 Credits
 -------
