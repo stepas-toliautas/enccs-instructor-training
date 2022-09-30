@@ -45,8 +45,10 @@ background knowledge and training needs.
 ## Cognitive development and mental models
 
 Effective learning is facilitated by the creation of a well-founded *mental model*. 
-A mental model is a collection of concepts and facts, along with the relationships 
-between those concepts, which a person has about a topic. 
+**A mental model may be represented as a collection of concepts and facts, connected by relationships.** 
+The mental model of an expert in any given subject will be far larger and more complex than that of a 
+novice, including both more concepts and more detailed and numerous relationships. However, both may 
+be perfectly useful in certain contexts.
 
 For example, a long-time European resident may have an 
 advanced understanding of the location of European countries, major cities and landmarks, weather patterns, regional economies and demographic patterns, as well as the relationships 
@@ -62,6 +64,28 @@ on the complexity of their mental models.
 - An *expert* has a densely populated and connected mental model that is especially good for problem solving. They quickly connect concepts that others may not see as being related. They may have difficulty explaining how they are thinking in ways that do not rely on other features unique to their own mental model.
 
 ![Mental Models](https://carpentries.github.io/instructor-training/fig/mental_models.svg)
+
+### Concept maps
+
+Most people do not naturally visualize a mental model as a diagram of concepts and relationships. 
+Mental models are complicated! Yet, visual representation of concepts and relationships can be a 
+useful way to explore and understand hidden features of a mental model.
+
+A useful tool for exploring any network of concepts and relationships is a **concept map**.
+A concept map asks you to identify which concepts are most relevant to a topic at hand and 
+to identify how they are connected.
+
+```{figure} https://teachtogether.tech/en/figures/conceptmap-mental-models.svg
+Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+```
+
+```{challenge} Mapping a mental model (20 min)
+On a piece of paper, draw a simplified concept map of a topic that you are already teaching or 
+that you want to teach in the future. 
+- What are 3-4 core concepts involved? 
+- How are those concepts related? 
+- If you would like to try out an online tool for this exercise, visit https://excalidraw.com
+```
 
 ### Integrating new knowledge
 
@@ -107,10 +131,9 @@ correct information. Broadly speaking, misconceptions fall into three categories
     to the learner’s social identity and are the hardest to change.
 
 
-> ## Exercise: Anticipating Misconceptions
-> 
-> Describe a misconception you have encountered as a teacher or as a learner.
-{: .challenge}
+```{challenge} Describe a misconception (5 min)
+Describe a misconception you have encountered as a teacher or as a learner.
+```
 
 ---
 
@@ -120,7 +143,7 @@ Expertise is more than just knowing more facts - an expert's mental models are a
 
 - See connections between two topics or ideas that no one else can see.
 - See a single problem in several different ways.
-- Know how to solve a problem, or "what questions to ask".
+- Know intuitively how to solve a problem, or "what questions to ask".
 - Jump directly from a problem to its solution because there is a direct link between the two in   
   their mind. Where a competent practitioner would have to reason "A therefore B therefore C therefore F", the expert can go from A to F in a single step ("A therefore F").
 
