@@ -1,37 +1,45 @@
 # Teaching Mechanics
 
 ```{objectives}
-- Understand the benefits and disadvantage of online teaching compared to in-person
+- Understand the pros and cons of online teaching compared to in-person
 - Discuss practical aspects of teaching
 ```
 
 ## Online vs in-person workshops
 
 Challenges:
-- More difficult for learners to stay focused during for a full day - "Zoom fatigue"
+- More difficult for learners to stay focused during for a full day - "Zoom fatigue".
 - More confusion and cognitive overload from watching and listening to instructor while typing 
-  along or solving exercises 
-- Networking and socialisation is much more difficult
+  along or solving exercises.
+- Networking and socialisation is much more difficult.
 - Group work takes more effort to prepare to encourage interaction between learners
-- Learners more often stay quiet
-- Signaling problems or asking questions is more difficult
-- Awkwardness during silences or when multiple people start talking at the same time
-- Lack of non-verbal cues
+- Learners more often stay quiet.
+- Signaling problems or asking questions is more difficult.
+- Awkwardness during silences or when multiple people start talking at the same time.
+- Lack of non-verbal cues.
 
 Benefits:
-- More geographically inclusive
-- No travel costs
-- Possible for learners and teachers to participate in larger number of events
-- More natural format for collaborative teaching 
-- Easier to scale up
+- More geographically inclusive.
+- No travel costs.
+- Possible for learners and teachers to participate in larger number of events.
+- More natural format for collaborative teaching.
+- Easier to scale up.
 
-Solutions to some of the challenges:
-- Only teach half days
-- Avoid cognitive overload by slowing down and including more "meta talk"
-- Use icebreaker questions for general introductions and to encourage active participation
-- Learners introduce themselves in groups using breakout rooms
-- Use shared workshop document for questions and answers and to signal problems
-- Strongly recommend screen sharing and colloboration in breakout room exercises
+````{discussion} Addressing the challenges
+
+Have you encountered any of the challenges listed above? Do you have any ideas 
+for how to solve them or reduce their effects?
+
+Write down your suggestions in the shared workshop document.
+```{solution} A few ideas
+- Only teach half days.
+- Avoid cognitive overload by slowing down and including more "meta talk".
+- Use icebreaker questions for general introductions and to encourage active participation.
+- Learners introduce themselves in groups using breakout rooms.
+- Use shared workshop document for questions and answers and to signal problems.
+- Strongly recommend screen sharing and colloboration in breakout room exercises.
+```
+````
 
 
 But **what do learners actually think of online workshops compared to in-person workshops**?
@@ -155,12 +163,10 @@ Example of how a learner can arrange their screens. Instructor screenshare on th
 
 ```{figure} https://coderefinery.github.io/manuals/_images/instructor.png
 :width: 80%
-Example of how the instructor can arrange windows. Zoom is sharing a portion on the left, the right side is free for collaborative document, teaching notes, chat with other instructors etc.
+Example of how the instructor can arrange windows. Zoom is sharing a portion on the left, the right side is free for the shared document, teaching notes, chat with other instructors etc.
 ```
 
----
-
-## Shared workshop document
+### Shared workshop document
 
 Questions and frequent feedback is very important for interactive workshops,
 but questions in the main room doesn't scale to large rooms. Also, it's likely 
