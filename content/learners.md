@@ -6,12 +6,14 @@
 # Acquisition of Skill
 
 ```{questions}
-  - How do people learn?
-  - What's the difference between novices, competent practitioners and experts?
+- How do people learn?
+- Does subject expertise make someone a great teacher?
 ```
 
 ```{objectives}
-- Discuss cognitive development and mental models
+- Get an overview of cognitive development and how learners build mental models.
+- Compare and contrast three stages of skill acquisition.
+- Create a concept map to explore a simple mental model.
 ```
 
 ## Know your learners

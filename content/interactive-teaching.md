@@ -5,8 +5,14 @@
 
 # Good Interactive Teaching Practices
 
+```{questions}
+- What is cognitive load and how does it affect learning?
+- Why is motivation important?
+
 ```{objectives}
-- Discuss best practices for interactive teaching in online and in-person workshops
+- Distinguish desirable from undesirable cognitive load.
+- 
+
 ```
 
 ## Cognitive load

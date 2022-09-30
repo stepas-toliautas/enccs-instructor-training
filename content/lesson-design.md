@@ -6,11 +6,12 @@
 # Lesson Design
 
 ```{questions}
-- Are there any pedagogical best practices in developing lesson material?
+- How can we design lessons to work with, rather than against, memory constraints?
 ```
 
 ```{objectives}
-- Understand what is meant by backwards lesson design
+- Understand the principles behind backwards lesson design.
+- Remember a few tricks for facilitating memory retention.
 ```
 
 ## Backwards lesson design
