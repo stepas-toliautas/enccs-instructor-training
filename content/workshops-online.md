@@ -199,6 +199,6 @@ ENCCS uses different instruments to get feedback from learners:
 
 
 ```{keypoints}
-  - "There are many aspects to consider to deliver a successful workshop.
-  - "CodeRefinery maintains a number of manuals - use them when preparing a workshop.
+  - There are many aspects to consider to deliver a successful workshop.
+  - CodeRefinery maintains a number of manuals - use them when preparing a workshop.
 ```
