@@ -192,6 +192,8 @@ Bonus question: Why is it best practice to create a "feature" branch in your loc
 ````
 `````
 
+## Code reviews
+
 ```{callout} Why code review?
 In collaborative software development, it is standard practice to review each other's 
 code changes. This serves multiple purposes:
