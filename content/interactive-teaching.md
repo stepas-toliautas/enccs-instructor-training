@@ -8,11 +8,10 @@
 ```{questions}
 - What is cognitive load and how does it affect learning?
 - Why is motivation important?
+```
 
 ```{objectives}
 - Distinguish desirable from undesirable cognitive load.
-- 
-
 ```
 
 ## Cognitive load
@@ -139,16 +138,18 @@ Brainstorm about what issues new teachers/instructors might face in interactive 
 Write down your thoughts in the shared document.
  
 ```{solution} Some suggestions
- -  Keep exercise sessions too short to "save time". Better to have them as long as possible.
- -  Get the speed correct. Not too fast and not (far) too slow. 
+Addressing participant issues:
+ -  Get the speed correct: not too fast and not (far) too slow. 
+ -  Don't make exercise sessions too short to "save time". Better to have them as long as possible.
+ -  Don't expect too much of learners during exercises - just reading and understanding the task takes time.
  -  Cater to participants with different backgrounds and at different levels of experience.
- -  Expect too much of learners during exercises - just reading and understanding the task takes time.
- -  Learners not having software prerequisites installed correctly and thus not able to follow along.
- -  Try to accomplish too much or go through everything - it's OK to cut out and adapt to the audience. 
+ -  Learners may not have software prerequisites installed correctly and thus not able to follow along.
+ Instructor mistakes:
+ -  Trying to accomplish too much or go through everything - it's OK to cut out and adapt to the audience. 
  -  Explaining *how*, but not *why*.
  -  Not using good screen sharing practices (font size, terminal history, portion of screen)
  -  Assuming learners remember everything you've covered earlier in a workshop.
- -  Forget to take sufficiently many breaks (minimum 10 minutes per hour)
+ -  Forgetting to take sufficiently many breaks (minimum 10 minutes per hour)
 ```
 ````
 
