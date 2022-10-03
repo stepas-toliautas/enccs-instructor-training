@@ -5,7 +5,8 @@
 ```
 
 ```{objectives}
-- Learn the technicalities behind how ENCCS lessons are collaboratively developed
+- Explain how the Sphinx lesson template works.
+- Learn collaborative workflows for developing lessons.
 ```
 
 This episode focuses on **organisational** and **technical aspects**
@@ -80,12 +81,6 @@ hackathon period of fully revising a lesson and making major improvements.
 
 CodeRefinery has a [lesson-review](https://coderefinery.github.io/manuals/lesson-review/) 
 checklist to guide the review process.
-
-```{discussion}
-We now go to the
-[lesson-review](https://coderefinery.github.io/manuals/lesson-review/)
-checklist and discuss it, instead of duplicating things here.
-```
 
 ---
 
