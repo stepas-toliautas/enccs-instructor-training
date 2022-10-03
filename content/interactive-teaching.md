@@ -231,10 +231,9 @@ Here are a few things you should not do in your workshop:
   they will be!
 - Instructors are learning to teach. This also takes motivation. Deliberative practice, seeking 
   feedback, and reflecting on mistakes in the context of your own busy work life is a challenge. 
-  What will keep you energized to stay engaged with your learning process?
+  What will keep you energised to stay engaged with your learning process?
 
-
-
+---
 
 ## Giving feedback for live coding examples
 
@@ -245,7 +244,7 @@ give feedback on two axes: positive vs. negative and content vs. presentation.
 We will use a [rubric](http://carpentries.github.io/instructor-training/demos_rubric/) (used during 
 The Carpentries teaching demos) to help take notes.
 
-Each person in the class add one point to a 2x2 grid on a whiteboard or in the shared notes 
+Each person in the class adds one point to a 2x2 grid on a whiteboard or in the shared notes 
 without duplicating any points.
 For online instructor training event, use breakout room (4-5 persons per group) to facilitate discussion. Then each group reports to the shared notes.
 
@@ -253,7 +252,7 @@ For online instructor training event, use breakout room (4-5 persons per group) 
 Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
 
-```{challenge} Live coding example 1 (20 min)
+`````{challenge} Live coding example 1 (20 min)
 This exercise highlights some typical pitfalls that most instructors
 fall into sooner or later, and also shows how to avoid them.
 Watch closely since we will be giving feedback!
@@ -261,7 +260,31 @@ Watch closely since we will be giving feedback!
   [video 2](https://youtu.be/SkPmwe_WjeY)
 - What was better in video 1 and what was better in video 2?
 - Please give feedback in the shared workshop document in the 2x2 rubric.
+
+````{solution} Template for feedback rubric
 ```
+Positive Content:
+- 
+- 
+- 
+
+Content Opportunities for Growth:
+- 
+- 
+- 
+
+Positive Delivery:	
+- 
+- 
+- 
+
+Delivery Opportunities for Growth
+- 
+- 
+- 
+```
+````
+`````
 
 ```{challenge} (Optional) Live coding example 2
 
