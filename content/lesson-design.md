@@ -1,6 +1,6 @@
 ```{instructor-note}
    - 20 min teaching
-   - 30 min exercises
+   - 20 min exercises
    - 45 min practice (optional)
 ```   
 
@@ -42,10 +42,10 @@ both learners and instructors.
 
 In practice, it's best to start defining your target audience by answering to questions
 such as:
-- **What is the expected educational level of my audience?** 
+- **What is the expected educational or skill level of my audience?** 
 - **Have they been already exposed to the technologies I am planning to teach?** 
 - **What tools do they already use?** 
-- **What are the main issues they are currently experiencing?**. 
+- **What are the main issues they are currently experiencing?**
 
 Once you clarified your target audience, it is useful to create
 **learner personas**. This will help you during the development process by
@@ -253,7 +253,7 @@ get stuck at exercise 2, they will not be able to do exercises 3 to N.
 ## Practice backwards design
 
 
-```{discussion} The goal here is to discuss and provide examples on backwards-design of a lesson.
+```{discussion} Discuss the backwards-design of a lesson
 
 Let's take as an example the *[HPC Carpentry lesson](https://carpentries-incubator.github.io/hpc-intro/)*
 
@@ -312,7 +312,7 @@ Let's take as an example the *[HPC Carpentry lesson](https://carpentries-incubat
   - Make a concrete example to run a specific software on your HPC (something like GROMACS).
 ```
 
-```{challenge} Backwards-design a lesson
+```{challenge} Backwards-design a lesson (45 min)
 Choose a simple lesson topic and apply backwards lesson design.  You
 won't get all the way through, but come up with a logical
 progression of exercises.

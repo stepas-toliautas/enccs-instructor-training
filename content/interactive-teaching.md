@@ -1,6 +1,6 @@
 ```{instructor-note}
    - 20 min teaching
-   - 30 min exercises   
+   - 25 min exercises   
 ```
 
 # Good Interactive Teaching Practices

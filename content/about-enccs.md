@@ -94,10 +94,10 @@ immediately.
 
 - Learners need to practice what they are learning in real time and get **feedback** on what they are doing. That is why the teaching approach relies on **live coding**.
 - Learners best learn in a respectful and motivating classroom environment, so it's important to use a **Code of Conduct** and avoid certain demotivating language. 
-- Learners are encouraged to help each other and collaborate during workshops as this improves their confidence and reinforces concepts taught.
+- Learners are encouraged to **help each other and collaborate** during workshops as this improves their confidence and reinforces concepts taught.
 
 
-### Key features 
+### Specific aspects 
 
 - Teaching material (lessons) available in advance and not PDF slides.
 - Lessons suitable also for self study.
