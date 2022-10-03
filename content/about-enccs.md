@@ -41,12 +41,6 @@ approach to teaching and highlight parts that are most important for teaching EN
 We encourage you to further study the Carpentry lesson later and to sign up for a 2-day Carpentry
 intructor training workshop.
 
-The "Carpentries" approach to teaching is based on:
-
-- Applying research-based teaching principles, especially as they apply to the 
-  Carpentries audience.
-- Understanding the importance of a respectful and inclusive classroom environment.
-
 ### Carpentries audience
 
 The Carpentries aims to teach computational **competence** to learners through an applied approach, avoiding the theoretical and general in favor of the practical and specific.
@@ -92,7 +86,7 @@ of machine learning methods.
 ## Teaching philosophy
 
 ENCCS, CodeRefinery and The Carpentries all teach computational competences to learners through 
-an applied approach. 
+an applied approach founded on research-based teaching principles.
 Usually, we avoid the theoretical and general in favor of the practical and specific. By 
 showing learners how to solve specific problems with specific tools and providing hands-on 
 practice, we develop learners’ confidence and empower them to start applying new knowledge 
