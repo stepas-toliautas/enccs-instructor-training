@@ -159,6 +159,20 @@ Addressing participant issues:
 
 ## Keeping learners motivated
 
+People learn best when they care about a topic and believe they can master it with a reasonable 
+investment of time and effort. A distinction is often made between **extrinsic motivation**, 
+which we feel when we do something to avoid punishment or earn a reward, and **intrinsic motivation**, 
+which is what we feel when we find something personally fulfilling.
+
+According to [self-determination theory](https://en.wikipedia.org/wiki/Self-determination_theory), 
+the three drivers of intrinsic motivation are:
+
+- **Competence**: the feeling that you know what you’re doing.
+- **Autonomy**: the feeling of being in control of your own destiny.
+- **Relatedness**: the feeling of being connected to others.
+
+Well-designed lessons and teaching encourage all three. 
+
 **Belonging**
 
 - It's been estimated that nearly 70\% of individuals will experience 
