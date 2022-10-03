@@ -42,16 +42,55 @@ Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html),
 
 ---
 
+## Live demos and type-along sessions
+
+One way to manage cognitive load as tasks become more complex is by using guided practice: creating 
+a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
+feedback at each step before transferring attention to a new feature.
+
+Worked examples, i.e. step-by-step demonstrations of how to perform particular tasks,  
+can [reduce cognitive load](https://en.wikipedia.org/wiki/Worked-example_effect#Faded_worked_examples) 
+as they provide the scaffolding needed for learners to transfer 
+knowledge from working memory to long-term memory. Type-along sessions are particularly useful 
+as learners get to develop their "muscle memory" while the instructor slowly walks through 
+and explains each step. Splitting the task into well defined steps also helps learners 
+see the underlying structure of a problem and how it can be transferred to other types of 
+problems.
+
+Exercises which learners should solve by themselves can build on the type-along 
+sessions but with some of the scaffolding removed so that they need to complete some 
+problem steps (faded examples). 
+
+### Stick to the script
+
+Learning can be enhanced by combining multiple information sources, for example by showing 
+a piece of code (or a graphic or list of bullet points) while explaining it aloud. 
+But make sure to stick to the script! 
+Conflicting information splits the attention and leads to unnecessary cognitive load.
+
+### Copy-pasting vs manual typing  
+
+Manually typing out code into a programming environment takes significantly longer time than 
+copy-pasting it from lesson material, but learners usually strongly prefer it. Typing out 
+every single code covered in a workshop might be too much, but instructors should try to 
+manually write out as much as is reasonable to do.
+
+### Good software practices
+
+We shouldn't assume that all learners are aware of best software development 
+practices. It is therefore a good idea to adhere to good practices
+in demos and type-along sessions (e.g. by following style conventions or using version control 
+and testing in code examples), so that participants become acquainted with them as a side 
+benefit of attending a workshop.
+
+---
+
 ## The importance of going slow
 
 It takes work to actively assess mental models throughout a workshop; this also takes time. This can 
 make Instructors feel conflicted about using formative assessment routinely. However, the need to 
 conduct routine assessment is not the only reason why a workshop should proceed more slowly than you 
 think.
-
-Because your learners' mental models will likely be less densely connected than your own, a 
-conclusion that seems obvious to you will not seem that way to your learners. It is important to 
-explain what you are doing step-by-step, and how each step leads to the next one.
 
 ### Taking advantage of errors
 
@@ -93,46 +132,6 @@ course.
 
 ---
 
-## Live demos and type-along sessions
-
-One way to manage cognitive load as tasks become more complex is by using guided practice: creating 
-a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
-feedback at each step before transferring attention to a new feature.
-
-Worked examples, i.e. step-by-step demonstrations of how to perform particular tasks,  
-can [reduce cognitive load](https://en.wikipedia.org/wiki/Worked-example_effect#Faded_worked_examples) 
-as they provide the scaffolding needed for learners to transfer 
-knowledge from working memory to long-term memory. Type-along sessions are particularly useful 
-as learners get to develop their "muscle memory" while the instructor slowly walks through 
-and explains each step. Splitting the task into well defined steps also helps learners 
-see the underlying structure of a problem and how it can be transferred to other types of 
-problems.
-
-Exercises which learners should solve by themselves can build on the type-along 
-sessions but with some of the scaffolding removed so that they need to complete some 
-problem steps (faded examples). 
-
-### Stick to the script
-
-Learning can be enhanced by combining multiple information sources, for example by showing 
-a piece of code (or a graphic or list of bullet points) while explaining it aloud. 
-But make sure to stick to the script! 
-Conflicting information splits the attention and leads to unnecessary cognitive load.
-
-### Copy-pasting vs manual typing  
-
-Manually typing out code into a programming environment takes significantly longer time than 
-copy-pasting it from lesson material, but learners usually strongly prefer it. Typing out 
-every single code covered in a workshop might be too much, but instructors should try to 
-manually write out as much as is reasonable to do.
-
-### Good software practices
-
-We shouldn't assume that all learners are aware of best software development 
-practices. It is therefore a good idea to adhere to good practices
-in demos and type-along sessions (e.g. by following style conventions or using version control 
-and testing in code examples), so that participants become acquainted with them as a side 
-benefit of attending a workshop.
 
 ````{challenge} What are the top issues new instructors face? (10 minutes)
 Brainstorm about what issues new teachers/instructors might face in interactive workshops.
