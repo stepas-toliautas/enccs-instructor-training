@@ -174,14 +174,28 @@ When you are stuck thinking "how can I make an exercise that covers X", think of
 inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use 
 different types:
 
-Basic types:
+**Types of exercises**:
 
 - Multiple choice (easy to get feedback via a classroom tool - try to design each wrong answer so that it identifies a specific misconception).
 - Code yourself (traditional programming)
 - Code yourself + multiple choice to see what the answer is (allows you to get feedback)
-- Inverted coding (given code, have to debug)
+- Minimal fix (given broken code, make it work)
 - Parsons problems (working solution but lines in random order, learner must only put in proper order)
 - Fill in the blank, [faded problems](https://en.wikipedia.org/wiki/Worked-example_effect)
+- Tracing execution
+- Tracing values through code flow 
+- Reverse execution (find input that gives an output)
+- Theme and variations (working code, adapt to other type of situation/problem)
+- Refactoring
+- Draw a diagram
+- Label diagram
+- Matching problem: two sets of Q/A, match them.
+
+
+
+```{figure} https://teachtogether.tech/en/figures/conceptmap-assessment.svg
+Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+```
 
 ````{discussion} Using formative assessment to identify misconceptions
 Formative assessment can be used to tease out misconceptions using for example multiple choice 
@@ -226,22 +240,6 @@ This exercises assumes that you are teaching a technical topic like programming 
 - Present your example in a small group and let others in your team guess which level you intended 
   the example for!
 ```
-
-More advanced:
-
-- Tracing execution
-- Tracing values through code flow (e.g. what is the sequence of values that x takes on?)
-- Reverse execution (find input that gives an output)
-- Minimal fix (given broken code, make it work)
-- Theme and variations (working code, adapt to other type of situation/problem)
-- Refactoring
-
-More conceptual:
-
-- Draw a diagram
-- Label diagram
-- Matching problem: two sets of Q/A, match them.
-
 
 When designing exercises, consider that some participants will get stuck
 and may want to re-join at a later exercise. In other words it is nice
