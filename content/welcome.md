@@ -46,7 +46,6 @@ We strive to follow the Contributor Covenant Code of Conduct
 to foster an inclusive and welcoming environment for everyone.
 
 In short:
-
 - Use welcoming and inclusive language
 - Be respectful of different viewpoints and experiences
 - Gracefully accept constructive criticism
@@ -57,12 +56,12 @@ In short:
 Furthermore, as this is a hands-on, interactive workshop:
 - Be kind to each other and help each other as best you can.
 - If you can't help someone or there is some problem, let someone know.
-- If you notice something that prevents you from learning as well as you can, let us know and don't suffer silently.
-- Also let us know about the "little things":
-  - too low volume?
-  - font size too small?
-  - generally confusing instructor?
-  - not enough breaks?
+
+Finally, if you notice something that prevents you from learning as well as you can, let us know and don't suffer silently, even the "little things":
+  - Volume too low?
+  - Font size too small?
+  - Generally confusing instructor?
+  - Not enough breaks?
 
 ---
 

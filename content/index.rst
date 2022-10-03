@@ -36,13 +36,13 @@ After attending a workshop covering this material, learners should:
    This course has no strict prerequisites, but
 
    * It is helpful if you have attended an ENCCS or CodeRefinery
-     workshop, which teach in an interactive and hands-on way.
+     workshop, which are taught in an interactive and hands-on way.
 
-   * We assume you already have competence in the technical tools you
+   * We assume you already have competence in the technical topics and tools you
      want to teach.
 
    * While not a prerequisite for this course, version control (Git)
-     is necessary to contribute to lessons development the way we show
+     is necessary to contribute to lesson development the way we show
      here (but the lesson design concepts are applicable to other
      styles, too).
 

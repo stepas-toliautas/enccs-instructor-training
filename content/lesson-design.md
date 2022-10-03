@@ -1,6 +1,7 @@
 ```{instructor-note}
    - 20 min teaching
-   - 30 min exercises   
+   - 30 min exercises
+   - 45 min practice (optional)
 ```   
 
 # Lesson Design

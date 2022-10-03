@@ -14,7 +14,7 @@ Goals of this teaching practice:
 - After each presentation, other group members give feedback with the same 2x2 rubric 
   as used in {doc}`interactive-teaching`.  
 - We will practice improving our 5-minute segment by taking the feedback into account.
-- In both session you can teach the same topic/segment but if you prefer you can also
+- In both sessions you can teach the same topic/segment but if you prefer you can also
   change the topic/aspect for the second session.
 
 ```{figure} https://teachtogether.tech/en/figures/2x2-rubric.svg
