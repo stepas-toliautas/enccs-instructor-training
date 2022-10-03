@@ -92,17 +92,6 @@ make Instructors feel conflicted about using formative assessment routinely. How
 conduct routine assessment is not the only reason why a workshop should proceed more slowly than you 
 think.
 
-### Taking advantage of errors
-
-Experts can quickly diagnose errors which may seem cryptic to novices or competent practitioners. 
-If faced with an error message while teaching, an expert will often automatically diagnose and solve 
-a problem before a novice has even finished reading the error message. Because of this, it is very important while teaching to be explicit about the process you are using to engage with errors, even if they seem trivial to you, as they often will.
-
-When faced with an error message because of a typo, logical mistake or whatever, take the time to 
-explain what happened and how the error message can be understood. This will not only teach learners 
-to understand and read stack traces, but also give them confidence from seeing that even an expert 
-makes mistakes!
-
 ### Expert awareness gap 
 
 Because your learners’ mental models will likely be less densely connected than your own, a 
@@ -110,6 +99,19 @@ conclusion that seems obvious to you will not seem that way to your learners. It
 explain what you are doing step-by-step, and how each step leads to the next one.
 
 Note that the expert awareness gap is also referred to as "expert blind spot". 
+
+### Taking advantage of errors
+
+Experts can quickly diagnose errors which may seem cryptic to novices or competent practitioners. 
+If faced with an error message while teaching, an expert will often automatically diagnose and solve 
+a problem before a novice has even finished reading the error message. Because of this, it is very 
+important while teaching to be explicit about the process you are using to engage with errors, even if 
+they seem trivial to you, as they often will.
+
+When faced with an error message, take the time to explain what happened and how the error message 
+can be understood. This will not only teach learners to understand and read stack traces, but also 
+give them confidence from seeing that even an expert makes mistakes!
+
 
 ### Meta-talk
 
