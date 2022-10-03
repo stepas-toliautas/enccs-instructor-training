@@ -1,6 +1,6 @@
 ```{instructor-note}
    - 20 min teaching
-   - 25 min exercises   
+   - 30 min exercises   
 ```
 
 # Good Interactive Teaching Practices
@@ -34,9 +34,6 @@ desirable and can increase learning. However, there are limits. Managing all for
 load, with particular attention to extraneous load, can help prevent **cognitive overload** from 
 impeding learning altogether.
 
-One way to manage cognitive load as tasks become more complex is by using guided practice: creating 
-a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
-feedback at each step before transferring attention to a new feature.
 
 ```{figure} https://teachtogether.tech/en/figures/conceptmap-cognitive-load.svg
 Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -98,7 +95,11 @@ course.
 
 ## Live demos and type-along sessions
 
-Using worked examples, i.e. step-by-step demonstrations of how to perform particular tasks,  
+One way to manage cognitive load as tasks become more complex is by using guided practice: creating 
+a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with 
+feedback at each step before transferring attention to a new feature.
+
+Worked examples, i.e. step-by-step demonstrations of how to perform particular tasks,  
 can [reduce cognitive load](https://en.wikipedia.org/wiki/Worked-example_effect#Faded_worked_examples) 
 as they provide the scaffolding needed for learners to transfer 
 knowledge from working memory to long-term memory. Type-along sessions are particularly useful 
