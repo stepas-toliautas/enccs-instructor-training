@@ -28,7 +28,7 @@ After attending this workshop, learners should:
 | 17:00 | Practice: teaching and giving feedback | |
 
 
-#### Notes
+### Notes
 
 - For extended workshop (full day/ 2 half-days), good place to split is after "Lesson design" episode and subsequent practice on backwards design.
 - For extended or practical-first workshop, participants could also be encouraged to come up with a topic of a (short) presentation in advance, to be used in backwards-design and teaching/feedback practice sessions.
