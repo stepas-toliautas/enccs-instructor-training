@@ -1,3 +1,8 @@
+```{instructor-note}
+   - 15 min teaching
+   - 30 min exercises   
+```
+
 # Collaborative Lesson Development
 
 ```{questions}
@@ -34,7 +39,7 @@ Why static sites?
 - Templates can be freely re-used
 
 
-```{challenge} Explore a Sphinx lesson
+```{challenge} Explore a Sphinx lesson (10 min)
 - Open [this very lesson in GitHub](https://github.com/ENCCS/instructor-training) 
   (it uses the same format as typical CodeRefinery and ENCCS lessons) (you can also click 
   on the "Edit on GitHub" link in the top-right corner).
@@ -48,7 +53,7 @@ Why static sites?
   content, it can be a pure test pull request.
 ```
 
-```{challenge} Create your own lesson
+```{challenge} Create your own lesson (10 min)
 Use the [sphinx-lesson-template](https://github.com/ENCCS/sphinx-lesson-template) to create a new 
 lesson of your choice. 
 - Click "Use this template" and choose a name and where you want to create it. Make it Public and 
@@ -109,7 +114,7 @@ In the **forking layout**, again we call one repository the “central” reposi
 - Maintainer still has **full control over what is merged**.
 - There is now **more than one remote** to work with.
 
-`````{challenge} Practice collaborative workflow
+`````{challenge} Practice collaborative workflow (10 min)
 
 Here we will practice the forking workflow. **NOTE**: You will need a 
 [GitHub account](https://github.com/signup) to perform this exercise.
