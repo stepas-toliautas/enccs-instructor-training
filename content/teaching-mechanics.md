@@ -199,6 +199,16 @@ Some features of HackMD and how it compares to other modes of communication:
 - With too few people, it can turn out to be very quiet.
 - Example: [https://hackmd.io/@enccs/dl-intro-feb2022](https://hackmd.io/@enccs/dl-intro-feb2022)
 
+```{callout} Breaking the ice
+A shared workshop document is useful to get learners engaged in a workshop from the start, 
+and also for breaking down social barriers and facilitating networking in groups.
+
+Some strategies for icebreaker questions:
+- Use both social and scientific/professional icebreaker sessions.
+- Have breakout rooms in small groups to complete a small social task, multiple times with new groups.
+- Alternatively, start every day with an icebreaking activity in new breakout rooms to be used that day.
+```
+
 ---
 
 ## Team teaching
