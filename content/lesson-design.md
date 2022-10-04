@@ -72,18 +72,6 @@ the bottom.
 Image credit: Vanderbilt University Center for Teaching
 ```
 
-### Revisiting Learning objectives
-
-When using existing teaching material, *backwards design*  principles might be applied as
-follows:
-
-1. Review the lesson's learning objectives carefully, thinking about how they will work for your audience
-2. Scan the lesson to identify promising points to check in with your learners, using formative assessment to verify that objectives have been met
-3. Review the connecting content in detail to be sure everything works and you have anticipated likely problems and questions.
-
-We strongly encourage you to read Learning objectives before teaching a lesson and to review 
-whether they still match the content of the lesson.
-
 ```{challenge} How do you design? (10 min)
 Discuss either in groups or via collaborative document:
 - How do you start when you design a new lesson/presentation?
@@ -134,9 +122,9 @@ When designing lessons we can try to maximise memory retention through a number 
 ```{callout} Formative and summative assessment
 *Formative assessment* takes place during teaching and learning. It sounds like
 a fancy term, but it can be used to describe any interaction or activity
-that provides feedback to both instructors and learners about learners' level of understanding of the
-material. For learners, this feedback can help focus their study efforts. For instructors, it allows them to refocus
-their instruction to respond to challenges that learners are facing.
+that provides **feedback to both instructors and learners about learners' level of understanding** 
+of the material. For learners, this feedback can help focus their study efforts. For instructors, it 
+allows them to refocus their instruction to respond to challenges that learners are facing.
 Used continuously.
  
 *Summative assessment* is used
@@ -151,10 +139,6 @@ Learners either "pass" or "fail" a summative assessment.
 
 Well designed formative assessment tasks - i.e. quick questions and exercises - 
 can go a long way towards correcting misconceptions and expanding the mental models of learners.
-
-The goal of formative assessment is twofold:
-- Instructors can assess the progress of learners.
-- Learners put in practice the skills that you have included in your skills list.
 
 Here are some suggestions to keep in mind when designing exercises:
 
