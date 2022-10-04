@@ -1,3 +1,8 @@
+```{instructor-note}
+   - 10 min teaching
+   - 10 min exercises   
+```
+
 # Teaching Mechanics
 
 ```{objectives}
