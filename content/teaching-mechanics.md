@@ -30,10 +30,10 @@ Benefits:
 - More natural format for collaborative teaching.
 - Easier to scale up.
 
-````{discussion} Addressing the challenges
+````{challenge} Addressing the challenges
 
-Have you encountered any of the challenges listed above? Do you have any ideas 
-for how to solve them or reduce their effects?
+- Have you encountered any of the challenges listed above? 
+- Do you have any ideas for how to solve them or reduce their effects?
 
 Write down your suggestions in the shared workshop document.
 ```{solution} A few ideas
