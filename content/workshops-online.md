@@ -15,21 +15,6 @@
 - Become comfortable in organising large online workshops
 ```
 
-## Online teaching discussion
-
-````{discussion} Discussion: Online vs in-person
-
-Write down your thoughts in the notes:
-- Compare and contrast the benefits of online teaching with
-  in-person: {advantage, disadvantage} × {content, presentation}
-- How do you have to prepare differently?
-- What are your own experiences?
-
-```{solution} Survey results from ENCCS workshops
-![online-vs-inperson](img/online_vs_inperson.png)
-```
-````
-
 ## General workshop arrangements
 
 - Select a coordinator, recruit instructors and helpers (at least 3 is important),
@@ -176,22 +161,50 @@ Feedback is an essential part of effective learning. Feedback is bi-directional:
 - To be effective, instructors need feedback on their learners' progress. Learners can also check their progress and ask relevant questions to get clarification.
 - Instructors also need feedback on their teaching. For instance, this can help them to adapt the pace, add/skip optional exercises and improve their teaching.
 
-This feedback comes through what is called *formative assessments* (in contrast
-  to *summative assessment*).
-
-Learners don't "pass" or "fail" formative assessments; they are simply a feedback mechanism.
-For example, a music teacher might ask a learner to play a scale very slowly
-in order to see whether they are breathing correctly,
-and if not, what they should change.
-
-Formative assessment is most useful when it happens frequently 
-and when the results are easily interpretable by the learner and instructor.
-
 ENCCS uses different instruments to get feedback from learners:
 
-- Surveys: we will discuss ENCCS surveys in the episode {doc}`workshops-online`.
-- Exercises and quizzes: we have many exercises during ENCCS workshops and also use polls to keep participants engaged and to obtain quick feedback on their progress.
+- Surveys: Discussed below
+- Plus one, minus one: After each day of a workshop (or after a module), ask participants to 
+  name one thing they liked and one thing that could be improved. 
+- Formative assessment (exercises and quizzes): we have many exercises during ENCCS workshops and also use polls to keep participants engaged and to obtain quick feedback on their progress.
 
+### Post-workshop survey
+
+Immediately after a workshop finishes we ask participants to fill a standardized 
+post-workshop survey. Survey results often contain valuable information which can and 
+should be used to improve future workshops.
+ENCCS post-workshop surveys contain the following questions:
+- Overall, how would you rate this training event? 
+  - scale 1-10
+- How did you like the online format compared to an in-person event?
+  - Better than in-person, Equivalent to in-person, Worse than in-person
+- What did you like best about the lesson material, exercises and teaching? Where should we improve?
+  - Free-form answer
+- What topic did you find most interesting, relevant or useful?
+  - Free-form answer
+- What topic did you find least interesting, relevant or useful?
+  - Free-form answer
+- What did you like best regarding event organisation? Where should we improve?
+  - Free-form answer
+- Would you recommend this training event to colleagues and friends?
+  - Yes, No, Maybe
+- Will what you learned at the event be useful to you in the near future?
+  - Yes, No, Maybe
+- Length of course was
+  - Adequate, Too long, Too short
+- Depth of content was
+  - Adequate, Too superficial, Too deep
+- The pace of teaching was
+  - Adequate, Too slow, Too fast
+- The lesson material was well prepared
+  - Agree completely, Agree, No strong feelings, Disagree, Disagree completely
+- Hands-on exercises and demonstrations were
+  - Adequate, Too few, Too many
+- Which topics would you be most interested in learning about in future training events?
+  - Free form answer
+- Any other comments?
+  - Free form answer
+      
 
 ### See also
 
@@ -200,5 +213,5 @@ ENCCS uses different instruments to get feedback from learners:
 
 ```{keypoints}
   - There are many aspects to consider to deliver a successful workshop.
-  - CodeRefinery maintains a number of manuals - use them when preparing a workshop.
+  - CodeRefinery maintains a number of manuals which can be used when preparing a workshop.
 ```
