@@ -17,7 +17,7 @@ Goals of this teaching practice:
 - In both sessions you can teach the same topic/segment but if you prefer you can also
   change the topic/aspect for the second session.
 
-```{figure} https://teachtogether.tech/en/figures/2x2-rubric.svg
+```{figure} img/2x2-rubric.png
 2x2 Rubric for feedback
 ```
 

@@ -35,7 +35,7 @@ load, with particular attention to extraneous load, can help prevent **cognitive
 impeding learning altogether.
 
 
-```{figure} https://teachtogether.tech/en/figures/conceptmap-cognitive-load.svg
+```{figure} img/conceptmap-cognitive-load.png
 Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
 
@@ -248,7 +248,7 @@ Each person in the class adds one point to a 2x2 grid on a whiteboard or in the 
 without duplicating any points.
 For online instructor training event, use breakout room (4-5 persons per group) to facilitate discussion. Then each group reports to the shared notes.
 
-```{figure} https://teachtogether.tech/en/figures/2x2-rubric.svg
+```{figure} img/2x2-rubric.png
 Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
 

@@ -24,7 +24,7 @@ through distinct stages through practice and formal instruction. In simplified f
 
 ### Novices, competent practitioners and experts
 
-![Novice, Competent Practitioner, Expert](https://carpentries.github.io/instructor-training/fig/skill-level.svg)
+![Novice, Competent Practitioner, Expert](img/skill-level.png)
 
 -   *Novice*: someone who doesn't know what they don't know, i.e.,
     they don't yet know what the key ideas in the domain are or how they relate.
@@ -61,7 +61,7 @@ In other words, their mental model of Europe is more complex compared with their
 of other countries.
 ```
 
-![Mental Models](https://carpentries.github.io/instructor-training/fig/mental_models.svg)
+![Mental Models](img/mental_models.png)
 
 We can distinguish between a *novice* and a *competent practitioner* for a given domain based 
 on the complexity of their mental models.
@@ -81,7 +81,7 @@ A useful tool for exploring any network of concepts and relationships is a **con
 A concept map asks you to identify which concepts are most relevant to a topic at hand and 
 to identify how they are connected.
 
-```{figure} https://teachtogether.tech/en/figures/conceptmap-mental-models.svg
+```{figure} img/conceptmap-mental-models.png
 Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
 

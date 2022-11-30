@@ -89,7 +89,7 @@ slow to access. Short-term memory (also called working memory), which we use to 
 about things is much faster but also much smaller. It has been estimated that the average 
 adult's short-term memory can hold 7±2 items for a few seconds before things started to drop out. 
 
-```{figure} https://teachtogether.tech/en/figures/cognitive-architecture.svg
+```{figure} img/cognitive-architecture.png
 Figure adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
 
@@ -177,7 +177,7 @@ different types:
 
 
 
-```{figure} https://teachtogether.tech/en/figures/conceptmap-assessment.svg
+```{figure} img/conceptmap-assessment.png
 Adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 ```
 
