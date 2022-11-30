@@ -97,7 +97,9 @@ on a repository-hosting website like [GitHub](https://github.com/),
 
 **Centralized workflow**
 
-![Centralized](https://coderefinery.github.io/git-collaborative/_images/centralized.svg)
+```{figure} img/centralized.png
+:width: 50%
+```
 
 - Typically all developers have both read and write permissions (double-headed arrows).
 - Suited for cases where **all developers are in the same group or organization or project**.
@@ -106,7 +108,9 @@ on a repository-hosting website like [GitHub](https://github.com/),
 
 **Forking workflow**
 
-![Forking](https://coderefinery.github.io/git-collaborative/_images/forking-overview.svg)
+```{figure} img/forking-overview.png
+:width: 50%
+```
 
 In the **forking layout**, again we call one repository the “central” repository but people push to forks (their own copies of the repository on GitHub/GitLab/Bitbucket).
 
