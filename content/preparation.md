@@ -16,8 +16,7 @@ later on during the workshop.
 
 ## Read "How to help someone use a computer" (5 min)
 
-[How to help someone use a computer, by Phil
-Agre](https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/).
+[How to help someone use a computer, by Phil Agre](https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/).
 Summary: Most of our teaching challenge is helping people to overcome bad user
 interface design.
 
